@@ -1,6 +1,28 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
 import { writeFile, mkdir } from 'fs/promises';
 import path from 'path';
+
+// Configure Neon S3 client if credentials exist
+const s3Endpoint = process.env.AWS_ENDPOINT_URL_S3;
+const s3Region = process.env.AWS_REGION || 'us-east-2';
+const s3AccessKey = process.env.AWS_ACCESS_KEY_ID;
+const s3SecretKey = process.env.AWS_SECRET_ACCESS_KEY;
+const bucketName = process.env.NEON_STORAGE_BUCKET || 'assets';
+
+const hasNeonStorage = Boolean(s3Endpoint && s3AccessKey && s3SecretKey);
+
+const s3 = hasNeonStorage
+  ? new S3Client({
+      endpoint: s3Endpoint,
+      region: s3Region,
+      forcePathStyle: true, // required: Neon uses path-style addressing
+      credentials: {
+        accessKeyId: s3AccessKey!,
+        secretAccessKey: s3SecretKey!,
+      },
+    })
+  : null;
 
 export async function POST(req: NextRequest) {
   try {
@@ -35,19 +57,37 @@ export async function POST(req: NextRequest) {
       .replace(/(^-|-$)/g, '');
     const fileName = `${cleanBase || 'upload'}-${Date.now()}${originalExt.toLowerCase()}`;
 
-    // Target upload directory in Next.js public/uploads
-    const uploadDir = path.join(process.cwd(), 'public', 'uploads');
-    await mkdir(uploadDir, { recursive: true });
+    let publicUrl = '';
 
-    const filePath = path.join(uploadDir, fileName);
-    await writeFile(filePath, buffer);
+    if (s3) {
+      // Upload to Neon Object Storage
+      const objectKey = `uploads/${fileName}`;
+      await s3.send(
+        new PutObjectCommand({
+          Bucket: bucketName,
+          Key: objectKey,
+          Body: buffer,
+          ContentType: file.type,
+          CacheControl: 'public, max-age=31536000, immutable',
+        })
+      );
 
-    const publicUrl = `/uploads/${fileName}`;
+      // S3 path-style public URL on Neon
+      publicUrl = `${s3Endpoint!.replace(/\/$/, '')}/${bucketName}/${objectKey}`;
+    } else {
+      // Fallback to local storage if S3 credentials not provided
+      const uploadDir = path.join(process.cwd(), 'public', 'uploads');
+      await mkdir(uploadDir, { recursive: true });
+      const filePath = path.join(uploadDir, fileName);
+      await writeFile(filePath, buffer);
+      publicUrl = `/uploads/${fileName}`;
+    }
 
     return NextResponse.json({
       success: true,
       url: publicUrl,
       fileName,
+      storage: s3 ? 'neon-object-storage' : 'local',
       size: file.size,
       mimeType: file.type,
     });

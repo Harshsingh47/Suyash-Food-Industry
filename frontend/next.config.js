@@ -4,6 +4,14 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
+        hostname: '*.storage.*.neon.tech',
+      },
+      {
+        protocol: 'https',
+        hostname: 'br-bitter-hill-bdnf100y.storage.c-8.us-east-2.aws.neon.tech',
+      },
+      {
+        protocol: 'https',
         hostname: 'suyashfoodindustries.in',
       },
       {
