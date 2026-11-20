@@ -508,29 +508,22 @@ export default async function HomePage() {
                 </div>
 
                 {/* Visual Imagery of Products */}
-                <div className="relative py-6 flex items-center justify-center">
-                  <div className="relative w-48 h-56 sm:w-56 sm:h-64 flex items-center justify-center">
-                    <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-amber-400/20 to-emerald-400/20 blur-xl scale-95" />
-                    
-                    {/* Apricot Oil Bottle */}
-                    <div className="relative z-10 w-28 h-52 sm:w-32 sm:h-60 drop-shadow-[0_20px_25px_rgba(0,0,0,0.5)] transform -rotate-3 hover:rotate-0 transition-transform duration-500">
-                      <Image
-                        src="/images/hero-apricot-oil-3d.png"
-                        alt="Pure Wild Apricot Oil"
-                        fill
-                        className="object-contain"
-                      />
+                <div className="relative my-4 rounded-2xl overflow-hidden border border-white/20 shadow-xl group aspect-[4/3] bg-emerald-950/40">
+                  <Image
+                    src="/images/wholesale-showcase-b2b.jpg"
+                    alt="Suyash Food Industries Wholesale Himalayan Produce Showcase"
+                    fill
+                    className="object-cover group-hover:scale-105 transition-transform duration-700"
+                    sizes="(max-width: 640px) 100vw, 420px"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-4">
+                    <div className="flex items-center gap-1.5 text-emerald-300 text-[11px] font-bold tracking-wide">
+                      <Sparkles className="w-3.5 h-3.5 text-gold" />
+                      <span>Farm-Gate Single Origin • Cold-Pressed & Handcrafted</span>
                     </div>
-
-                    {/* Desi Ghee Jar */}
-                    <div className="absolute right-0 bottom-2 z-20 w-24 h-28 sm:w-28 sm:h-32 drop-shadow-[0_15px_20px_rgba(0,0,0,0.6)] transform translate-x-3 hover:scale-105 transition-transform duration-500">
-                      <Image
-                        src="/images/hero-desi-ghee-3d.png"
-                        alt="Traditional Bilona Cow Ghee"
-                        fill
-                        className="object-contain"
-                      />
-                    </div>
+                    <p className="text-white text-xs font-serif font-bold mt-0.5">
+                      Saroj's Heritage, Dimple's Jar & Nilansh Gold
+                    </p>
                   </div>
                 </div>
 
