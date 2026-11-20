@@ -12,7 +12,10 @@ import {
   Quote,
   ShoppingBag,
   HeartHandshake,
-  Sprout
+  Sprout,
+  Phone,
+  Truck,
+  Package
 } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
 import HeroCarousel from '@/components/hero/HeroCarousel';
@@ -393,36 +396,165 @@ export default async function HomePage() {
       </section>
 
       {/* 9. WHATSAPP ENQUIRY BANNER CTA */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-gradient-to-r from-forest to-deep-green text-white rounded-3xl p-8 sm:p-12 lg:p-16 text-center space-y-6 shadow-xl relative overflow-hidden">
-          <div className="max-w-2xl mx-auto space-y-4">
-            <span className="text-xs font-bold uppercase tracking-widest text-gold">
-              Direct Business Communication
-            </span>
-            <h2 className="font-serif text-3xl sm:text-4xl font-bold">
-              Looking for Bulk / Wholesale or Custom Household Orders?
-            </h2>
-            <p className="text-xs sm:text-sm text-cream/80 leading-relaxed">
-              We supply retail pantries, organic stores, ayurvedic practitioners, and wellness retreats across India. Reach out on WhatsApp with your product checklist.
-            </p>
-            <div className="pt-4 flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a
-                href="https://wa.me/919805565679?text=Hello%20Suyash%20Food%20Industries%2C%20I%20have%20a%20wholesale%20enquiry."
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-whatsapp hover:bg-green-600 text-white font-semibold px-8 py-3.5 rounded-full text-sm shadow-md transition"
-              >
-                <MessageCircle className="w-5 h-5 fill-white text-whatsapp" />
-                <span>Start WhatsApp Conversation</span>
-              </a>
-              <Link
-                href="/contact"
-                className="inline-flex items-center gap-1.5 text-xs text-cream hover:text-white underline underline-offset-4"
-              >
-                <span>Or Submit Contact Form</span>
-                <ArrowRight className="w-3.5 h-3.5" />
-              </Link>
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-10">
+        <div className="relative rounded-[2.5rem] bg-gradient-to-br from-[#123020] via-[#1A422D] to-[#0A1F15] border border-emerald-500/25 p-8 sm:p-12 lg:p-16 shadow-2xl overflow-hidden">
+          
+          {/* Ambient Lighting & Pattern */}
+          <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 rounded-full bg-emerald-500/10 blur-3xl pointer-events-none" />
+          <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-96 h-96 rounded-full bg-amber-400/10 blur-3xl pointer-events-none" />
+          <div className="absolute inset-0 opacity-[0.04] pointer-events-none bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]" />
+
+          <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center">
+            
+            {/* Left Content Column */}
+            <div className="lg:col-span-7 space-y-6 text-left">
+              
+              {/* Badge */}
+              <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-400/30 text-emerald-300 text-xs font-bold uppercase tracking-wider backdrop-blur-sm">
+                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                <span>Direct Solan Farm-Gate Supply</span>
+              </div>
+
+              {/* High-Contrast Luminous Headline */}
+              <h2 className="font-serif text-3xl sm:text-4xl lg:text-[42px] font-extrabold text-white tracking-tight leading-[1.2]">
+                Looking for{' '}
+                <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-200 via-[#E8B86D] to-amber-300">
+                  Bulk, Wholesale
+                </span>{' '}
+                or Custom Orders?
+              </h2>
+
+              {/* Crisp Subtitle */}
+              <p className="text-sm sm:text-base text-stone-200/90 leading-relaxed max-w-xl font-normal">
+                We supply retail pantries, organic stores, ayurvedic practitioners, hospitality brands, and wellness retreats across India. Custom grinding, bespoke batch packing, and direct farm dispatch with zero middlemen.
+              </p>
+
+              {/* 3 Key Trust Micro-Pillars */}
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-2">
+                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
+                  <div className="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-300 flex items-center justify-center mb-2">
+                    <Sprout className="w-4 h-4" />
+                  </div>
+                  <h4 className="text-xs font-bold text-white">Single-Origin</h4>
+                  <p className="text-[11px] text-stone-300 mt-0.5">Himachal valley organic clusters</p>
+                </div>
+
+                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
+                  <div className="w-7 h-7 rounded-lg bg-amber-500/20 text-amber-300 flex items-center justify-center mb-2">
+                    <Package className="w-4 h-4" />
+                  </div>
+                  <h4 className="text-xs font-bold text-white">Custom Packing</h4>
+                  <p className="text-[11px] text-stone-300 mt-0.5">Bulk food-service & private labeling</p>
+                </div>
+
+                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
+                  <div className="w-7 h-7 rounded-lg bg-teal-500/20 text-teal-300 flex items-center justify-center mb-2">
+                    <Truck className="w-4 h-4" />
+                  </div>
+                  <h4 className="text-xs font-bold text-white">Pan-India Transit</h4>
+                  <p className="text-[11px] text-stone-300 mt-0.5">Insured safe freight to your doorstep</p>
+                </div>
+              </div>
+
+              {/* Action Buttons & Direct Call */}
+              <div className="pt-3 space-y-4">
+                <div className="flex flex-wrap items-center gap-3.5">
+                  <a
+                    href="https://wa.me/919805565679?text=Hello%20Suyash%20Food%20Industries%2C%20I%20would%20like%20to%20enquire%20about%20bulk%20%2F%20wholesale%20rates%20for%20your%20Himalayan%20products."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2.5 bg-[#25D366] hover:bg-[#20be5b] text-white font-bold px-7 py-3.5 rounded-2xl text-sm shadow-xl shadow-green-950/40 hover:scale-[1.02] active:scale-[0.98] transition-all group"
+                  >
+                    <MessageCircle className="w-5 h-5 fill-white text-[#25D366] group-hover:rotate-12 transition-transform" />
+                    <span>Chat on WhatsApp for Wholesale Rates</span>
+                  </a>
+
+                  <Link
+                    href="/contact"
+                    className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-semibold px-5 py-3.5 rounded-2xl text-sm border border-white/20 hover:border-white/30 backdrop-blur-sm transition-all"
+                  >
+                    <span>Request Quotation Form</span>
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
+                </div>
+
+                <div className="flex items-center gap-2 text-xs text-stone-300">
+                  <Phone className="w-3.5 h-3.5 text-gold" />
+                  <span>Direct Solan Office:</span>
+                  <a
+                    href="tel:+919805565679"
+                    className="text-gold hover:text-amber-300 font-bold underline underline-offset-2"
+                  >
+                    +91 98055 65679
+                  </a>
+                  <span className="text-stone-400">• Available Mon - Sat (9 AM - 7 PM)</span>
+                </div>
+              </div>
             </div>
+
+            {/* Right Visual Card */}
+            <div className="lg:col-span-5">
+              <div className="relative mx-auto max-w-sm sm:max-w-md bg-gradient-to-b from-white/10 via-white/5 to-transparent border border-white/15 rounded-3xl p-6 backdrop-blur-md shadow-2xl">
+                
+                {/* Top Badge on Card */}
+                <div className="flex items-center justify-between pb-4 border-b border-white/10">
+                  <div className="flex items-center gap-2">
+                    <ShieldCheck className="w-5 h-5 text-gold" />
+                    <span className="text-xs font-bold text-white uppercase tracking-wider">Certified Himalayan Produce</span>
+                  </div>
+                  <span className="text-[10px] font-bold bg-amber-400/20 text-amber-300 px-2 py-0.5 rounded-full border border-amber-400/30">
+                    B2B & Retail
+                  </span>
+                </div>
+
+                {/* Visual Imagery of Products */}
+                <div className="relative py-6 flex items-center justify-center">
+                  <div className="relative w-48 h-56 sm:w-56 sm:h-64 flex items-center justify-center">
+                    <div className="absolute inset-0 rounded-full bg-gradient-to-tr from-amber-400/20 to-emerald-400/20 blur-xl scale-95" />
+                    
+                    {/* Apricot Oil Bottle */}
+                    <div className="relative z-10 w-28 h-52 sm:w-32 sm:h-60 drop-shadow-[0_20px_25px_rgba(0,0,0,0.5)] transform -rotate-3 hover:rotate-0 transition-transform duration-500">
+                      <Image
+                        src="/images/hero-apricot-oil-3d.png"
+                        alt="Pure Wild Apricot Oil"
+                        fill
+                        className="object-contain"
+                      />
+                    </div>
+
+                    {/* Desi Ghee Jar */}
+                    <div className="absolute right-0 bottom-2 z-20 w-24 h-28 sm:w-28 sm:h-32 drop-shadow-[0_15px_20px_rgba(0,0,0,0.6)] transform translate-x-3 hover:scale-105 transition-transform duration-500">
+                      <Image
+                        src="/images/hero-desi-ghee-3d.png"
+                        alt="Traditional Bilona Cow Ghee"
+                        fill
+                        className="object-contain"
+                      />
+                    </div>
+                  </div>
+                </div>
+
+                {/* Bottom Spec Footer on Card */}
+                <div className="bg-emerald-950/70 rounded-2xl p-3.5 border border-emerald-500/20 space-y-1.5">
+                  <div className="flex items-center justify-between text-xs">
+                    <span className="text-stone-300 font-medium">Minimum Order Quantity</span>
+                    <span className="text-white font-bold">Flexible (Retail or Bulk)</span>
+                  </div>
+                  <div className="flex items-center justify-between text-xs">
+                    <span className="text-stone-300 font-medium">Dispatch Origin</span>
+                    <span className="text-gold font-bold">Solan, Himachal Pradesh</span>
+                  </div>
+                  <div className="flex items-center justify-between text-xs pt-1 border-t border-white/5">
+                    <span className="text-stone-300 font-medium">Lab Test & Certificate</span>
+                    <span className="text-emerald-300 font-bold flex items-center gap-1">
+                      <CheckCircle2 className="w-3.5 h-3.5" /> Provided on request
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
           </div>
         </div>
       </section>
