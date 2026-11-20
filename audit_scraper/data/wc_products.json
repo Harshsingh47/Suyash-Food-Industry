@@ -1,0 +1,3767 @@
+[
+  {
+    "id": 11110,
+    "name": "Ginger Paste",
+    "slug": "ginger-paste",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/ginger-paste/",
+    "sku": "SFI-21",
+    "short_description": "<p>Fresh Ginger Paste</p>",
+    "description": "<h3>Fresh Ginger Paste</h3>\n<p>Zesty, Aromatic &amp; Warming</p>\n<ul data-path-to-node=\"27,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 250g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"33,2,0\" data-index-in-node=\"0\">Description:</b> Prepared from chosen ginger roots, this paste offers a sharp, zesty punch and warm flavor to your dishes. Perfect for traditional Indian curries, stir-fries, teas, and marinades.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"33,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"33,4,1\">\n<li>\n<p data-path-to-node=\"33,4,1,0,0\">Zesty, sharp, and aromatic taste</p>\n</li>\n<li>\n<p data-path-to-node=\"33,4,1,1,0\">100% natural ginger flavor</p>\n</li>\n<li>\n<p data-path-to-node=\"33,4,1,2,0\">Eliminates chopping and grating time</p>\n</li>\n<li>\n<p data-path-to-node=\"33,4,1,3,0\">Excellent warming spice for curries and teas</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "19000",
+      "regular_price": "21000",
+      "sale_price": "19000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>190.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>210.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11111,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "ginger-paste-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11111,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/ginger-paste-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "ginger-paste-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 204,
+        "name": "Curry Base",
+        "slug": "curry-base",
+        "link": "https://suyashfoodindustries.in/product-tag/curry-base/"
+      },
+      {
+        "id": 205,
+        "name": "Fresh Ginger Paste",
+        "slug": "fresh-ginger-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/fresh-ginger-paste/"
+      },
+      {
+        "id": 201,
+        "name": "Ginger Paste",
+        "slug": "ginger-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/ginger-paste/"
+      },
+      {
+        "id": 199,
+        "name": "Kitchen Essential",
+        "slug": "kitchen-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/kitchen-essential/"
+      },
+      {
+        "id": 197,
+        "name": "Marinade Paste",
+        "slug": "marinade-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/marinade-paste/"
+      },
+      {
+        "id": 181,
+        "name": "Ready to Use",
+        "slug": "ready-to-use",
+        "link": "https://suyashfoodindustries.in/product-tag/ready-to-use/"
+      },
+      {
+        "id": 203,
+        "name": "Warming Essential",
+        "slug": "warming-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/warming-essential/"
+      },
+      {
+        "id": 202,
+        "name": "Zesty and Aromatic",
+        "slug": "zesty-and-aromatic",
+        "link": "https://suyashfoodindustries.in/product-tag/zesty-and-aromatic/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Ginger Paste&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11110",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11110",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11110&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11106,
+    "name": "Garlic Paste",
+    "slug": "garlic-paste",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/garlic-paste/",
+    "sku": "SFI-20",
+    "short_description": "<p>Fresh Garlic Paste</p>",
+    "description": "<h3>Fresh Garlic Paste</h3>\n<p>Thick, Smooth &amp; Ready to Use</p>\n<ul data-path-to-node=\"27,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 250g</p>\n</li>\n<li>\n<p data-path-to-node=\"30,2,0\"><b data-path-to-node=\"30,2,0\" data-index-in-node=\"0\">Description:</b> A rich, smooth paste made from fresh garlic cloves. Designed for maximum convenience, it delivers robust garlic aroma and authentic taste straight into your curries, sauces, and marinades.</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,0\"><b data-path-to-node=\"30,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"30,4,1\">\n<li>\n<p data-path-to-node=\"30,4,1,0,0\">Thick and smooth texture for easy blending</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,1,0\">Authentic fresh-garlic aroma</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,2,0\">Saves time on peeling and crushing</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,3,0\">Ideal for curries, marinades, and gravies</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "12000",
+      "regular_price": "19900",
+      "sale_price": "12000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>120.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>199.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11108,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "garlic-paste-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11108,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/garlic-paste-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "garlic-paste-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 179,
+        "name": "Culinary Essential",
+        "slug": "culinary-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/culinary-essential/"
+      },
+      {
+        "id": 198,
+        "name": "Curry Paste",
+        "slug": "curry-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/curry-paste/"
+      },
+      {
+        "id": 200,
+        "name": "Fresh Garlic Paste",
+        "slug": "fresh-garlic-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/fresh-garlic-paste/"
+      },
+      {
+        "id": 195,
+        "name": "Garlic Paste",
+        "slug": "garlic-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/garlic-paste/"
+      },
+      {
+        "id": 199,
+        "name": "Kitchen Essential",
+        "slug": "kitchen-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/kitchen-essential/"
+      },
+      {
+        "id": 197,
+        "name": "Marinade Paste",
+        "slug": "marinade-paste",
+        "link": "https://suyashfoodindustries.in/product-tag/marinade-paste/"
+      },
+      {
+        "id": 181,
+        "name": "Ready to Use",
+        "slug": "ready-to-use",
+        "link": "https://suyashfoodindustries.in/product-tag/ready-to-use/"
+      },
+      {
+        "id": 196,
+        "name": "Thick and Smooth",
+        "slug": "thick-and-smooth",
+        "link": "https://suyashfoodindustries.in/product-tag/thick-and-smooth/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Garlic Paste&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11106",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11106",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11106&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11104,
+    "name": "Nilansh Gold Kala Jira",
+    "slug": "nilansh-gold-kala-jira",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/nilansh-gold-kala-jira/",
+    "sku": "SFI-19",
+    "short_description": "<p>Nilansh Gold Kala Jira (Black Cumin)</p>",
+    "description": "<h3>Nilansh Gold Kala Jira (Black Cumin)</h3>\n<p>Rooted in Tradition, Crafted with Care</p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 150g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"27,2,0\" data-index-in-node=\"0\">Description:</b> Premium quality Kala Jira packed with essential aromatic oils, Omega-3s, and powerful antioxidants. Known in traditional wellness for aiding digestion, boosting immunity, and promoting overall heart health.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"27,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"27,4,1\">\n<li>\n<p data-path-to-node=\"27,4,1,0,0\">Supports digestion and metabolic health</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,1,0\">Rich source of antioxidants and Omega-3s</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,2,0\">Helps boost immunity naturally</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,3,0\">Premium glass jar packaging for fresh aroma</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "12000",
+      "regular_price": "19900",
+      "sale_price": "12000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>120.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>199.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11105,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-jira-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-jira-suyash-food-industries-330x330.png",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-jira-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11105,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-jira-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-jira-suyash-food-industries-330x330.png",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-jira-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 41,
+        "name": "Nilansh Gold",
+        "slug": "nilansh-gold",
+        "link": "https://suyashfoodindustries.in/product-category/nilansh-gold/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 191,
+        "name": "Black Cumin",
+        "slug": "black-cumin",
+        "link": "https://suyashfoodindustries.in/product-tag/black-cumin/"
+      },
+      {
+        "id": 192,
+        "name": "Digestive Health",
+        "slug": "digestive-health",
+        "link": "https://suyashfoodindustries.in/product-tag/digestive-health/"
+      },
+      {
+        "id": 69,
+        "name": "Healthy Heart",
+        "slug": "healthy-heart",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-heart/"
+      },
+      {
+        "id": 193,
+        "name": "Immunity Booster",
+        "slug": "immunity-booster",
+        "link": "https://suyashfoodindustries.in/product-tag/immunity-booster/"
+      },
+      {
+        "id": 190,
+        "name": "Kala Jira",
+        "slug": "kala-jira",
+        "link": "https://suyashfoodindustries.in/product-tag/kala-jira/"
+      },
+      {
+        "id": 123,
+        "name": "Nilansh Gold",
+        "slug": "nilansh-gold",
+        "link": "https://suyashfoodindustries.in/product-tag/nilansh-gold/"
+      },
+      {
+        "id": 142,
+        "name": "Omega 3",
+        "slug": "omega-3",
+        "link": "https://suyashfoodindustries.in/product-tag/omega-3/"
+      },
+      {
+        "id": 71,
+        "name": "Rich In Antioxidants",
+        "slug": "rich-in-antioxidants",
+        "link": "https://suyashfoodindustries.in/product-tag/rich-in-antioxidants/"
+      },
+      {
+        "id": 194,
+        "name": "Traditional Spices",
+        "slug": "traditional-spices",
+        "link": "https://suyashfoodindustries.in/product-tag/traditional-spices/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Nilansh Gold Kala Jira&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11104",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11104",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11104&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11102,
+    "name": "Pure Desi Ghee",
+    "slug": "pure-desi-ghee",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/pure-desi-ghee/",
+    "sku": "SFI-18",
+    "short_description": "<p>Product of Solan Hills — Pure &amp; Aromatic</p>",
+    "description": "<h3>Pure Desi Ghee</h3>\n<p>Product of Solan Hills — Pure &amp; Aromatic</p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 1Ltr</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Description:</b> Slow-crafted from pure milk fat in the pristine hills of Solan, this Desi Ghee features a classic golden granular texture and rich homemade aroma. Perfect for drizzling on rotis, cooking, or making traditional Indian sweets.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"24,4,1\">\n<li>\n<p data-path-to-node=\"24,4,1,0,0\">Traditional granular (danedar) texture</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,1,0\">Rich aroma and authentic mountain taste</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,2,0\">High smoke point, ideal for cooking and frying</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,3,0\">Source of healthy fat and energy</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "80000",
+      "regular_price": "89900",
+      "sale_price": "80000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>800.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>899.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11103,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-169x300.png 169w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-577x1024.png 577w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-400x710.png 400w",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-desi-ghee-suyash-food-industries-460x460.png 460w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "pure-desi-ghee-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 43,
+        "name": "Dimple's Jar",
+        "slug": "dimples-jar",
+        "link": "https://suyashfoodindustries.in/product-category/dimples-jar/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 189,
+        "name": "Authentic Taste",
+        "slug": "authentic-taste",
+        "link": "https://suyashfoodindustries.in/product-tag/authentic-taste/"
+      },
+      {
+        "id": 168,
+        "name": "Dimple's Jar",
+        "slug": "dimples-jar",
+        "link": "https://suyashfoodindustries.in/product-tag/dimples-jar/"
+      },
+      {
+        "id": 186,
+        "name": "Granular Ghee",
+        "slug": "granular-ghee",
+        "link": "https://suyashfoodindustries.in/product-tag/granular-ghee/"
+      },
+      {
+        "id": 188,
+        "name": "Healthy Cooking Fats",
+        "slug": "healthy-cooking-fats",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-cooking-fats/"
+      },
+      {
+        "id": 187,
+        "name": "Milk Fat Ghee",
+        "slug": "milk-fat-ghee",
+        "link": "https://suyashfoodindustries.in/product-tag/milk-fat-ghee/"
+      },
+      {
+        "id": 183,
+        "name": "Pure Desi Ghee",
+        "slug": "pure-desi-ghee",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-desi-ghee/"
+      },
+      {
+        "id": 184,
+        "name": "Solan Hills Ghee",
+        "slug": "solan-hills-ghee",
+        "link": "https://suyashfoodindustries.in/product-tag/solan-hills-ghee/"
+      },
+      {
+        "id": 185,
+        "name": "Traditional Ghee",
+        "slug": "traditional-ghee",
+        "link": "https://suyashfoodindustries.in/product-tag/traditional-ghee/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Pure Desi Ghee&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11102",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11102",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11102&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11100,
+    "name": "Dehydrated Garlic Powder",
+    "slug": "dehydrated-garlic-powder",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/dehydrated-garlic-powder/",
+    "sku": "SFI-17",
+    "short_description": "<p>Dehydrated Garlic Powder</p>",
+    "description": "<h3>Dehydrated Garlic Powder</h3>\n<p>Pungent, Aromatic &amp; Essential</p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"21,2,0\" data-index-in-node=\"0\">Description:</b> Made from premium garlic cloves dehydrated at optimal temperatures, this powder offers intense flavor without the tedious peeling and chopping. Adds quick depth and aroma to marinades, sauces, soups, and seasonings.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"21,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"21,4,1\">\n<li>\n<p data-path-to-node=\"21,4,1,0,0\">Pungent, aromatic, and 100% natural</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,1,0\">Ready to use with zero preparation required</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,2,0\">Blends smoothly into gravies, rubs, and marinades</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,3,0\">Long shelf life with full flavor retention</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "43000",
+      "regular_price": "59900",
+      "sale_price": "43000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>430.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11101,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dehydrated-garlic-powder",
+        "alt": ""
+      },
+      {
+        "id": 11101,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dehydrated-garlic-powder.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dehydrated-garlic-powder",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      },
+      {
+        "id": 33,
+        "name": "Wellness &amp; Superfood Range",
+        "slug": "wellness-superfood-range",
+        "link": "https://suyashfoodindustries.in/product-category/wellness-superfood-range/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 179,
+        "name": "Culinary Essential",
+        "slug": "culinary-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/culinary-essential/"
+      },
+      {
+        "id": 176,
+        "name": "Dehydrated Garlic Powder",
+        "slug": "dehydrated-garlic-powder",
+        "link": "https://suyashfoodindustries.in/product-tag/dehydrated-garlic-powder/"
+      },
+      {
+        "id": 182,
+        "name": "Flavor Enhancer",
+        "slug": "flavor-enhancer",
+        "link": "https://suyashfoodindustries.in/product-tag/flavor-enhancer/"
+      },
+      {
+        "id": 177,
+        "name": "Garlic Powder",
+        "slug": "garlic-powder",
+        "link": "https://suyashfoodindustries.in/product-tag/garlic-powder/"
+      },
+      {
+        "id": 178,
+        "name": "Pungent Spice",
+        "slug": "pungent-spice",
+        "link": "https://suyashfoodindustries.in/product-tag/pungent-spice/"
+      },
+      {
+        "id": 181,
+        "name": "Ready to Use",
+        "slug": "ready-to-use",
+        "link": "https://suyashfoodindustries.in/product-tag/ready-to-use/"
+      },
+      {
+        "id": 180,
+        "name": "Seasoning Powder",
+        "slug": "seasoning-powder",
+        "link": "https://suyashfoodindustries.in/product-tag/seasoning-powder/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Dehydrated Garlic Powder&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11100",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11100",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11100&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11098,
+    "name": "ND Fresh Drink",
+    "slug": "nd-fresh-drink",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/nd-fresh-drink/",
+    "sku": "SFI-16",
+    "short_description": "<p>ND Fresh Fruit Drink Concentrate</p>",
+    "description": "<h3>ND Fresh Fruit Drink Concentrate</h3>\n<p>Double the Refreshment</p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"18,2,0\" data-index-in-node=\"0\">Description:</b> A fruit-infused drink concentrate crafted to give you instant hydration and cooling refreshment. Perfect for hot days, family gatherings, or an everyday quick refresher full of zesty citrus flavor.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"18,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"18,4,1\">\n<li>\n<p data-path-to-node=\"18,4,1,0,0\">Delivers instant cooling refreshment</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,1,0\">Zesty, sweet fruit flavor profile</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,2,0\">Easy to mix and prepare in seconds</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,3,0\">Great energy boost for warm days</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "43000",
+      "regular_price": "59900",
+      "sale_price": "43000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>430.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11099,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "nd-fresh-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11099,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/nd-fresh-suyash-food-industries.png 1024w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "nd-fresh-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Wellness &amp; Superfood Range",
+        "slug": "wellness-superfood-range",
+        "link": "https://suyashfoodindustries.in/product-category/wellness-superfood-range/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 166,
+        "name": "Daily Refreshment",
+        "slug": "daily-refreshment",
+        "link": "https://suyashfoodindustries.in/product-tag/daily-refreshment/"
+      },
+      {
+        "id": 167,
+        "name": "Fruit Beverage",
+        "slug": "fruit-beverage",
+        "link": "https://suyashfoodindustries.in/product-tag/fruit-beverage/"
+      },
+      {
+        "id": 165,
+        "name": "Fruit Concentrate",
+        "slug": "fruit-concentrate",
+        "link": "https://suyashfoodindustries.in/product-tag/fruit-concentrate/"
+      },
+      {
+        "id": 162,
+        "name": "Fruit Drink",
+        "slug": "fruit-drink",
+        "link": "https://suyashfoodindustries.in/product-tag/fruit-drink/"
+      },
+      {
+        "id": 161,
+        "name": "Narthi Dipu",
+        "slug": "narthi-dipu",
+        "link": "https://suyashfoodindustries.in/product-tag/narthi-dipu/"
+      },
+      {
+        "id": 160,
+        "name": "ND Fresh",
+        "slug": "nd-fresh",
+        "link": "https://suyashfoodindustries.in/product-tag/nd-fresh/"
+      },
+      {
+        "id": 163,
+        "name": "Refreshing Drink",
+        "slug": "refreshing-drink",
+        "link": "https://suyashfoodindustries.in/product-tag/refreshing-drink/"
+      },
+      {
+        "id": 164,
+        "name": "Summer Drink",
+        "slug": "summer-drink",
+        "link": "https://suyashfoodindustries.in/product-tag/summer-drink/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;ND Fresh Drink&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11098",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11098",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11098&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11096,
+    "name": "Dimple&#8217;s Jar — Artisan Fruit Jam",
+    "slug": "dimples-jar-artisan-fruit-jam",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/dimples-jar-artisan-fruit-jam/",
+    "sku": "SFI-15",
+    "short_description": "<p>Artisan Berry &amp; Fruit Jam</p>",
+    "description": "<h3>Artisan Berry &amp; Fruit Jam</h3>\n<p>Spreading Smiles, One Jar at a Time</p>\n<ul>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"15,2,0\" data-index-in-node=\"0\">Description:</b> Made with wholesome fruits and berries, this artisan jam is packed with delicious fruit chunks and natural sweetness. A delightful breakfast companion that turns ordinary toasts, waffles, and pancakes into a sweet treat.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"15,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"15,4,1,0,0\">Made with real fruit chunks and wholesome berries</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,1,0\">Delicious balance of natural sweetness and tartness</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,2,0\">Handcrafted artisan recipe</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,3,0\">Perfect breakfast spread for all ages</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "43000",
+      "regular_price": "59900",
+      "sale_price": "43000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>430.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11097,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-300x279.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-768x716.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-762x710.png 762w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-460x460.png 460w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dimple-jar-fruit-jam",
+        "alt": ""
+      },
+      {
+        "id": 11097,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-300x279.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-768x716.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-762x710.png 762w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dimple-jar-fruit-jam-e1787080032483-460x460.png 460w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dimple-jar-fruit-jam",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 43,
+        "name": "Dimple's Jar",
+        "slug": "dimples-jar",
+        "link": "https://suyashfoodindustries.in/product-category/dimples-jar/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 169,
+        "name": "Artisan Fruit Jam",
+        "slug": "artisan-fruit-jam",
+        "link": "https://suyashfoodindustries.in/product-tag/artisan-fruit-jam/"
+      },
+      {
+        "id": 170,
+        "name": "Berry Jam",
+        "slug": "berry-jam",
+        "link": "https://suyashfoodindustries.in/product-tag/berry-jam/"
+      },
+      {
+        "id": 172,
+        "name": "Breakfast Spread",
+        "slug": "breakfast-spread",
+        "link": "https://suyashfoodindustries.in/product-tag/breakfast-spread/"
+      },
+      {
+        "id": 168,
+        "name": "Dimple's Jar",
+        "slug": "dimples-jar",
+        "link": "https://suyashfoodindustries.in/product-tag/dimples-jar/"
+      },
+      {
+        "id": 175,
+        "name": "Gourmet Jam",
+        "slug": "gourmet-jam",
+        "link": "https://suyashfoodindustries.in/product-tag/gourmet-jam/"
+      },
+      {
+        "id": 171,
+        "name": "Mixed Fruit Jam",
+        "slug": "mixed-fruit-jam",
+        "link": "https://suyashfoodindustries.in/product-tag/mixed-fruit-jam/"
+      },
+      {
+        "id": 173,
+        "name": "Real Fruit Jam",
+        "slug": "real-fruit-jam",
+        "link": "https://suyashfoodindustries.in/product-tag/real-fruit-jam/"
+      },
+      {
+        "id": 174,
+        "name": "Sweet Fruit Spread",
+        "slug": "sweet-fruit-spread",
+        "link": "https://suyashfoodindustries.in/product-tag/sweet-fruit-spread/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Dimple&#8217;s Jar — Artisan Fruit Jam&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11096",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11096",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11096&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11094,
+    "name": "Dried Mushroom Mix",
+    "slug": "dried-mushroom-mix",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/dried-mushroom-mix/",
+    "sku": "SFI-14",
+    "short_description": "<p>Forest&#8217;s Bounty — Rich &amp; Umami</p>",
+    "description": "<h3>Forest Dried Mushroom Mix</h3>\n<p>Forest&#8217;s Bounty — Rich &amp; Umami</p>\n<ul>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"12,2,0\" data-index-in-node=\"0\">Description:</b> A carefully curated mix of sun-dried mountain mushrooms that bring a deep, savory umami flavor to your kitchen. Perfect for enhancing soups, gravies, curries, and gourmet dishes with rich texture and natural goodness.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"12,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"12,4,1\">\n<li>\n<p data-path-to-node=\"12,4,1,0,0\">Rich in natural umami flavor</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,1,0\">Versatile for curries, soups, and gourmet recipes</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,2,0\">Carefully dehydrated to lock in nutrients and aroma</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,3,0\">100% natural forest produce</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "43000",
+      "regular_price": "59900",
+      "sale_price": "43000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>430.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11095,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png 1254w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1254px) 100vw, 1254px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png 1254w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dried-mushroom-mix-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11095,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png 1254w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1254px) 100vw, 1254px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/dried-mushroom-mix-suyash-food-industries.png 1254w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "dried-mushroom-mix-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 46,
+        "name": "Dried Gourmet &amp; Flakes",
+        "slug": "dried-gourmet-flakes",
+        "link": "https://suyashfoodindustries.in/product-category/dried-gourmet-flakes/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 151,
+        "name": "Cooking Essential",
+        "slug": "cooking-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/cooking-essential/"
+      },
+      {
+        "id": 157,
+        "name": "Dehydrated Mushrooms",
+        "slug": "dehydrated-mushrooms",
+        "link": "https://suyashfoodindustries.in/product-tag/dehydrated-mushrooms/"
+      },
+      {
+        "id": 153,
+        "name": "Dried Mushroom Mix",
+        "slug": "dried-mushroom-mix",
+        "link": "https://suyashfoodindustries.in/product-tag/dried-mushroom-mix/"
+      },
+      {
+        "id": 158,
+        "name": "Forest Bounty",
+        "slug": "forest-bounty",
+        "link": "https://suyashfoodindustries.in/product-tag/forest-bounty/"
+      },
+      {
+        "id": 154,
+        "name": "Forest Mushrooms",
+        "slug": "forest-mushrooms",
+        "link": "https://suyashfoodindustries.in/product-tag/forest-mushrooms/"
+      },
+      {
+        "id": 159,
+        "name": "Gourmet Cooking",
+        "slug": "gourmet-cooking",
+        "link": "https://suyashfoodindustries.in/product-tag/gourmet-cooking/"
+      },
+      {
+        "id": 155,
+        "name": "Gourmet Mushrooms",
+        "slug": "gourmet-mushrooms",
+        "link": "https://suyashfoodindustries.in/product-tag/gourmet-mushrooms/"
+      },
+      {
+        "id": 156,
+        "name": "Rich Umami Flavor",
+        "slug": "rich-umami-flavor",
+        "link": "https://suyashfoodindustries.in/product-tag/rich-umami-flavor/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Dried Mushroom Mix&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11094",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11094",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11094&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11092,
+    "name": "Pure Turmeric Powder",
+    "slug": "pure-turmeric-powder",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/pure-turmeric-powder/",
+    "sku": "SFI-13",
+    "short_description": "<p>The Golden Spice — Earthy, Nutritious &amp; Pure</p>",
+    "description": "<h3>Pure Turmeric Powder</h3>\n<p>The Golden Spice — Earthy, Nutritious &amp; Pure</p>\n<ul>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"9,2,0\" data-index-in-node=\"0\">Description:</b> Sourced for its high natural curcumin content, this bright golden turmeric powder delivers rich aroma, vibrant color, and powerful health benefits. An essential spice that brings authentic flavor and antioxidant power to every meal.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"9,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"9,4,1\">\n<li>\n<p data-path-to-node=\"9,4,1,0,0\">High in natural curcumin and antioxidants</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,1,0\">Pure, unadulterated, and potent</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,2,0\">Enhances immune health and supports wellness</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,3,0\">Essential spice for daily Indian cooking</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "40000",
+      "regular_price": "49900",
+      "sale_price": "40000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>400.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>499.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11093,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png 1254w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1254px) 100vw, 1254px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png 1254w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "turmeric-powder-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11093,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png 1254w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-460x460.png 460w",
+        "sizes": "(max-width: 1254px) 100vw, 1254px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-300x300.png 300w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-1024x1024.png 1024w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-150x150.png 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-768x768.png 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-710x710.png 710w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-800x800.png 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-96x96.png 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries-460x460.png 460w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/turmeric-powder-suyash-food-industries.png 1254w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "turmeric-powder-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 151,
+        "name": "Cooking Essential",
+        "slug": "cooking-essential",
+        "link": "https://suyashfoodindustries.in/product-tag/cooking-essential/"
+      },
+      {
+        "id": 148,
+        "name": "Earthy Spice",
+        "slug": "earthy-spice",
+        "link": "https://suyashfoodindustries.in/product-tag/earthy-spice/"
+      },
+      {
+        "id": 147,
+        "name": "Golden Spice",
+        "slug": "golden-spice",
+        "link": "https://suyashfoodindustries.in/product-tag/golden-spice/"
+      },
+      {
+        "id": 145,
+        "name": "Haldi",
+        "slug": "haldi",
+        "link": "https://suyashfoodindustries.in/product-tag/haldi/"
+      },
+      {
+        "id": 149,
+        "name": "Natural Antioxidants",
+        "slug": "natural-antioxidants",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-antioxidants/"
+      },
+      {
+        "id": 152,
+        "name": "Organic Spices",
+        "slug": "organic-spices",
+        "link": "https://suyashfoodindustries.in/product-tag/organic-spices/"
+      },
+      {
+        "id": 150,
+        "name": "Pure and Potent",
+        "slug": "pure-and-potent",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-and-potent/"
+      },
+      {
+        "id": 146,
+        "name": "Pure Turmeric",
+        "slug": "pure-turmeric",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-turmeric/"
+      },
+      {
+        "id": 144,
+        "name": "Turmeric Powder",
+        "slug": "turmeric-powder",
+        "link": "https://suyashfoodindustries.in/product-tag/turmeric-powder/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Pure Turmeric Powder&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11092",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11092",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11092&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11089,
+    "name": "Pure Apricot Oil",
+    "slug": "pure-apricot-oil",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/pure-apricot-oil/",
+    "sku": "SFI-12",
+    "short_description": "<p>Naturally Pure Mountain Care</p>",
+    "description": "<h3><b data-path-to-node=\"23\" data-index-in-node=\"0\">Pure Apricot Oil</b></h3>\n<p>Naturally Pure Mountain Care</p>\n<ul>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 230ml</p>\n</li>\n<li>\n<p data-path-to-node=\"24,3,0\"><b data-path-to-node=\"24,3,0\" data-index-in-node=\"0\">Description:</b> Packed with plant-based protein and anti-inflammatory properties, Suyash Food Industries Kala Matar is ideal for traditional curries, sprouts, and nutritious salads.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,3,0\"><b data-path-to-node=\"6,2,0\" data-index-in-node=\"0\">Description:</b> Extracted using traditional cold-pressing methods from premium mountain apricots, this light, non-greasy oil is rich in Vitamin E and Omega-3 fatty acids. It hydrates, softens, and imparts a natural, healthy glow to skin and hair.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,3,0\"><b data-path-to-node=\"6,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"6,4,1\">\n<li>\n<p data-path-to-node=\"6,4,1,0,0\">Cold Pressed &amp; 100% Natural</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,1,0\">Packed with Omega-3 &amp; Vitamin E</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,2,0\">Light, non-sticky formula for natural skincare</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,3,0\">Sourced purely from mountain orchards</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "40000",
+      "regular_price": "49900",
+      "sale_price": "40000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>400.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>499.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11091,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-417x417.jpeg 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-96x96.jpeg 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-460x460.jpeg 460w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "pure-apricot-oil-suyash-food-indutries",
+        "alt": ""
+      },
+      {
+        "id": 11091,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-417x417.jpeg 417w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-96x96.jpeg 96w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-apricot-oil-suyash-food-indutries-460x460.jpeg 460w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "pure-apricot-oil-suyash-food-indutries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Apricot Oils",
+        "slug": "apricot-oils",
+        "link": "https://suyashfoodindustries.in/product-category/apricot-oils/"
+      },
+      {
+        "id": 44,
+        "name": "Saroj's Heritage",
+        "slug": "sarojs-heritage",
+        "link": "https://suyashfoodindustries.in/product-category/sarojs-heritage/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 141,
+        "name": "Cold Pressed",
+        "slug": "cold-pressed",
+        "link": "https://suyashfoodindustries.in/product-tag/cold-pressed/"
+      },
+      {
+        "id": 138,
+        "name": "Mountain Sourced",
+        "slug": "mountain-sourced",
+        "link": "https://suyashfoodindustries.in/product-tag/mountain-sourced/"
+      },
+      {
+        "id": 135,
+        "name": "Natural Skincare",
+        "slug": "natural-skincare",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-skincare/"
+      },
+      {
+        "id": 142,
+        "name": "Omega 3",
+        "slug": "omega-3",
+        "link": "https://suyashfoodindustries.in/product-tag/omega-3/"
+      },
+      {
+        "id": 140,
+        "name": "Pure Apricot Oil",
+        "slug": "pure-apricot-oil",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-apricot-oil/"
+      },
+      {
+        "id": 137,
+        "name": "Rich in Vitamin E",
+        "slug": "rich-in-vitamin-e",
+        "link": "https://suyashfoodindustries.in/product-tag/rich-in-vitamin-e/"
+      },
+      {
+        "id": 132,
+        "name": "Saroj's Heritage",
+        "slug": "sarojs-heritage",
+        "link": "https://suyashfoodindustries.in/product-tag/sarojs-heritage/"
+      },
+      {
+        "id": 143,
+        "name": "Skin Nourishment",
+        "slug": "skin-nourishment",
+        "link": "https://suyashfoodindustries.in/product-tag/skin-nourishment/"
+      },
+      {
+        "id": 139,
+        "name": "Zero Added Chemicals",
+        "slug": "zero-added-chemicals",
+        "link": "https://suyashfoodindustries.in/product-tag/zero-added-chemicals/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Pure Apricot Oil&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11089",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11089",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11089&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11069,
+    "name": "Wild Apricot Oil",
+    "slug": "pure-wild-apricot-oil",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/pure-wild-apricot-oil/",
+    "sku": "SFI-11",
+    "short_description": "<p>Purely Sourced From The Mountains</p>",
+    "description": "<h3>Pure Wild Apricot Oil</h3>\n<p>Purely Sourced From The Mountains</p>\n<ul data-path-to-node=\"24,4,1\">\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 250ml</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"3,2,0\" data-index-in-node=\"0\">Description:</b> Sourced directly from high-altitude mountain orchards, this 100% organic, cold-pressed wild apricot oil provides deep, natural nourishment for your skin and hair. Packed with Vitamin E and essential nutrients, it restores natural skin health without any added chemicals.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"3,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"3,4,1\">\n<li>\n<p data-path-to-node=\"3,4,1,0,0\">100% Organic &amp; Cold Pressed</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,1,0\">Naturally rich in Vitamin E &amp; essential nutrients</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,2,0\">Zero added chemicals or artificial preservatives</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,3,0\">Deeply hydrates skin and supports hair health</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "58000",
+      "regular_price": "66900",
+      "sale_price": "58000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>580.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>669.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11070,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "pure-wild-apricot-oil-suyash-industries",
+        "alt": ""
+      },
+      {
+        "id": 11070,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/pure-wild-apricot-oil-suyash-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "pure-wild-apricot-oil-suyash-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 29,
+        "name": "Apricot Oils",
+        "slug": "apricot-oils",
+        "link": "https://suyashfoodindustries.in/product-category/apricot-oils/"
+      },
+      {
+        "id": 44,
+        "name": "Saroj's Heritage",
+        "slug": "sarojs-heritage",
+        "link": "https://suyashfoodindustries.in/product-category/sarojs-heritage/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 133,
+        "name": "Cold Pressed Apricot Oil",
+        "slug": "cold-pressed-apricot-oil",
+        "link": "https://suyashfoodindustries.in/product-tag/cold-pressed-apricot-oil/"
+      },
+      {
+        "id": 138,
+        "name": "Mountain Sourced",
+        "slug": "mountain-sourced",
+        "link": "https://suyashfoodindustries.in/product-tag/mountain-sourced/"
+      },
+      {
+        "id": 135,
+        "name": "Natural Skincare",
+        "slug": "natural-skincare",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-skincare/"
+      },
+      {
+        "id": 136,
+        "name": "Organic Apricot Oil",
+        "slug": "organic-apricot-oil",
+        "link": "https://suyashfoodindustries.in/product-tag/organic-apricot-oil/"
+      },
+      {
+        "id": 131,
+        "name": "Pure Wild Apricot Oil",
+        "slug": "pure-wild-apricot-oil",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-wild-apricot-oil/"
+      },
+      {
+        "id": 137,
+        "name": "Rich in Vitamin E",
+        "slug": "rich-in-vitamin-e",
+        "link": "https://suyashfoodindustries.in/product-tag/rich-in-vitamin-e/"
+      },
+      {
+        "id": 132,
+        "name": "Saroj's Heritage",
+        "slug": "sarojs-heritage",
+        "link": "https://suyashfoodindustries.in/product-tag/sarojs-heritage/"
+      },
+      {
+        "id": 134,
+        "name": "Wild Apricot Oil",
+        "slug": "wild-apricot-oil",
+        "link": "https://suyashfoodindustries.in/product-tag/wild-apricot-oil/"
+      },
+      {
+        "id": 139,
+        "name": "Zero Added Chemicals",
+        "slug": "zero-added-chemicals",
+        "link": "https://suyashfoodindustries.in/product-tag/zero-added-chemicals/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Wild Apricot Oil&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11069",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11069",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11069&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11065,
+    "name": "Nilansh Gold Protein Mix",
+    "slug": "nilansh-gold-protein-mix",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/nilansh-gold-protein-mix/",
+    "sku": "SFI-10",
+    "short_description": "<p>Authentic Himalayan Lal Rajma</p>",
+    "description": "<h3 data-path-to-node=\"29\"><b data-path-to-node=\"29\" data-index-in-node=\"0\">Nilansh Gold Protein Mix</b></h3>\n<p data-path-to-node=\"27,1,0\">Tradition Meets Nutrition — पौष्टिकता का अनमोल तोहफा</p>\n<div class=\"container\">\n<div id=\"model-response-message-contentr_df01ebaa6faad28a\" class=\"markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color tutor-markdown-rendering\" dir=\"ltr\" aria-live=\"off\">\n<ul data-path-to-node=\"30\">\n<li>\n<p data-path-to-node=\"30,2,0\"><b data-path-to-node=\"30,2,0\" data-index-in-node=\"0\">Net Weight:</b> 150g (Glass Jar)</p>\n</li>\n<li>\n<p data-path-to-node=\"30,3,0\"><b data-path-to-node=\"30,3,0\" data-index-in-node=\"0\">Description:</b> A premium, traditional blend of roasted grains, nuts (almonds, cashews), and seeds crafted to deliver clean, natural daily nutrition. Easy to mix with milk, warm water, or smoothies for sustained energy.</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,0\"><b data-path-to-node=\"30,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"30,4,1\">\n<li>\n<p data-path-to-node=\"30,4,1,0,0\">Rich blend of barley, chickpeas, almonds, and cashews</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,1,0\">Source of Omega-3, fiber, and essential minerals</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,2,0\">Supports heart health and muscle recovery</p>\n</li>\n<li>\n<p data-path-to-node=\"30,4,1,3,0\">Premium glass packaging for freshness and purity</p>\n</li>\n</ul>\n</li>\n</ul>\n</div>\n</div>",
+    "on_sale": true,
+    "prices": {
+      "price": "44000",
+      "regular_price": "46900",
+      "sale_price": "44000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>440.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>469.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11064,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-rajma-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11064,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-rajma-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 41,
+        "name": "Nilansh Gold",
+        "slug": "nilansh-gold",
+        "link": "https://suyashfoodindustries.in/product-category/nilansh-gold/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 129,
+        "name": "Daily Wellness",
+        "slug": "daily-wellness",
+        "link": "https://suyashfoodindustries.in/product-tag/daily-wellness/"
+      },
+      {
+        "id": 130,
+        "name": "Glass Jar Packaging",
+        "slug": "glass-jar-packaging",
+        "link": "https://suyashfoodindustries.in/product-tag/glass-jar-packaging/"
+      },
+      {
+        "id": 123,
+        "name": "Nilansh Gold",
+        "slug": "nilansh-gold",
+        "link": "https://suyashfoodindustries.in/product-tag/nilansh-gold/"
+      },
+      {
+        "id": 127,
+        "name": "Nuts And Seeds Mix",
+        "slug": "nuts-and-seeds-mix",
+        "link": "https://suyashfoodindustries.in/product-tag/nuts-and-seeds-mix/"
+      },
+      {
+        "id": 124,
+        "name": "Protein Mix",
+        "slug": "protein-mix",
+        "link": "https://suyashfoodindustries.in/product-tag/protein-mix/"
+      },
+      {
+        "id": 126,
+        "name": "Roasted Grains",
+        "slug": "roasted-grains",
+        "link": "https://suyashfoodindustries.in/product-tag/roasted-grains/"
+      },
+      {
+        "id": 128,
+        "name": "Superfood Blend",
+        "slug": "superfood-blend",
+        "link": "https://suyashfoodindustries.in/product-tag/superfood-blend/"
+      },
+      {
+        "id": 125,
+        "name": "Tradition Meets Nutrition",
+        "slug": "tradition-meets-nutrition",
+        "link": "https://suyashfoodindustries.in/product-tag/tradition-meets-nutrition/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "gm",
+        "taxonomy": null,
+        "has_variations": false,
+        "terms": [
+          {
+            "id": 0,
+            "name": "150g",
+            "slug": "150g"
+          }
+        ]
+      }
+    ],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Nilansh Gold Protein Mix&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11065",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11065",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11065&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11063,
+    "name": "Himalayan Lal Rajma",
+    "slug": "himalayan-lal-rajma",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/himalayan-lal-rajma/",
+    "sku": "SFI-9",
+    "short_description": "<p>Authentic Himalayan Lal Rajma</p>",
+    "description": "<h3 data-path-to-node=\"23\">Authentic Himalayan Lal Rajma</h3>\n<p data-path-to-node=\"27,1,0\">Experience the Foothills — Nutritional. Pure. Authentic.</p>\n<ul data-path-to-node=\"27\">\n<li>\n<p data-path-to-node=\"27,2,0\"><b data-path-to-node=\"27,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"27,3,0\"><b data-path-to-node=\"27,3,0\" data-index-in-node=\"0\">Description:</b> Hand-picked from the foothill farms of the Himalayas, this Lal Rajma cooks up tender and creamy, absorbing flavors deeply to make delicious, authentic kidney bean curries.</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,0\"><b data-path-to-node=\"27,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"27,4,1\">\n<li>\n<p data-path-to-node=\"27,4,1,0,0\">Hand-picked for uniform quality and quick cooking</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,1,0\">High in protein, iron, and dietary fiber</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,2,0\">Authentic flavor profile straight from Himachal Pradesh</p>\n</li>\n<li>\n<p data-path-to-node=\"27,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "59000",
+      "regular_price": "66900",
+      "sale_price": "59000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>590.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>669.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11064,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-rajma-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11064,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/lal-rajma-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-rajma-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 120,
+        "name": "Experience The Foothills",
+        "slug": "experience-the-foothills",
+        "link": "https://suyashfoodindustries.in/product-tag/experience-the-foothills/"
+      },
+      {
+        "id": 118,
+        "name": "Hand Picked Quality",
+        "slug": "hand-picked-quality",
+        "link": "https://suyashfoodindustries.in/product-tag/hand-picked-quality/"
+      },
+      {
+        "id": 116,
+        "name": "Himalayan Lal Rajma",
+        "slug": "himalayan-lal-rajma",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-lal-rajma/"
+      },
+      {
+        "id": 122,
+        "name": "Himalayan Produce",
+        "slug": "himalayan-produce",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-produce/"
+      },
+      {
+        "id": 121,
+        "name": "Protein Rich",
+        "slug": "protein-rich",
+        "link": "https://suyashfoodindustries.in/product-tag/protein-rich/"
+      },
+      {
+        "id": 119,
+        "name": "Pure And Authentic",
+        "slug": "pure-and-authentic",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-and-authentic/"
+      },
+      {
+        "id": 117,
+        "name": "Red Kidney Beans",
+        "slug": "red-kidney-beans",
+        "link": "https://suyashfoodindustries.in/product-tag/red-kidney-beans/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Himalayan Lal Rajma&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11063",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11063",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11063&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11061,
+    "name": "Kala Matar (Unpolished Black Peas)",
+    "slug": "kala-matar-unpolished-black-peas",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/kala-matar-unpolished-black-peas/",
+    "sku": "SFI-8",
+    "short_description": "<p>Unpolished Kala Matar (Black Peas)</p>",
+    "description": "<h3 data-path-to-node=\"23\"><b data-path-to-node=\"23\" data-index-in-node=\"0\">Kala Matar (Unpolished Black Peas)</b></h3>\n<p data-path-to-node=\"24,1,0\">High Plant Protein &amp; Digestive Wellness.</p>\n<ul>\n<li>\n<p data-path-to-node=\"24,2,0\"><b data-path-to-node=\"24,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"24,3,0\"><b data-path-to-node=\"24,3,0\" data-index-in-node=\"0\">Description:</b> Packed with plant-based protein and anti-inflammatory properties, Suyash Food Industries Kala Matar is ideal for traditional curries, sprouts, and nutritious salads.</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,0\"><b data-path-to-node=\"24,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"24,4,1\">\n<li>\n<p data-path-to-node=\"24,4,1,0,0\">Rich source of plant protein and fiber</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,1,0\">Supports eye health and improves digestion</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,2,0\">Natural anti-inflammatory properties</p>\n</li>\n<li>\n<p data-path-to-node=\"24,4,1,3,0\">Unpolished and 100% natural</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "39000",
+      "regular_price": "46900",
+      "sale_price": "39000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>390.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>469.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11062,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries.jpeg 997w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-187x300.jpeg 187w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-638x1024.jpeg 638w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-768x1232.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-957x1536.jpeg 957w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-442x710.jpeg 442w",
+        "sizes": "(max-width: 997px) 100vw, 997px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-matar-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11062,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries.jpeg 997w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-187x300.jpeg 187w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-638x1024.jpeg 638w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-768x1232.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-957x1536.jpeg 957w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-442x710.jpeg 442w",
+        "sizes": "(max-width: 997px) 100vw, 997px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-matar-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-matar-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 113,
+        "name": "Anti Inflammatory",
+        "slug": "anti-inflammatory",
+        "link": "https://suyashfoodindustries.in/product-tag/anti-inflammatory/"
+      },
+      {
+        "id": 114,
+        "name": "Curry Special",
+        "slug": "curry-special",
+        "link": "https://suyashfoodindustries.in/product-tag/curry-special/"
+      },
+      {
+        "id": 111,
+        "name": "Digestive Wellness",
+        "slug": "digestive-wellness",
+        "link": "https://suyashfoodindustries.in/product-tag/digestive-wellness/"
+      },
+      {
+        "id": 112,
+        "name": "Eye Health Support",
+        "slug": "eye-health-support",
+        "link": "https://suyashfoodindustries.in/product-tag/eye-health-support/"
+      },
+      {
+        "id": 110,
+        "name": "High Plant Protein",
+        "slug": "high-plant-protein",
+        "link": "https://suyashfoodindustries.in/product-tag/high-plant-protein/"
+      },
+      {
+        "id": 108,
+        "name": "Kala Matar",
+        "slug": "kala-matar",
+        "link": "https://suyashfoodindustries.in/product-tag/kala-matar/"
+      },
+      {
+        "id": 115,
+        "name": "Salad Special",
+        "slug": "salad-special",
+        "link": "https://suyashfoodindustries.in/product-tag/salad-special/"
+      },
+      {
+        "id": 62,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/product-tag/suyash-food-industries/"
+      },
+      {
+        "id": 109,
+        "name": "Unpolished Black Peas",
+        "slug": "unpolished-black-peas",
+        "link": "https://suyashfoodindustries.in/product-tag/unpolished-black-peas/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Kala Matar (Unpolished Black Peas)&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11061",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11061",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11061&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11059,
+    "name": "Sukhe Seb (Sun-Dried Apple Slices)",
+    "slug": "sukhe-seb-sun-dried-apple-slices",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/sukhe-seb-sun-dried-apple-slices/",
+    "sku": "SFI-7",
+    "short_description": "<p>Natural Sun-Dried Apple Slices</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\">Natural Sun-Dried Apple Slices</h3>\n<p data-path-to-node=\"18,1,0\">Nourishing Lives, Growing Together — Pure Himalayan Dried Apples</p>\n<ul>\n<li>\n<p data-path-to-node=\"21,2,0\"><b data-path-to-node=\"21,2,0\" data-index-in-node=\"0\">Net Weight:</b> 200g</p>\n</li>\n<li>\n<p data-path-to-node=\"21,3,0\"><b data-path-to-node=\"21,3,0\" data-index-in-node=\"0\">Description:</b> Crafted from handpicked fresh apples from the orchards of Himachal Pradesh, our dried apple slices offer a naturally sweet, chewy, and guilt-free snack option with no added sugars or artificial flavors.</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,0\"><b data-path-to-node=\"21,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"21,4,1\">\n<li>\n<p data-path-to-node=\"21,4,1,0,0\">100% natural with no added sugar or preservatives</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,1,0\">Great source of dietary fiber and Vitamin C</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,2,0\">Ideal for direct snacking, baking, oatmeal, or tea infusions</p>\n</li>\n<li>\n<p data-path-to-node=\"21,4,1,3,0\">Long shelf life with preserved natural flavor</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "40000",
+      "regular_price": "58900",
+      "sale_price": "40000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>400.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>589.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11060,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "sukhe-seb-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11060,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-330x330.jpeg",
+        "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries.jpeg 896w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-226x300.jpeg 226w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-771x1024.jpeg 771w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-768x1020.jpeg 768w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-535x710.jpeg 535w",
+        "sizes": "(max-width: 896px) 100vw, 896px",
+        "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-330x330.jpeg 330w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-150x150.jpeg 150w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-600x600.jpeg 600w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-800x800.jpeg 800w, https://suyashfoodindustries.in/wp-content/uploads/2026/08/sukhe-seb-suyash-food-industries-417x417.jpeg 417w",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "sukhe-seb-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 46,
+        "name": "Dried Gourmet &amp; Flakes",
+        "slug": "dried-gourmet-flakes",
+        "link": "https://suyashfoodindustries.in/product-category/dried-gourmet-flakes/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 102,
+        "name": "Dried Apples",
+        "slug": "dried-apples",
+        "link": "https://suyashfoodindustries.in/product-tag/dried-apples/"
+      },
+      {
+        "id": 104,
+        "name": "Healthy Snack",
+        "slug": "healthy-snack",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-snack/"
+      },
+      {
+        "id": 103,
+        "name": "Himalayan Apples",
+        "slug": "himalayan-apples",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-apples/"
+      },
+      {
+        "id": 106,
+        "name": "Natural Apple Slices",
+        "slug": "natural-apple-slices",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-apple-slices/"
+      },
+      {
+        "id": 105,
+        "name": "No Added Sugar",
+        "slug": "no-added-sugar",
+        "link": "https://suyashfoodindustries.in/product-tag/no-added-sugar/"
+      },
+      {
+        "id": 107,
+        "name": "Orchard Fresh",
+        "slug": "orchard-fresh",
+        "link": "https://suyashfoodindustries.in/product-tag/orchard-fresh/"
+      },
+      {
+        "id": 79,
+        "name": "Seal Of Trust",
+        "slug": "seal-of-trust",
+        "link": "https://suyashfoodindustries.in/product-tag/seal-of-trust/"
+      },
+      {
+        "id": 100,
+        "name": "Sukhe Seb",
+        "slug": "sukhe-seb",
+        "link": "https://suyashfoodindustries.in/product-tag/sukhe-seb/"
+      },
+      {
+        "id": 101,
+        "name": "Sun Dried Apple Slices",
+        "slug": "sun-dried-apple-slices",
+        "link": "https://suyashfoodindustries.in/product-tag/sun-dried-apple-slices/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Sukhe Seb (Sun-Dried Apple Slices)&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11059",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11059",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11059&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11052,
+    "name": "Kafra (Buckwheat Flour)",
+    "slug": "kafra",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/kafra/",
+    "sku": "SFI-6",
+    "short_description": "<p>Unfiltered, Natural Flour (Seal of Trust)</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\">Unfiltered Natural Kafra Flour</h3>\n<p data-path-to-node=\"18,1,0\">बिना छाना हुआ &#8211; Unfiltered, Natural Flour (Seal of Trust)</p>\n<ul>\n<li>\n<p data-path-to-node=\"18,2,0\"><b data-path-to-node=\"18,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"18,3,0\"><b data-path-to-node=\"18,3,0\" data-index-in-node=\"0\">Description:</b> Sourced from high-altitude Himalayan regions, Kafra flour is traditional, unsifted buckwheat flour that provides rich, earthy flavor and exceptional wholesome nutrition. Excellent for traditional breads, rotis, and healthy baking.</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,0\"><b data-path-to-node=\"18,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"18,4,1\">\n<li>\n<p data-path-to-node=\"18,4,1,0,0\">100% natural, whole-grain, unfiltered flour</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,1,0\">Rich in iron, magnesium, and dietary fiber</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,2,0\">Authentic Himalayan mountain produce</p>\n</li>\n<li>\n<p data-path-to-node=\"18,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "40000",
+      "regular_price": "58900",
+      "sale_price": "40000",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>400.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>589.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11053,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kafra-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kafra-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kafra-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11053,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kafra-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kafra-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kafra-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 84,
+        "name": "Bina Chana Hua",
+        "slug": "bina-chana-hua",
+        "link": "https://suyashfoodindustries.in/product-tag/bina-chana-hua/"
+      },
+      {
+        "id": 82,
+        "name": "Buckwheat Flour",
+        "slug": "buckwheat-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/buckwheat-flour/"
+      },
+      {
+        "id": 99,
+        "name": "Himalayan Specialty",
+        "slug": "himalayan-specialty",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-specialty/"
+      },
+      {
+        "id": 97,
+        "name": "Kafra",
+        "slug": "kafra",
+        "link": "https://suyashfoodindustries.in/product-tag/kafra/"
+      },
+      {
+        "id": 85,
+        "name": "Natural Flour",
+        "slug": "natural-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-flour/"
+      },
+      {
+        "id": 79,
+        "name": "Seal Of Trust",
+        "slug": "seal-of-trust",
+        "link": "https://suyashfoodindustries.in/product-tag/seal-of-trust/"
+      },
+      {
+        "id": 83,
+        "name": "Unfiltered Flour",
+        "slug": "unfiltered-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/unfiltered-flour/"
+      },
+      {
+        "id": 98,
+        "name": "Whole Grain",
+        "slug": "whole-grain",
+        "link": "https://suyashfoodindustries.in/product-tag/whole-grain/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Kafra (Buckwheat Flour)&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11052",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11052",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11052&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11050,
+    "name": "Pure Sattu (Roasted Grain Mix)",
+    "slug": "pure-sattu",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/pure-sattu/",
+    "sku": "SFI-5",
+    "short_description": "<p>Traditional Pure Sattu(Roasted Grain Mix)</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\"><strong> Traditional Pure Sattu</strong></h3>\n<p data-path-to-node=\"3,1,0\">The Power of Tradition. Uncompromising Purity.</p>\n<ul>\n<li>\n<p data-path-to-node=\"15,2,0\"><b data-path-to-node=\"15,2,0\" data-index-in-node=\"0\">Net Weight:</b> 200g</p>\n</li>\n<li>\n<p data-path-to-node=\"15,3,0\"><b data-path-to-node=\"15,3,0\" data-index-in-node=\"0\">Description:</b> Made from carefully selected and roasted grains, Suyash Food Industries Pure Sattu is a traditional energy booster packed with plant protein and fiber. Instant to prepare as a refreshing drink or meal ingredient, providing natural cooling and sustained energy throughout the day.</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,0\"><b data-path-to-node=\"15,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"15,4,1\">\n<li>\n<p data-path-to-node=\"15,4,1,0,0\">High in natural protein and digestive fiber</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,1,0\">Cools the body naturally and boosts energy</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,2,0\">Zero preservatives or artificial additives</p>\n</li>\n<li>\n<p data-path-to-node=\"15,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "38900",
+      "regular_price": "39900",
+      "sale_price": "38900",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>389.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>399.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11051,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sattu-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sattu-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "sattu-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11051,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sattu-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/sattu-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "sattu-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 33,
+        "name": "Wellness &amp; Superfood Range",
+        "slug": "wellness-superfood-range",
+        "link": "https://suyashfoodindustries.in/product-category/wellness-superfood-range/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 95,
+        "name": "Healthy Drink",
+        "slug": "healthy-drink",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-drink/"
+      },
+      {
+        "id": 93,
+        "name": "High Protein",
+        "slug": "high-protein",
+        "link": "https://suyashfoodindustries.in/product-tag/high-protein/"
+      },
+      {
+        "id": 96,
+        "name": "Natural Energy",
+        "slug": "natural-energy",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-energy/"
+      },
+      {
+        "id": 92,
+        "name": "Power Of Tradition",
+        "slug": "power-of-tradition",
+        "link": "https://suyashfoodindustries.in/product-tag/power-of-tradition/"
+      },
+      {
+        "id": 90,
+        "name": "Pure Sattu",
+        "slug": "pure-sattu",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-sattu/"
+      },
+      {
+        "id": 91,
+        "name": "Roasted Grain Mix",
+        "slug": "roasted-grain-mix",
+        "link": "https://suyashfoodindustries.in/product-tag/roasted-grain-mix/"
+      },
+      {
+        "id": 89,
+        "name": "Sattu",
+        "slug": "sattu",
+        "link": "https://suyashfoodindustries.in/product-tag/sattu/"
+      },
+      {
+        "id": 79,
+        "name": "Seal Of Trust",
+        "slug": "seal-of-trust",
+        "link": "https://suyashfoodindustries.in/product-tag/seal-of-trust/"
+      },
+      {
+        "id": 94,
+        "name": "Uncompromising Purity",
+        "slug": "uncompromising-purity",
+        "link": "https://suyashfoodindustries.in/product-tag/uncompromising-purity/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Pure Sattu (Roasted Grain Mix)&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11050",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11050",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11050&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11047,
+    "name": "Ogla",
+    "slug": "ogla",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/ogla/",
+    "sku": "SFI-4",
+    "short_description": "<p>Traditional Unfiltered Ogla Flour (Buckwheat / Kuttu)</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\">Traditional Unfiltered Ogla Flour (Buckwheat / Kuttu)</h3>\n<p data-path-to-node=\"3,1,0\">बिना छाना हुआ — Pure Himalayan Heritage</p>\n<ul>\n<li>\n<p data-path-to-node=\"12,2,0\"><b data-path-to-node=\"12,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"12,3,0\"><b data-path-to-node=\"12,3,0\" data-index-in-node=\"0\">Description:</b> Ground naturally without sifting or refining, our Ogla flour retains maximum bran, fiber, and raw natural nutrients. A staple during fasting periods and ideal for making healthy rotis, chilas, and pancakes with authentic taste.</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,0\"><b data-path-to-node=\"12,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"12,4,1\">\n<li>\n<p data-path-to-node=\"12,4,1,0,0\">Unfiltered (बिना छाना हुआ) for maximum fiber and nutrition</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,1,0\">Gluten-free and nutrient-dense</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,2,0\">Authentic stone-ground texture and natural aroma</p>\n</li>\n<li>\n<p data-path-to-node=\"12,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "48900",
+      "regular_price": "59900",
+      "sale_price": "48900",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>489.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11049,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ogla-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ogla-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "ogla-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11049,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ogla-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/ogla-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "ogla-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 84,
+        "name": "Bina Chana Hua",
+        "slug": "bina-chana-hua",
+        "link": "https://suyashfoodindustries.in/product-tag/bina-chana-hua/"
+      },
+      {
+        "id": 82,
+        "name": "Buckwheat Flour",
+        "slug": "buckwheat-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/buckwheat-flour/"
+      },
+      {
+        "id": 86,
+        "name": "Himalayan Flour",
+        "slug": "himalayan-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-flour/"
+      },
+      {
+        "id": 85,
+        "name": "Natural Flour",
+        "slug": "natural-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/natural-flour/"
+      },
+      {
+        "id": 81,
+        "name": "Ogla",
+        "slug": "ogla",
+        "link": "https://suyashfoodindustries.in/product-tag/ogla/"
+      },
+      {
+        "id": 88,
+        "name": "Pure And Natural",
+        "slug": "pure-and-natural",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-and-natural/"
+      },
+      {
+        "id": 79,
+        "name": "Seal Of Trust",
+        "slug": "seal-of-trust",
+        "link": "https://suyashfoodindustries.in/product-tag/seal-of-trust/"
+      },
+      {
+        "id": 87,
+        "name": "Stone Ground",
+        "slug": "stone-ground",
+        "link": "https://suyashfoodindustries.in/product-tag/stone-ground/"
+      },
+      {
+        "id": 83,
+        "name": "Unfiltered Flour",
+        "slug": "unfiltered-flour",
+        "link": "https://suyashfoodindustries.in/product-tag/unfiltered-flour/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Ogla&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11047",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11047",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11047&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11043,
+    "name": "Koda",
+    "slug": "koda",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/koda/",
+    "sku": "SFI-3",
+    "short_description": "<p>Traditional Unpolished Koda Grain / Flour</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\"><strong> Traditional Unpolished Koda Grain / Flour</strong></h3>\n<p data-path-to-node=\"3,1,0\">पाएँ परंपरा का स्वाद, शुद्धता का भरोसा।</p>\n<ul>\n<li>\n<p data-path-to-node=\"9,2,0\"><b data-path-to-node=\"9,2,0\" data-index-in-node=\"0\">Net Weight:</b> 250g</p>\n</li>\n<li>\n<p data-path-to-node=\"9,3,0\"><b data-path-to-node=\"9,3,0\" data-index-in-node=\"0\">Description:</b> Koda (Kodo Millet) is a traditional Himalayan super-grain celebrated for its low glycemic index and high dietary fiber content. Carefully processed by Suyash Food Industries to maintain traditional taste and complete purity, it is an excellent gluten-free alternative for healthy daily meals.</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,0\"><b data-path-to-node=\"9,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"9,4,1\">\n<li>\n<p data-path-to-node=\"9,4,1,0,0\">Low glycemic index (GI), great for blood sugar management</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,1,0\">Rich in dietary fiber and essential minerals</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,2,0\">Unprocessed, wholesome, and 100% natural</p>\n</li>\n<li>\n<p data-path-to-node=\"9,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "47700",
+      "regular_price": "59900",
+      "sale_price": "47700",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>477.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>599.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11044,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/koda-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/koda-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "koda-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11044,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/koda-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/koda-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "koda-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 80,
+        "name": "Healthy Grains",
+        "slug": "healthy-grains",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-grains/"
+      },
+      {
+        "id": 74,
+        "name": "Koda",
+        "slug": "koda",
+        "link": "https://suyashfoodindustries.in/product-tag/koda/"
+      },
+      {
+        "id": 76,
+        "name": "Kodo Millet",
+        "slug": "kodo-millet",
+        "link": "https://suyashfoodindustries.in/product-tag/kodo-millet/"
+      },
+      {
+        "id": 75,
+        "name": "Kodra",
+        "slug": "kodra",
+        "link": "https://suyashfoodindustries.in/product-tag/kodra/"
+      },
+      {
+        "id": 73,
+        "name": "Pure And Unpolished",
+        "slug": "pure-and-unpolished",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-and-unpolished/"
+      },
+      {
+        "id": 79,
+        "name": "Seal Of Trust",
+        "slug": "seal-of-trust",
+        "link": "https://suyashfoodindustries.in/product-tag/seal-of-trust/"
+      },
+      {
+        "id": 62,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/product-tag/suyash-food-industries/"
+      },
+      {
+        "id": 78,
+        "name": "Traditional Grain",
+        "slug": "traditional-grain",
+        "link": "https://suyashfoodindustries.in/product-tag/traditional-grain/"
+      },
+      {
+        "id": 77,
+        "name": "Unpolished Grain",
+        "slug": "unpolished-grain",
+        "link": "https://suyashfoodindustries.in/product-tag/unpolished-grain/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Koda&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11043",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11043",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11043&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11041,
+    "name": "Kala Chawal",
+    "slug": "kala-chawal",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/kala-chawal/",
+    "sku": "SFI-2",
+    "short_description": "<p>Premium Unpolished Kala Chawal (Black Rice)</p>",
+    "description": "<h3 data-path-to-node=\"3,0,0\"><strong> Premium Unpolished Kala Chawal (Black Rice)</strong></h3>\n<p data-path-to-node=\"3,1,0\">The Ancient Power of Kala Chawal — Authenticity &amp; Health in Every Grain.</p>\n<ul>\n<li>\n<p data-path-to-node=\"6,2,0\"><b data-path-to-node=\"6,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n</li>\n<li>\n<p data-path-to-node=\"6,3,0\"><b data-path-to-node=\"6,3,0\" data-index-in-node=\"0\">Description:</b> Known for its rich color and exceptional health benefits, our Unpolished Black Rice is packed with powerful anthocyanin antioxidants, dietary fiber, and essential minerals. Perfect for healthy fried rice, kheer, pilafs, or nutrient-dense bowls.</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,0\"><b data-path-to-node=\"6,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul data-path-to-node=\"6,4,1\">\n<li>\n<p data-path-to-node=\"6,4,1,0,0\">Helps in blood sugar control &amp; supports heart health</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,1,0\">Rich in plant-based antioxidants and dietary fiber</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,2,0\">Pure and unpolished promise</p>\n</li>\n<li>\n<p data-path-to-node=\"6,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": true,
+    "prices": {
+      "price": "34700",
+      "regular_price": "49900",
+      "sale_price": "34700",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<ins class=\"pxl-mr-12\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>347.00</span></ins><del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>499.00</span></del>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11042,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-chawal-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-chawal-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-chawal-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11042,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-chawal-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2026/08/kala-chawal-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "kala-chawal-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 72,
+        "name": "Ancient Power",
+        "slug": "ancient-power",
+        "link": "https://suyashfoodindustries.in/product-tag/ancient-power/"
+      },
+      {
+        "id": 60,
+        "name": "Antioxidants",
+        "slug": "antioxidants",
+        "link": "https://suyashfoodindustries.in/product-tag/antioxidants/"
+      },
+      {
+        "id": 70,
+        "name": "Blood Sugar Control",
+        "slug": "blood-sugar-control",
+        "link": "https://suyashfoodindustries.in/product-tag/blood-sugar-control/"
+      },
+      {
+        "id": 61,
+        "name": "Bran Layer",
+        "slug": "bran-layer",
+        "link": "https://suyashfoodindustries.in/product-tag/bran-layer/"
+      },
+      {
+        "id": 59,
+        "name": "Diabetic Friendly",
+        "slug": "diabetic-friendly",
+        "link": "https://suyashfoodindustries.in/product-tag/diabetic-friendly/"
+      },
+      {
+        "id": 67,
+        "name": "Fried Rice Special",
+        "slug": "fried-rice-special",
+        "link": "https://suyashfoodindustries.in/product-tag/fried-rice-special/"
+      },
+      {
+        "id": 69,
+        "name": "Healthy Heart",
+        "slug": "healthy-heart",
+        "link": "https://suyashfoodindustries.in/product-tag/healthy-heart/"
+      },
+      {
+        "id": 68,
+        "name": "High Fiber",
+        "slug": "high-fiber",
+        "link": "https://suyashfoodindustries.in/product-tag/high-fiber/"
+      },
+      {
+        "id": 66,
+        "name": "Himalayan Grain",
+        "slug": "himalayan-grain",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-grain/"
+      },
+      {
+        "id": 58,
+        "name": "Himalayan Rice",
+        "slug": "himalayan-rice",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-rice/"
+      },
+      {
+        "id": 64,
+        "name": "Kala Chawal",
+        "slug": "kala-chawal",
+        "link": "https://suyashfoodindustries.in/product-tag/kala-chawal/"
+      },
+      {
+        "id": 56,
+        "name": "LalChawal",
+        "slug": "lalchawal",
+        "link": "https://suyashfoodindustries.in/product-tag/lalchawal/"
+      },
+      {
+        "id": 73,
+        "name": "Pure And Unpolished",
+        "slug": "pure-and-unpolished",
+        "link": "https://suyashfoodindustries.in/product-tag/pure-and-unpolished/"
+      },
+      {
+        "id": 71,
+        "name": "Rich In Antioxidants",
+        "slug": "rich-in-antioxidants",
+        "link": "https://suyashfoodindustries.in/product-tag/rich-in-antioxidants/"
+      },
+      {
+        "id": 62,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/product-tag/suyash-food-industries/"
+      },
+      {
+        "id": 65,
+        "name": "Unpolished Black Rice",
+        "slug": "unpolished-black-rice",
+        "link": "https://suyashfoodindustries.in/product-tag/unpolished-black-rice/"
+      },
+      {
+        "id": 57,
+        "name": "Unpolished Rice",
+        "slug": "unpolished-rice",
+        "link": "https://suyashfoodindustries.in/product-tag/unpolished-rice/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Kala Chawal&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=11041",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/11041",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=11041&per_page=10"
+        }
+      ]
+    }
+  },
+  {
+    "id": 1888,
+    "name": "Lal Chawal",
+    "slug": "lal-chawal",
+    "parent": 0,
+    "type": "simple",
+    "variation": "",
+    "permalink": "https://suyashfoodindustries.in/product/lal-chawal/",
+    "sku": "SFI-1",
+    "short_description": "<p>Pure Unpolished Lal Chawal (Red Rice)</p>",
+    "description": "<p data-path-to-node=\"3,0,0\"><strong>Pure Unpolished Lal Chawal (Red Rice)</strong></p>\n<p data-path-to-node=\"3,1,0\">पाएँ परंपरा का स्वाद — शुद्ध, अनपॉलिश लाल चावल।</p>\n<p data-path-to-node=\"3,2,0\"><b data-path-to-node=\"3,2,0\" data-index-in-node=\"0\">Net Weight:</b> 500g</p>\n<p data-path-to-node=\"3,3,0\"><b data-path-to-node=\"3,3,0\" data-index-in-node=\"0\">Description:</b> Sourced from traditional Himalayan regions, Suyash Food Industries Unpolished Red Rice retains its natural bran layer, giving it a rich, nutty flavor and superior nutritional value. Rich in antioxidants and fiber, it is ideal for preparing hearty khichdi, porridges, or daily meals.</p>\n<p data-path-to-node=\"3,4,0\"><b data-path-to-node=\"3,4,0\" data-index-in-node=\"0\">Key Highlights:</b></p>\n<ul>\n<li style=\"list-style-type: none\">\n<ul>\n<li style=\"list-style-type: none\">\n<ul data-path-to-node=\"3,4,1\">\n<li>\n<p data-path-to-node=\"3,4,1,0,0\">Diabetic friendly &amp; easy to digest</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,1,0\">High natural antioxidants &amp; bran layer retention</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,2,0\">100% pure, unpolished, and chemical-free</p>\n</li>\n<li>\n<p data-path-to-node=\"3,4,1,3,0\">FSSAI Certified</p>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>",
+    "on_sale": false,
+    "prices": {
+      "price": "39900",
+      "regular_price": "39900",
+      "sale_price": "39900",
+      "price_range": null,
+      "currency_code": "INR",
+      "currency_symbol": "₹",
+      "currency_minor_unit": 2,
+      "currency_decimal_separator": ".",
+      "currency_thousand_separator": ",",
+      "currency_prefix": "₹",
+      "currency_suffix": ""
+    },
+    "price_html": "<span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\" dir=\"auto\">&#8377;</span>399.00</span>",
+    "average_rating": "0",
+    "review_count": 0,
+    "images": [
+      {
+        "id": 11031,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/lal-chawal-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/lal-chawal-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-chawal-suyash-food-industries",
+        "alt": ""
+      },
+      {
+        "id": 11031,
+        "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/lal-chawal-suyash-food-industries.jpeg",
+        "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/lal-chawal-suyash-food-industries-330x330.jpeg",
+        "srcset": "",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "thumbnail_srcset": "",
+        "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+        "name": "lal-chawal-suyash-food-industries",
+        "alt": ""
+      }
+    ],
+    "categories": [
+      {
+        "id": 39,
+        "name": "Himalayan Organic Staples",
+        "slug": "himalayan-organic-staples",
+        "link": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+      }
+    ],
+    "tags": [
+      {
+        "id": 60,
+        "name": "Antioxidants",
+        "slug": "antioxidants",
+        "link": "https://suyashfoodindustries.in/product-tag/antioxidants/"
+      },
+      {
+        "id": 61,
+        "name": "Bran Layer",
+        "slug": "bran-layer",
+        "link": "https://suyashfoodindustries.in/product-tag/bran-layer/"
+      },
+      {
+        "id": 59,
+        "name": "Diabetic Friendly",
+        "slug": "diabetic-friendly",
+        "link": "https://suyashfoodindustries.in/product-tag/diabetic-friendly/"
+      },
+      {
+        "id": 58,
+        "name": "Himalayan Rice",
+        "slug": "himalayan-rice",
+        "link": "https://suyashfoodindustries.in/product-tag/himalayan-rice/"
+      },
+      {
+        "id": 56,
+        "name": "LalChawal",
+        "slug": "lalchawal",
+        "link": "https://suyashfoodindustries.in/product-tag/lalchawal/"
+      },
+      {
+        "id": 62,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/product-tag/suyash-food-industries/"
+      },
+      {
+        "id": 57,
+        "name": "Unpolished Rice",
+        "slug": "unpolished-rice",
+        "link": "https://suyashfoodindustries.in/product-tag/unpolished-rice/"
+      }
+    ],
+    "brands": [
+      {
+        "id": 63,
+        "name": "Suyash Food Industries",
+        "slug": "suyash-food-industries",
+        "link": "https://suyashfoodindustries.in/brand/suyash-food-industries/"
+      }
+    ],
+    "attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "has_options": false,
+    "is_purchasable": true,
+    "is_in_stock": true,
+    "is_on_backorder": false,
+    "low_stock_remaining": null,
+    "stock_availability": {
+      "text": "",
+      "class": "in-stock"
+    },
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "formatted_weight": "N/A",
+    "formatted_dimensions": "N/A",
+    "add_to_cart": {
+      "text": "Add to cart",
+      "description": "Add to cart: &ldquo;Lal Chawal&rdquo;",
+      "url": "/wp-json/wc/store/v1/products?per_page=100&#038;add-to-cart=1888",
+      "single_text": "Add to cart",
+      "minimum": 1,
+      "maximum": 9999,
+      "multiple_of": 1
+    },
+    "is_password_protected": false,
+    "extensions": {},
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products/1888",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products"
+        }
+      ],
+      "related": [
+        {
+          "embeddable": true,
+          "href": "https://suyashfoodindustries.in/wp-json/wc/store/v1/products?related=1888&per_page=10"
+        }
+      ]
+    }
+  }
+]

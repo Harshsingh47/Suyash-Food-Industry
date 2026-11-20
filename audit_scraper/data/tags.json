@@ -1,0 +1,4402 @@
+[
+  {
+    "id": 72,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/ancient-power/",
+    "name": "Ancient Power",
+    "slug": "ancient-power",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/72",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=72"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/anti-inflammatory/",
+    "name": "Anti Inflammatory",
+    "slug": "anti-inflammatory",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/113",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=113"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 60,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/antioxidants/",
+    "name": "Antioxidants",
+    "slug": "antioxidants",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/60",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=60"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 169,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/artisan-fruit-jam/",
+    "name": "Artisan Fruit Jam",
+    "slug": "artisan-fruit-jam",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/169",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=169"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 189,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/authentic-taste/",
+    "name": "Authentic Taste",
+    "slug": "authentic-taste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/189",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=189"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/baby-food/",
+    "name": "Baby food",
+    "slug": "baby-food",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/12",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 170,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/berry-jam/",
+    "name": "Berry Jam",
+    "slug": "berry-jam",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/170",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=170"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/bina-chana-hua/",
+    "name": "Bina Chana Hua",
+    "slug": "bina-chana-hua",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/84",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=84"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 191,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/black-cumin/",
+    "name": "Black Cumin",
+    "slug": "black-cumin",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/191",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=191"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/blood-sugar-control/",
+    "name": "Blood Sugar Control",
+    "slug": "blood-sugar-control",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/70",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=70"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/bran-layer/",
+    "name": "Bran Layer",
+    "slug": "bran-layer",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/61",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=61"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 172,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/breakfast-spread/",
+    "name": "Breakfast Spread",
+    "slug": "breakfast-spread",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/172",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=172"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/buckwheat-flour/",
+    "name": "Buckwheat Flour",
+    "slug": "buckwheat-flour",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/82",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=82"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 141,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/cold-pressed/",
+    "name": "Cold Pressed",
+    "slug": "cold-pressed",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/141",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=141"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/cold-pressed-apricot-oil/",
+    "name": "Cold Pressed Apricot Oil",
+    "slug": "cold-pressed-apricot-oil",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/133",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=133"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 151,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/cooking-essential/",
+    "name": "Cooking Essential",
+    "slug": "cooking-essential",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/151",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=151"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 179,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/culinary-essential/",
+    "name": "Culinary Essential",
+    "slug": "culinary-essential",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/179",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=179"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 204,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/curry-base/",
+    "name": "Curry Base",
+    "slug": "curry-base",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/204",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=204"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 198,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/curry-paste/",
+    "name": "Curry Paste",
+    "slug": "curry-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/198",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=198"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/curry-special/",
+    "name": "Curry Special",
+    "slug": "curry-special",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/114",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=114"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 166,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/daily-refreshment/",
+    "name": "Daily Refreshment",
+    "slug": "daily-refreshment",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/166",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=166"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/daily-wellness/",
+    "name": "Daily Wellness",
+    "slug": "daily-wellness",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/129",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=129"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 176,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dehydrated-garlic-powder/",
+    "name": "Dehydrated Garlic Powder",
+    "slug": "dehydrated-garlic-powder",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/176",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=176"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 157,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dehydrated-mushrooms/",
+    "name": "Dehydrated Mushrooms",
+    "slug": "dehydrated-mushrooms",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/157",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=157"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 59,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/diabetic-friendly/",
+    "name": "Diabetic Friendly",
+    "slug": "diabetic-friendly",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/59",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=59"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 192,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/digestive-health/",
+    "name": "Digestive Health",
+    "slug": "digestive-health",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/192",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=192"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/digestive-wellness/",
+    "name": "Digestive Wellness",
+    "slug": "digestive-wellness",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/111",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 168,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dimples-jar/",
+    "name": "Dimple's Jar",
+    "slug": "dimples-jar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/168",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=168"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dried-apples/",
+    "name": "Dried Apples",
+    "slug": "dried-apples",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/102",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dried-food/",
+    "name": "Dried food",
+    "slug": "dried-food",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/15",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 153,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/dried-mushroom-mix/",
+    "name": "Dried Mushroom Mix",
+    "slug": "dried-mushroom-mix",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/153",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=153"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 148,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/earthy-spice/",
+    "name": "Earthy Spice",
+    "slug": "earthy-spice",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/148",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=148"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/ecommerce/",
+    "name": "Ecommerce",
+    "slug": "ecommerce",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/16",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/experience-the-foothills/",
+    "name": "Experience The Foothills",
+    "slug": "experience-the-foothills",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/120",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/eye-health-support/",
+    "name": "Eye Health Support",
+    "slug": "eye-health-support",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/112",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=112"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fish/",
+    "name": "Fish",
+    "slug": "fish",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/21",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=21"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 182,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/flavor-enhancer/",
+    "name": "Flavor Enhancer",
+    "slug": "flavor-enhancer",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/182",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=182"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 158,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/forest-bounty/",
+    "name": "Forest Bounty",
+    "slug": "forest-bounty",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/158",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=158"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 154,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/forest-mushrooms/",
+    "name": "Forest Mushrooms",
+    "slug": "forest-mushrooms",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/154",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=154"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 200,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fresh-garlic-paste/",
+    "name": "Fresh Garlic Paste",
+    "slug": "fresh-garlic-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/200",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=200"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 205,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fresh-ginger-paste/",
+    "name": "Fresh Ginger Paste",
+    "slug": "fresh-ginger-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/205",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=205"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fried-rice-special/",
+    "name": "Fried Rice Special",
+    "slug": "fried-rice-special",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/67",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=67"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 167,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fruit-beverage/",
+    "name": "Fruit Beverage",
+    "slug": "fruit-beverage",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/167",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=167"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 165,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fruit-concentrate/",
+    "name": "Fruit Concentrate",
+    "slug": "fruit-concentrate",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/165",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=165"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 162,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/fruit-drink/",
+    "name": "Fruit Drink",
+    "slug": "fruit-drink",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/162",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=162"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 195,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/garlic-paste/",
+    "name": "Garlic Paste",
+    "slug": "garlic-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/195",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=195"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 177,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/garlic-powder/",
+    "name": "Garlic Powder",
+    "slug": "garlic-powder",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/177",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=177"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 201,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/ginger-paste/",
+    "name": "Ginger Paste",
+    "slug": "ginger-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/201",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=201"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 130,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/glass-jar-packaging/",
+    "name": "Glass Jar Packaging",
+    "slug": "glass-jar-packaging",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/130",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=130"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/golden-spice/",
+    "name": "Golden Spice",
+    "slug": "golden-spice",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/147",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=147"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 159,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/gourmet-cooking/",
+    "name": "Gourmet Cooking",
+    "slug": "gourmet-cooking",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/159",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=159"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 175,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/gourmet-jam/",
+    "name": "Gourmet Jam",
+    "slug": "gourmet-jam",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/175",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=175"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 155,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/gourmet-mushrooms/",
+    "name": "Gourmet Mushrooms",
+    "slug": "gourmet-mushrooms",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/155",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=155"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 186,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/granular-ghee/",
+    "name": "Granular Ghee",
+    "slug": "granular-ghee",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/186",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=186"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/haldi/",
+    "name": "Haldi",
+    "slug": "haldi",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/145",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=145"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/hand-picked-quality/",
+    "name": "Hand Picked Quality",
+    "slug": "hand-picked-quality",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/118",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=118"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy/",
+    "name": "Healthy",
+    "slug": "healthy",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/27",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 188,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy-cooking-fats/",
+    "name": "Healthy Cooking Fats",
+    "slug": "healthy-cooking-fats",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/188",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=188"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 95,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy-drink/",
+    "name": "Healthy Drink",
+    "slug": "healthy-drink",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/95",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=95"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy-grains/",
+    "name": "Healthy Grains",
+    "slug": "healthy-grains",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/80",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=80"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy-heart/",
+    "name": "Healthy Heart",
+    "slug": "healthy-heart",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/69",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=69"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 104,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/healthy-snack/",
+    "name": "Healthy Snack",
+    "slug": "healthy-snack",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/104",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=104"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/high-fiber/",
+    "name": "High Fiber",
+    "slug": "high-fiber",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/68",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=68"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/high-plant-protein/",
+    "name": "High Plant Protein",
+    "slug": "high-plant-protein",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/110",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=110"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 93,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/high-protein/",
+    "name": "High Protein",
+    "slug": "high-protein",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/93",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=93"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-apples/",
+    "name": "Himalayan Apples",
+    "slug": "himalayan-apples",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/103",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-flour/",
+    "name": "Himalayan Flour",
+    "slug": "himalayan-flour",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/86",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=86"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-grain/",
+    "name": "Himalayan Grain",
+    "slug": "himalayan-grain",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/66",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=66"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-lal-rajma/",
+    "name": "Himalayan Lal Rajma",
+    "slug": "himalayan-lal-rajma",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/116",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=116"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-produce/",
+    "name": "Himalayan Produce",
+    "slug": "himalayan-produce",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/122",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=122"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 58,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-rice/",
+    "name": "Himalayan Rice",
+    "slug": "himalayan-rice",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/58",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=58"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/himalayan-specialty/",
+    "name": "Himalayan Specialty",
+    "slug": "himalayan-specialty",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/99",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=99"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 193,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/immunity-booster/",
+    "name": "Immunity Booster",
+    "slug": "immunity-booster",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/193",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=193"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kafra/",
+    "name": "Kafra",
+    "slug": "kafra",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/97",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kala-chawal/",
+    "name": "Kala Chawal",
+    "slug": "kala-chawal",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/64",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=64"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 190,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kala-jira/",
+    "name": "Kala Jira",
+    "slug": "kala-jira",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/190",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=190"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kala-matar/",
+    "name": "Kala Matar",
+    "slug": "kala-matar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/108",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=108"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 199,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kitchen-essential/",
+    "name": "Kitchen Essential",
+    "slug": "kitchen-essential",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/199",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=199"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/koda/",
+    "name": "Koda",
+    "slug": "koda",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/74",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=74"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kodo-millet/",
+    "name": "Kodo Millet",
+    "slug": "kodo-millet",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/76",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=76"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/kodra/",
+    "name": "Kodra",
+    "slug": "kodra",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/75",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=75"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 56,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/lalchawal/",
+    "name": "LalChawal",
+    "slug": "lalchawal",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/56",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=56"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 197,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/marinade-paste/",
+    "name": "Marinade Paste",
+    "slug": "marinade-paste",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/197",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=197"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 0,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/meat/",
+    "name": "Meat",
+    "slug": "meat",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/28",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 187,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/milk-fat-ghee/",
+    "name": "Milk Fat Ghee",
+    "slug": "milk-fat-ghee",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/187",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=187"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 171,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/mixed-fruit-jam/",
+    "name": "Mixed Fruit Jam",
+    "slug": "mixed-fruit-jam",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/171",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=171"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/mountain-sourced/",
+    "name": "Mountain Sourced",
+    "slug": "mountain-sourced",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/138",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=138"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 161,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/narthi-dipu/",
+    "name": "Narthi Dipu",
+    "slug": "narthi-dipu",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/161",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=161"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 149,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/natural-antioxidants/",
+    "name": "Natural Antioxidants",
+    "slug": "natural-antioxidants",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/149",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=149"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/natural-apple-slices/",
+    "name": "Natural Apple Slices",
+    "slug": "natural-apple-slices",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/106",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 96,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/natural-energy/",
+    "name": "Natural Energy",
+    "slug": "natural-energy",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/96",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/natural-flour/",
+    "name": "Natural Flour",
+    "slug": "natural-flour",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/85",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=85"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 135,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/natural-skincare/",
+    "name": "Natural Skincare",
+    "slug": "natural-skincare",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/135",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=135"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 160,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/nd-fresh/",
+    "name": "ND Fresh",
+    "slug": "nd-fresh",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/160",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=160"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/nilansh-gold/",
+    "name": "Nilansh Gold",
+    "slug": "nilansh-gold",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/123",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=123"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/no-added-sugar/",
+    "name": "No Added Sugar",
+    "slug": "no-added-sugar",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/105",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=105"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/nuts-and-seeds-mix/",
+    "name": "Nuts And Seeds Mix",
+    "slug": "nuts-and-seeds-mix",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/127",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=127"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/ogla/",
+    "name": "Ogla",
+    "slug": "ogla",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/81",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=81"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 142,
+    "count": 2,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/omega-3/",
+    "name": "Omega 3",
+    "slug": "omega-3",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/142",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=142"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "count": 1,
+    "description": "",
+    "link": "https://suyashfoodindustries.in/product-tag/orchard-fresh/",
+    "name": "Orchard Fresh",
+    "slug": "orchard-fresh",
+    "taxonomy": "product_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag/107",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product_tag"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/taxonomies/product_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://suyashfoodindustries.in/wp-json/wp/v2/product?product_tag=107"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

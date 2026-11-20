@@ -1,0 +1,149 @@
+[
+  {
+    "id": 29,
+    "name": "Apricot Oils",
+    "slug": "apricot-oils",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": {
+      "id": 6209,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget.png 316w, https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget-300x266.png 300w",
+      "sizes": "(max-width: 316px) 100vw, 316px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget.png 316w, https://suyashfoodindustries.in/wp-content/uploads/2024/11/cate-veget-300x266.png 300w",
+      "thumbnail_sizes": "(max-width: 316px) 100vw, 316px",
+      "name": "cate-veget",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/apricot-oils/"
+  },
+  {
+    "id": 43,
+    "name": "Dimple&#8217;s Jar",
+    "slug": "dimples-jar",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": {
+      "id": 1864,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd5-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd5-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/dimples-jar/"
+  },
+  {
+    "id": 46,
+    "name": "Dried Gourmet &amp; Flakes",
+    "slug": "dried-gourmet-flakes",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": {
+      "id": 1870,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd11-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/dried-gourmet-flakes/"
+  },
+  {
+    "id": 39,
+    "name": "Himalayan Organic Staples",
+    "slug": "himalayan-organic-staples",
+    "description": "",
+    "parent": 0,
+    "count": 11,
+    "image": {
+      "id": 1863,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd4-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd4-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/himalayan-organic-staples/"
+  },
+  {
+    "id": 41,
+    "name": "Nilansh Gold",
+    "slug": "nilansh-gold",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": {
+      "id": 1870,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd11-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd11-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/nilansh-gold/"
+  },
+  {
+    "id": 44,
+    "name": "Saroj&#8217;s Heritage",
+    "slug": "sarojs-heritage",
+    "description": "",
+    "parent": 0,
+    "count": 2,
+    "image": {
+      "id": 1861,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd2-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd2-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/sarojs-heritage/"
+  },
+  {
+    "id": 33,
+    "name": "Wellness &amp; Superfood Range",
+    "slug": "wellness-superfood-range",
+    "description": "",
+    "parent": 0,
+    "count": 3,
+    "image": {
+      "id": 1868,
+      "src": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min.png",
+      "thumbnail": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-330x330.png",
+      "srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min.png 682w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-600x600.png 600w",
+      "sizes": "(max-width: 682px) 100vw, 682px",
+      "thumbnail_srcset": "https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-330x330.png 330w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-417x417.png 417w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min-600x600.png 600w, https://suyashfoodindustries.in/wp-content/uploads/2024/09/pd9-min.png 682w",
+      "thumbnail_sizes": "(max-width: 330px) 100vw, 330px",
+      "name": "pd9-min",
+      "alt": ""
+    },
+    "review_count": 0,
+    "permalink": "https://suyashfoodindustries.in/product-category/wellness-superfood-range/"
+  }
+]

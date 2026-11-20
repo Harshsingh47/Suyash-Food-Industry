@@ -1,0 +1,369 @@
+# DATABASE SCHEMA SPECIFICATION
+# SUYASH FOOD INDUSTRIES
+
+**Database Engine:** PostgreSQL 17  
+**ORM:** Prisma ORM  
+**Connection URL:** `postgresql://postgres@localhost:5433/suyash_db?schema=public`  
+
+---
+
+## 1. Entity Relationship Overview
+
+The schema is built specifically around the **Product Discovery & WhatsApp Enquiry** model. Online payment and checkout models are intentionally excluded.
+
+```text
+┌──────────────┐          ┌──────────────────────┐          ┌──────────────────────┐
+│   Category   │ 1 ──── * │       Product        │ 1 ──── * │     ProductImage     │
+└──────────────┘          └──────────────────────┘          └──────────────────────┘
+                               │             │
+                               │ 1           │ 1
+                               │ *           │ *
+                      ┌───────────────┐  ┌──────────────────────┐
+                      │ ProductVar    │  │   InventoryHistory   │
+                      └───────────────┘  └──────────────────────┘
+                               │                     ▲
+                               ▼                     │
+┌──────────────┐          ┌───────────────┐          │
+│   Customer   │ 1 ──── * │    Enquiry    │ ──── User (Admin)
+└──────────────┘          └───────────────┘
+                               │
+            ┌──────────────────┼──────────────────┐
+            ▼                  ▼                  ▼
+  ┌───────────────────┐ ┌─────────────────┐ ┌───────────────────┐
+  │    EnquiryItem    │ │  StatusHistory  │ │   FollowUpNote    │
+  └───────────────────┘ └─────────────────┘ └───────────────────┘
+```
+
+---
+
+## 2. Prisma Schema Definitions
+
+```prisma
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  SUPER_ADMIN
+  MANAGER
+}
+
+enum EnquiryStatus {
+  NEW
+  CONTACTED
+  FOLLOW_UP_REQUIRED
+  QUOTATION_SHARED
+  CONVERTED
+  CLOSED
+}
+
+model User {
+  id            String         @id @default(uuid())
+  email         String         @unique
+  passwordHash  String
+  name          String
+  phone         String?
+  role          Role           @default(MANAGER)
+  isActive      Boolean        @default(true)
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+
+  statusChanges EnquiryStatusHistory[]
+  followUpNotes EnquiryFollowUpNote[]
+  stockChanges  InventoryHistory[]
+  activityLogs  AdminActivityLog[]
+}
+
+model Customer {
+  id          String         @id @default(uuid())
+  name        String
+  phone       String         @unique
+  email       String?
+  city        String?
+  state       String?
+  notes       String?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  enquiries   Enquiry[]
+}
+
+model Category {
+  id          String         @id @default(uuid())
+  name        String
+  slug        String         @unique
+  description String?
+  imageUrl    String?
+  order       Int            @default(0)
+  isActive    Boolean        @default(true)
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  products    Product[]
+  offers      Offer[]
+}
+
+model Brand {
+  id          String         @id @default(uuid())
+  name        String
+  slug        String         @unique
+  tagline     String?
+  description String?
+  logoUrl     String?
+  bannerUrl   String?
+  order       Int            @default(0)
+  isActive    Boolean        @default(true)
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  products    Product[]
+}
+
+model Product {
+  id                  String         @id @default(uuid())
+  name                String
+  slug                String         @unique
+  sku                 String         @unique
+  shortDescription    String?
+  description         String
+  ingredients         String?
+  benefits            String?
+  storageInstructions String?
+  regularPrice        Float
+  salePrice           Float?
+  showPrice           Boolean        @default(true)
+  stockQuantity       Int            @default(100)
+  lowStockThreshold   Int            @default(10)
+  isInStock           Boolean        @default(true)
+  isFeatured          Boolean        @default(false)
+  isBestSeller        Boolean        @default(false)
+  isNewArrival        Boolean        @default(false)
+  isPublished         Boolean        @default(true)
+  createdAt           DateTime       @default(now())
+  updatedAt           DateTime       @updatedAt
+
+  categoryId          String
+  category            Category       @relation(fields: [categoryId], references: [id])
+  brandId             String?
+  brand               Brand?         @relation(fields: [brandId], references: [id])
+
+  images              ProductImage[]
+  variations          ProductVariation[]
+  enquiryItems        EnquiryItem[]
+  inventoryHistory    InventoryHistory[]
+  offers              Offer[]
+
+  @@index([slug])
+  @@index([sku])
+  @@index([categoryId])
+}
+
+model ProductImage {
+  id        String   @id @default(uuid())
+  productId String
+  product   Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  url       String
+  altText   String?
+  isMain    Boolean  @default(false)
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+}
+
+model ProductVariation {
+  id            String   @id @default(uuid())
+  productId     String
+  product       Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  name          String
+  weight        String
+  regularPrice  Float
+  salePrice     Float?
+  stockQuantity Int      @default(50)
+  sku           String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  enquiryItems  EnquiryItem[]
+}
+
+model InventoryHistory {
+  id                String   @id @default(uuid())
+  productId         String
+  product           Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  previousStock     Int
+  newStock          Int
+  changeQuantity    Int
+  reason            String
+  adjustedByUserId  String
+  adjustedBy        User     @relation(fields: [adjustedByUserId], references: [id])
+  createdAt         DateTime @default(now())
+}
+
+model Enquiry {
+  id              String         @id @default(uuid())
+  referenceNumber String         @unique // e.g. SFI-ENQ-2026-1001
+  customerId      String?
+  customer        Customer?      @relation(fields: [customerId], references: [id])
+  customerName    String
+  customerPhone   String
+  customerEmail   String?
+  customerCity    String?
+  customerMessage String?
+  status          EnquiryStatus  @default(NEW)
+  followUpDate    DateTime?
+  internalNotes   String?
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+
+  items           EnquiryItem[]
+  statusHistory   EnquiryStatusHistory[]
+  followUpNotes   EnquiryFollowUpNote[]
+
+  @@index([referenceNumber])
+  @@index([customerPhone])
+  @@index([status])
+}
+
+model EnquiryItem {
+  id            String            @id @default(uuid())
+  enquiryId     String
+  enquiry       Enquiry           @relation(fields: [enquiryId], references: [id], onDelete: Cascade)
+  productId     String
+  product       Product           @relation(fields: [productId], references: [id])
+  variationId   String?
+  variation     ProductVariation? @relation(fields: [variationId], references: [id])
+  productName   String
+  variationName String?
+  quantity      Int               @default(1)
+  unitPrice     Float?
+  totalPrice    Float?
+}
+
+model EnquiryStatusHistory {
+  id              String         @id @default(uuid())
+  enquiryId       String
+  enquiry         Enquiry        @relation(fields: [enquiryId], references: [id], onDelete: Cascade)
+  previousStatus  EnquiryStatus
+  newStatus       EnquiryStatus
+  changedByUserId String
+  changedBy       User           @relation(fields: [changedByUserId], references: [id])
+  comment         String?
+  createdAt       DateTime       @default(now())
+}
+
+model EnquiryFollowUpNote {
+  id              String   @id @default(uuid())
+  enquiryId       String
+  enquiry         Enquiry  @relation(fields: [enquiryId], references: [id], onDelete: Cascade)
+  note            String
+  createdByUserId String
+  createdBy       User     @relation(fields: [createdByUserId], references: [id])
+  createdAt       DateTime @default(now())
+}
+
+model Offer {
+  id                 String    @id @default(uuid())
+  title              String
+  subtitle           String?
+  badgeText          String?
+  discountPercentage Float?
+  bannerUrl          String?
+  startDate          DateTime?
+  endDate            DateTime?
+  isActive           Boolean   @default(true)
+  targetCategoryId   String?
+  targetCategory     Category? @relation(fields: [targetCategoryId], references: [id])
+  targetProductId    String?
+  targetProduct      Product?  @relation(fields: [targetProductId], references: [id])
+  createdAt          DateTime  @default(now())
+  updatedAt          DateTime  @updatedAt
+}
+
+model Banner {
+  id             String   @id @default(uuid())
+  title          String
+  subtitle       String?
+  description    String?
+  ctaText        String?  @default("Explore Products")
+  ctaLink        String?  @default("/shop")
+  imageUrl       String
+  mobileImageUrl String?
+  order          Int      @default(0)
+  isActive       Boolean  @default(true)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model BlogPost {
+  id             String    @id @default(uuid())
+  title          String
+  slug           String    @unique
+  excerpt        String?
+  content        String
+  featuredImage  String?
+  author         String    @default("Suyash Editorial")
+  seoTitle       String?
+  seoDescription String?
+  isPublished    Boolean   @default(true)
+  publishedAt    DateTime  @default(now())
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+}
+
+model Testimonial {
+  id         String   @id @default(uuid())
+  name       String
+  role       String?
+  location   String?
+  content    String
+  rating     Int      @default(5)
+  avatarUrl  String?
+  isFeatured Boolean  @default(true)
+  isActive   Boolean  @default(true)
+  order      Int      @default(0)
+  createdAt  DateTime @default(now())
+}
+
+model NewsletterSubscriber {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  isActive  Boolean  @default(true)
+  createdAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id            String   @id @default(uuid())
+  name          String
+  email         String
+  phone         String?
+  subject       String?
+  message       String
+  isResolved    Boolean  @default(false)
+  internalNotes String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+model Setting {
+  id          String   @id @default(uuid())
+  key         String   @unique
+  value       String
+  description String?
+  updatedAt   DateTime @updatedAt
+}
+
+model AdminActivityLog {
+  id         String   @id @default(uuid())
+  userId     String
+  user       User     @relation(fields: [userId], references: [id])
+  action     String   // e.g. "PRODUCT_CREATE", "ENQUIRY_UPDATE"
+  entityType String   // e.g. "Product", "Enquiry"
+  entityId   String?
+  details    String?  // JSON or summary text
+  createdAt  DateTime @default(now())
+}
+```
