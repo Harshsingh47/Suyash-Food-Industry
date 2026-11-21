@@ -8,18 +8,40 @@ export default function AboutPage() {
     <div className="bg-cream/20 min-h-screen py-12 sm:py-16 space-y-16">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
         
-        {/* Hero Section */}
-        <div className="text-center max-w-3xl mx-auto space-y-4">
-          <div className="inline-flex items-center gap-1.5 bg-cream text-forest px-3.5 py-1 rounded-full text-xs font-semibold border border-beige">
-            <Mountain className="w-3.5 h-3.5" />
-            <span>ROOTED IN SOLAN, HIMACHAL PRADESH</span>
+        {/* Hero Section with Himalayan Mountain Origin Theme */}
+        <div className="relative rounded-3xl overflow-hidden p-8 sm:p-12 lg:p-16 text-center max-w-4xl mx-auto space-y-4 border border-beige shadow-sm bg-white/70">
+          <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+            <Image
+              src="/images/himalayan-mountains-origin-bg.jpg"
+              alt="Himalayan Mountain Range Solan Himachal Pradesh"
+              fill
+              className="object-cover object-[center_30%] opacity-25 filter contrast-125"
+            />
+            <div className="absolute inset-0 bg-gradient-to-b from-cream/85 via-cream/70 to-cream/90" />
+            
+            {/* Subtle Mountain Contour Ridge along bottom */}
+            <svg
+              className="absolute bottom-0 inset-x-0 w-full h-16 text-forest/[0.04] pointer-events-none"
+              viewBox="0 0 1200 120"
+              preserveAspectRatio="none"
+              fill="currentColor"
+            >
+              <path d="M0,120 L0,75 L80,50 L160,82 L260,28 L370,85 L460,40 L580,78 L690,15 L780,60 L870,35 L980,70 L1080,20 L1150,55 L1200,45 L1200,120 Z" />
+            </svg>
           </div>
-          <h1 className="font-serif text-3xl sm:text-5xl text-forest font-bold tracking-tight">
-            Our Story & Himalayan Heritage
-          </h1>
-          <p className="text-xs sm:text-base text-charcoal/80 leading-relaxed">
-            At Suyash Food Industries, we believe that the true essence of wholesome living comes from nature’s purest mountain roots. Nestled in the serene hills of Solan, Himachal Pradesh, our journey began with a singular purpose: to make authentic, unadulterated, and traditional Himalayan produce accessible to every home across India.
-          </p>
+
+          <div className="relative z-10 space-y-4">
+            <div className="inline-flex items-center gap-2 bg-forest text-cream px-4 py-1.5 rounded-full text-xs font-semibold shadow-sm">
+              <Mountain className="w-3.5 h-3.5 text-gold" />
+              <span>ROOTED IN SOLAN, HIMACHAL PRADESH</span>
+            </div>
+            <h1 className="font-serif text-3xl sm:text-5xl text-forest font-bold tracking-tight">
+              Our Story & Himalayan Heritage
+            </h1>
+            <p className="text-xs sm:text-base text-charcoal/80 leading-relaxed max-w-2xl mx-auto">
+              At Suyash Food Industries, we believe that the true essence of wholesome living comes from nature’s purest mountain roots. Nestled in the serene hills of Solan, Himachal Pradesh, our journey began with a singular purpose: to make authentic, unadulterated, and traditional Himalayan produce accessible to every home across India.
+            </p>
+          </div>
         </div>
 
         {/* Narrative Split */}

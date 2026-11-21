@@ -7,8 +7,24 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-forest-dark text-cream border-t border-forest pt-16 pb-12">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <footer className="bg-forest-dark text-cream border-t border-forest pt-16 pb-12 relative overflow-hidden">
+      {/* Decorative Himalayan Mountain Ridge Silhouette along top */}
+      <div className="absolute top-0 inset-x-0 pointer-events-none opacity-[0.04] flex items-start overflow-hidden">
+        <svg
+          viewBox="0 0 1440 120"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          className="w-full h-16 sm:h-20 text-cream"
+          preserveAspectRatio="none"
+        >
+          <path
+            d="M0,0 L0,45 L80,20 L180,60 L290,10 L410,55 L530,15 L660,50 L780,5 L890,45 L1010,15 L1130,50 L1250,20 L1360,40 L1440,25 L1440,0 Z"
+            fill="currentColor"
+          />
+        </svg>
+      </div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
         {/* Top Brand & Value Proposition Banner */}
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 pb-12 border-b border-forest-light/40">

@@ -216,14 +216,37 @@ export default function HeroCarousel() {
   return (
     <section
       aria-label="Hero Showcase"
-      className="w-full bg-[#FAF9F6] py-5 sm:py-8 lg:py-10 select-none"
+      className="w-full bg-[#FAF9F6] py-5 sm:py-8 lg:py-10 select-none relative overflow-hidden"
       onMouseEnter={() => setIsPaused(true)}
       onMouseLeave={() => setIsPaused(false)}
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      {/* Background Himalayan Mountain Silhouette Theme */}
+      <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.05] sm:opacity-[0.07] flex items-end overflow-hidden z-0">
+        <svg
+          viewBox="0 0 1440 220"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          className="w-full h-24 sm:h-36 text-forest"
+          preserveAspectRatio="none"
+        >
+          {/* Distant High Himalayan Peaks */}
+          <path
+            d="M0,220 L0,95 L65,70 L140,115 L230,40 L340,120 L440,55 L550,110 L680,25 L800,95 L920,40 L1040,105 L1160,50 L1280,85 L1380,45 L1440,60 L1440,220 Z"
+            fill="currentColor"
+          />
+          {/* Midground Rolling Solan Pine Ridges */}
+          <path
+            d="M0,220 L0,140 L90,105 L190,150 L300,80 L420,140 L530,90 L630,130 L750,70 L870,125 L990,75 L1120,120 L1240,85 L1360,115 L1440,90 L1440,220 Z"
+            fill="currentColor"
+            opacity="0.65"
+          />
+        </svg>
+      </div>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
         {/* Main Hero Card exactly styled as reference */}
         <div className="relative bg-white rounded-3xl lg:rounded-[36px] overflow-hidden shadow-sm border border-stone-200/70 flex flex-col lg:flex-row min-h-[520px] transition-all duration-500">

@@ -198,8 +198,19 @@ export default async function HomePage() {
 
       {/* 5. WILD APRICOT OIL SPOTLIGHT (SAROJ'S HERITAGE) */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-forest-dark text-white rounded-3xl overflow-hidden shadow-2xl">
-          <div className="grid grid-cols-1 lg:grid-cols-12 items-center">
+        <div className="bg-forest-dark text-white rounded-3xl overflow-hidden shadow-2xl relative">
+          {/* Subtle Himalayan mountain ridge silhouette watermark */}
+          <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.05] flex items-end overflow-hidden z-0">
+            <svg
+              viewBox="0 0 1200 120"
+              fill="currentColor"
+              className="w-full h-20 text-cream"
+              preserveAspectRatio="none"
+            >
+              <path d="M0,120 L0,75 L80,50 L160,82 L260,28 L370,85 L460,40 L580,78 L690,15 L780,60 L870,35 L980,70 L1080,20 L1150,55 L1200,45 L1200,120 Z" />
+            </svg>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-12 items-center relative z-10">
             
             <div className="lg:col-span-6 p-8 sm:p-12 lg:p-16 space-y-6">
               <div className="inline-flex items-center gap-2 bg-gold/20 text-gold-light px-3.5 py-1 rounded-full text-xs font-semibold">
@@ -298,8 +309,24 @@ export default async function HomePage() {
       </section>
 
       {/* 7. WHY CHOOSE SUYASH FOOD INDUSTRIES (4 Pillars) */}
-      <section className="bg-cream/60 py-16 sm:py-20 border-y border-beige">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <section className="bg-cream/60 py-16 sm:py-20 border-y border-beige relative overflow-hidden">
+        {/* Subtle Mountain Contour Backdrop */}
+        <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.035] flex items-end overflow-hidden z-0">
+          <svg
+            viewBox="0 0 1440 180"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+            className="w-full h-24 sm:h-28 text-forest"
+            preserveAspectRatio="none"
+          >
+            <path
+              d="M0,180 L0,70 L90,45 L180,95 L290,25 L400,90 L510,40 L620,85 L740,15 L860,80 L980,30 L1100,75 L1220,35 L1340,65 L1440,45 L1440,180 Z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-2xl mx-auto mb-14 space-y-2">
             <span className="text-xs font-bold uppercase tracking-widest text-gold-dark">
               Mountain Heritage & Trust
@@ -395,24 +422,52 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* 9. WHATSAPP ENQUIRY BANNER CTA */}
+      {/* 9. WHATSAPP ENQUIRY BANNER CTA WITH HIMALAYAN MOUNTAIN ORIGIN THEME */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-10">
-        <div className="relative rounded-[2.5rem] bg-gradient-to-br from-[#123020] via-[#1A422D] to-[#0A1F15] border border-emerald-500/25 p-8 sm:p-12 lg:p-16 shadow-2xl overflow-hidden">
+        <div className="relative rounded-[2.5rem] border border-emerald-500/30 p-8 sm:p-12 lg:p-16 shadow-2xl overflow-hidden bg-[#071B11]">
           
-          {/* Ambient Lighting & Pattern */}
-          <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 rounded-full bg-emerald-500/10 blur-3xl pointer-events-none" />
-          <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-96 h-96 rounded-full bg-amber-400/10 blur-3xl pointer-events-none" />
-          <div className="absolute inset-0 opacity-[0.04] pointer-events-none bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:16px_16px]" />
+          {/* Majestic Himalayan Mountain Landscape Background */}
+          <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+            <Image
+              src="/images/himalayan-mountains-origin-bg.jpg"
+              alt="Himalayan Mountain Range Solan Himachal Pradesh Origin"
+              fill
+              className="object-cover object-[center_30%] scale-105 opacity-55 mix-blend-luminosity filter contrast-125"
+              priority
+            />
+            {/* Multi-Stop Cinematic Gradients for Pure Text Legibility & Emerald Mountain Atmosphere */}
+            <div className="absolute inset-0 bg-gradient-to-r from-[#06170E]/96 via-[#0B2518]/90 to-[#071911]/85" />
+            <div className="absolute inset-0 bg-gradient-to-t from-[#04120B] via-transparent to-[#071F14]/75" />
+            <div className="absolute inset-0 bg-emerald-950/25 mix-blend-multiply" />
+            
+            {/* Topographic Contour Elevation Grid Motif */}
+            <div className="absolute inset-0 opacity-[0.035] bg-[radial-gradient(#fff_1px,transparent_1px)] [background-size:20px_20px]" />
+            
+            {/* Decorative Mountain Ridge Silhouette Contour along bottom */}
+            <svg
+              className="absolute bottom-0 inset-x-0 w-full h-24 text-emerald-400/[0.07] pointer-events-none"
+              viewBox="0 0 1200 120"
+              preserveAspectRatio="none"
+              fill="currentColor"
+            >
+              <path d="M0,120 L0,75 L80,50 L160,82 L260,28 L370,85 L460,40 L580,78 L690,15 L780,60 L870,35 L980,70 L1080,20 L1150,55 L1200,45 L1200,120 Z" />
+            </svg>
+          </div>
+
+          {/* Ambient Glowing Orbs */}
+          <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 rounded-full bg-emerald-400/15 blur-3xl pointer-events-none" />
+          <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-96 h-96 rounded-full bg-amber-400/15 blur-3xl pointer-events-none" />
 
           <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-10 lg:gap-12 items-center">
             
             {/* Left Content Column */}
             <div className="lg:col-span-7 space-y-6 text-left">
               
-              {/* Badge */}
-              <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-emerald-950/70 border border-emerald-400/30 text-emerald-300 text-xs font-bold uppercase tracking-wider backdrop-blur-sm">
-                <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                <span>Direct Solan Farm-Gate Supply</span>
+              {/* Origin Badge */}
+              <div className="inline-flex items-center gap-2.5 px-4 py-1.5 rounded-full bg-emerald-950/85 border border-emerald-400/40 text-emerald-200 text-xs font-bold uppercase tracking-wider backdrop-blur-md shadow-lg">
+                <Mountain className="w-3.5 h-3.5 text-amber-300" />
+                <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
+                <span>Solan Valley, Himachal Pradesh • Elev. 1,600m</span>
               </div>
 
               {/* High-Contrast Luminous Headline */}
@@ -425,34 +480,34 @@ export default async function HomePage() {
               </h2>
 
               {/* Crisp Subtitle */}
-              <p className="text-sm sm:text-base text-stone-200/90 leading-relaxed max-w-xl font-normal">
-                We supply retail pantries, organic stores, ayurvedic practitioners, hospitality brands, and wellness retreats across India. Custom grinding, bespoke batch packing, and direct farm dispatch with zero middlemen.
+              <p className="text-sm sm:text-base text-stone-200/95 leading-relaxed max-w-xl font-normal drop-shadow-sm">
+                Direct single-origin supply from certified terraced farms in the high-altitude hills of Solan, Himachal Pradesh. We supply retail pantries, organic stores, ayurvedic practitioners, hospitality brands, and wellness retreats across India with zero middlemen.
               </p>
 
               {/* 3 Key Trust Micro-Pillars */}
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-2">
-                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
-                  <div className="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-300 flex items-center justify-center mb-2">
-                    <Sprout className="w-4 h-4" />
+                <div className="bg-white/[0.07] border border-white/15 rounded-2xl p-3.5 backdrop-blur-md hover:bg-white/[0.1] transition-colors">
+                  <div className="w-7 h-7 rounded-lg bg-emerald-500/25 text-emerald-300 flex items-center justify-center mb-2">
+                    <Mountain className="w-4 h-4" />
                   </div>
-                  <h4 className="text-xs font-bold text-white">Single-Origin</h4>
-                  <p className="text-[11px] text-stone-300 mt-0.5">Himachal valley organic clusters</p>
+                  <h4 className="text-xs font-bold text-white">Himalayan Origin</h4>
+                  <p className="text-[11px] text-stone-300 mt-0.5">Solan hill farm clusters</p>
                 </div>
 
-                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
-                  <div className="w-7 h-7 rounded-lg bg-amber-500/20 text-amber-300 flex items-center justify-center mb-2">
+                <div className="bg-white/[0.07] border border-white/15 rounded-2xl p-3.5 backdrop-blur-md hover:bg-white/[0.1] transition-colors">
+                  <div className="w-7 h-7 rounded-lg bg-amber-500/25 text-amber-300 flex items-center justify-center mb-2">
                     <Package className="w-4 h-4" />
                   </div>
                   <h4 className="text-xs font-bold text-white">Custom Packing</h4>
                   <p className="text-[11px] text-stone-300 mt-0.5">Bulk food-service & private labeling</p>
                 </div>
 
-                <div className="bg-white/5 border border-white/10 rounded-2xl p-3.5 backdrop-blur-sm">
-                  <div className="w-7 h-7 rounded-lg bg-teal-500/20 text-teal-300 flex items-center justify-center mb-2">
+                <div className="bg-white/[0.07] border border-white/15 rounded-2xl p-3.5 backdrop-blur-md hover:bg-white/[0.1] transition-colors">
+                  <div className="w-7 h-7 rounded-lg bg-teal-500/25 text-teal-300 flex items-center justify-center mb-2">
                     <Truck className="w-4 h-4" />
                   </div>
-                  <h4 className="text-xs font-bold text-white">Pan-India Transit</h4>
-                  <p className="text-[11px] text-stone-300 mt-0.5">Insured safe freight to your doorstep</p>
+                  <h4 className="text-xs font-bold text-white">Pan-India Freight</h4>
+                  <p className="text-[11px] text-stone-300 mt-0.5">Insured safe transit from Solan</p>
                 </div>
               </div>
 
@@ -463,7 +518,7 @@ export default async function HomePage() {
                     href="https://wa.me/919805565679?text=Hello%20Suyash%20Food%20Industries%2C%20I%20would%20like%20to%20enquire%20about%20bulk%20%2F%20wholesale%20rates%20for%20your%20Himalayan%20products."
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2.5 bg-[#25D366] hover:bg-[#20be5b] text-white font-bold px-7 py-3.5 rounded-2xl text-sm shadow-xl shadow-green-950/40 hover:scale-[1.02] active:scale-[0.98] transition-all group"
+                    className="inline-flex items-center gap-2.5 bg-[#25D366] hover:bg-[#20be5b] text-white font-bold px-7 py-3.5 rounded-2xl text-sm shadow-xl shadow-green-950/50 hover:scale-[1.02] active:scale-[0.98] transition-all group"
                   >
                     <MessageCircle className="w-5 h-5 fill-white text-[#25D366] group-hover:rotate-12 transition-transform" />
                     <span>Chat on WhatsApp for Wholesale Rates</span>
@@ -471,7 +526,7 @@ export default async function HomePage() {
 
                   <Link
                     href="/contact"
-                    className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-semibold px-5 py-3.5 rounded-2xl text-sm border border-white/20 hover:border-white/30 backdrop-blur-sm transition-all"
+                    className="inline-flex items-center gap-2 bg-white/15 hover:bg-white/25 text-white font-semibold px-5 py-3.5 rounded-2xl text-sm border border-white/25 hover:border-white/40 backdrop-blur-md transition-all shadow-md"
                   >
                     <span>Request Quotation Form</span>
                     <ArrowRight className="w-4 h-4" />
@@ -480,7 +535,7 @@ export default async function HomePage() {
 
                 <div className="flex items-center gap-2 text-xs text-stone-300">
                   <Phone className="w-3.5 h-3.5 text-gold" />
-                  <span>Direct Solan Office:</span>
+                  <span>Direct Solan Facility Office:</span>
                   <a
                     href="tel:+919805565679"
                     className="text-gold hover:text-amber-300 font-bold underline underline-offset-2"
@@ -494,21 +549,21 @@ export default async function HomePage() {
 
             {/* Right Visual Card */}
             <div className="lg:col-span-5">
-              <div className="relative mx-auto max-w-sm sm:max-w-md bg-gradient-to-b from-white/10 via-white/5 to-transparent border border-white/15 rounded-3xl p-6 backdrop-blur-md shadow-2xl">
+              <div className="relative mx-auto max-w-sm sm:max-w-md bg-gradient-to-b from-white/15 via-white/10 to-black/30 border border-white/25 rounded-3xl p-6 backdrop-blur-xl shadow-2xl">
                 
                 {/* Top Badge on Card */}
-                <div className="flex items-center justify-between pb-4 border-b border-white/10">
+                <div className="flex items-center justify-between pb-4 border-b border-white/15">
                   <div className="flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-gold" />
                     <span className="text-xs font-bold text-white uppercase tracking-wider">Certified Himalayan Produce</span>
                   </div>
-                  <span className="text-[10px] font-bold bg-amber-400/20 text-amber-300 px-2 py-0.5 rounded-full border border-amber-400/30">
+                  <span className="text-[10px] font-bold bg-amber-400/25 text-amber-200 px-2.5 py-0.5 rounded-full border border-amber-400/35 backdrop-blur-sm">
                     B2B & Retail
                   </span>
                 </div>
 
                 {/* Visual Imagery of Products */}
-                <div className="relative my-4 rounded-2xl overflow-hidden border border-white/20 shadow-xl group aspect-[4/3] bg-emerald-950/40">
+                <div className="relative my-4 rounded-2xl overflow-hidden border border-white/25 shadow-2xl group aspect-[4/3] bg-emerald-950/60">
                   <Image
                     src="/images/wholesale-showcase-b2b.jpg"
                     alt="Suyash Food Industries Wholesale Himalayan Produce Showcase"
@@ -516,28 +571,31 @@ export default async function HomePage() {
                     className="object-cover group-hover:scale-105 transition-transform duration-700"
                     sizes="(max-width: 640px) 100vw, 420px"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent flex flex-col justify-end p-4">
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/30 to-transparent flex flex-col justify-end p-4">
                     <div className="flex items-center gap-1.5 text-emerald-300 text-[11px] font-bold tracking-wide">
                       <Sparkles className="w-3.5 h-3.5 text-gold" />
                       <span>Farm-Gate Single Origin • Cold-Pressed & Handcrafted</span>
                     </div>
-                    <p className="text-white text-xs font-serif font-bold mt-0.5">
+                    <p className="text-white text-xs font-serif font-bold mt-0.5 drop-shadow-sm">
                       Saroj's Heritage, Dimple's Jar & Nilansh Gold
                     </p>
                   </div>
                 </div>
 
                 {/* Bottom Spec Footer on Card */}
-                <div className="bg-emerald-950/70 rounded-2xl p-3.5 border border-emerald-500/20 space-y-1.5">
+                <div className="bg-emerald-950/85 rounded-2xl p-3.5 border border-emerald-500/30 space-y-1.5 backdrop-blur-md">
                   <div className="flex items-center justify-between text-xs">
                     <span className="text-stone-300 font-medium">Minimum Order Quantity</span>
                     <span className="text-white font-bold">Flexible (Retail or Bulk)</span>
                   </div>
                   <div className="flex items-center justify-between text-xs">
                     <span className="text-stone-300 font-medium">Dispatch Origin</span>
-                    <span className="text-gold font-bold">Solan, Himachal Pradesh</span>
+                    <span className="text-gold font-bold flex items-center gap-1">
+                      <Mountain className="w-3.5 h-3.5 text-amber-300" />
+                      Solan, Himachal Pradesh
+                    </span>
                   </div>
-                  <div className="flex items-center justify-between text-xs pt-1 border-t border-white/5">
+                  <div className="flex items-center justify-between text-xs pt-1 border-t border-white/10">
                     <span className="text-stone-300 font-medium">Lab Test & Certificate</span>
                     <span className="text-emerald-300 font-bold flex items-center gap-1">
                       <CheckCircle2 className="w-3.5 h-3.5" /> Provided on request
