@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import { Mountain, Lock, Mail, ArrowRight, ShieldCheck } from 'lucide-react';
 import { useAuth } from '@/context/AuthContext';
@@ -41,10 +42,15 @@ export default function AdminLoginPage() {
         
         {/* Brand Header */}
         <div className="text-center space-y-2">
-          <div className="w-14 h-14 rounded-2xl bg-forest flex items-center justify-center text-gold mx-auto shadow-md">
-            <Mountain className="w-8 h-8 stroke-[2.2]" />
-          </div>
-          <h1 className="font-serif font-bold text-2xl text-forest pt-2">
+          <Image
+            src="/images/logo.png"
+            alt="Suyash Food Industries"
+            width={220}
+            height={76}
+            className="h-16 w-auto mx-auto object-contain"
+            priority
+          />
+          <h1 className="font-serif font-bold text-xl text-forest pt-1">
             Suyash Admin Portal
           </h1>
           <p className="text-xs text-charcoal/60">

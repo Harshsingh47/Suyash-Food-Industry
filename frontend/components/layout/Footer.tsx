@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { Mountain, Phone, Mail, MapPin, MessageCircle, Heart, ShieldCheck, ArrowRight } from 'lucide-react';
 
 export default function Footer() {
@@ -57,15 +58,15 @@ export default function Footer() {
           
           {/* Brand Info */}
           <div className="lg:col-span-2 space-y-4">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-forest flex items-center justify-center text-gold">
-                <Mountain className="w-6 h-6 stroke-[2.2]" />
-              </div>
-              <div>
-                <span className="text-xl font-serif font-bold text-white tracking-wide">SUYASH</span>
-                <span className="block text-[10px] uppercase tracking-widest text-gold -mt-1 font-medium">Food Industries</span>
-              </div>
-            </div>
+            <Link href="/" className="inline-block bg-white/95 hover:bg-white px-3.5 py-2 rounded-2xl shadow-sm transition-all duration-300 group">
+              <Image
+                src="/images/logo.png"
+                alt="Suyash Food Industries"
+                width={170}
+                height={58}
+                className="h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+              />
+            </Link>
             <p className="text-xs text-cream/80 leading-relaxed max-w-sm">
               Nestled in the serene foothills of Solan, Himachal Pradesh, Suyash Food Industries crafts unadulterated cold-pressed wild apricot oils, heritage unpolished grains, pure Bilona cow ghee, and natural sun-dried orchard specialties.
             </p>

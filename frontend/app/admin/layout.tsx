@@ -2,6 +2,7 @@
 
 import React, { useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname, useRouter } from 'next/navigation';
 import { 
   Mountain, 
@@ -68,18 +69,20 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
       <aside className="w-full md:w-64 bg-deep-green text-cream flex flex-col justify-between border-r border-forest">
         <div>
           {/* Brand Logo Header */}
-          <div className="p-6 border-b border-forest-light/40 flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-forest flex items-center justify-center text-gold shadow-md">
-              <Mountain className="w-6 h-6 stroke-[2.2]" />
-            </div>
-            <div>
-              <span className="font-serif font-bold text-lg text-white tracking-wide block">
-                SUYASH ADMIN
-              </span>
-              <span className="text-[10px] text-gold uppercase tracking-widest block font-medium">
-                Solan, HP Control Panel
-              </span>
-            </div>
+          <div className="p-4 border-b border-forest-light/40">
+            <Link href="/admin" className="block bg-white/95 hover:bg-white rounded-2xl p-2.5 shadow-md transition group">
+              <Image
+                src="/images/logo.png"
+                alt="Suyash Food Industries"
+                width={180}
+                height={62}
+                className="h-11 w-auto mx-auto object-contain transition-transform duration-300 group-hover:scale-105"
+                priority
+              />
+              <div className="text-[9px] text-center text-forest-dark uppercase tracking-widest font-semibold mt-1 border-t border-forest/10 pt-1">
+                Admin Control Panel
+              </div>
+            </Link>
           </div>
 
           {/* Navigation Links */}

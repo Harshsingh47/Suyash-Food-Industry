@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import { 
   Menu, 
@@ -54,18 +55,15 @@ export default function Header({ whatsappNumber = '+919805565679' }: HeaderProps
         <div className="flex items-center justify-between h-20">
           
           {/* Logo & Brand Identity */}
-          <Link href="/" className="flex items-center gap-3 group">
-            <div className="w-11 h-11 rounded-full bg-forest flex items-center justify-center text-gold shadow-md group-hover:scale-105 transition-transform duration-300">
-              <Mountain className="w-6 h-6 stroke-[2.2]" />
-            </div>
-            <div>
-              <div className="text-xl sm:text-2xl font-serif font-bold text-forest tracking-tight group-hover:text-forest-light transition-colors">
-                SUYASH
-              </div>
-              <div className="text-[10px] sm:text-[11px] uppercase tracking-[0.2em] text-gold-dark font-medium -mt-1">
-                Food Industries • Solan
-              </div>
-            </div>
+          <Link href="/" className="flex items-center gap-3 group py-1">
+            <Image
+              src="/images/logo.png"
+              alt="Suyash Food Industries Logo"
+              width={180}
+              height={60}
+              className="h-12 sm:h-14 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
+              priority
+            />
           </Link>
 
           {/* Desktop Navigation */}
