@@ -3,7 +3,7 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ChevronLeft, ChevronRight, ArrowRight, Sparkles } from 'lucide-react';
+import { ChevronLeft, ChevronRight, ArrowRight, Sparkles, Mountain } from 'lucide-react';
 
 interface SlideSpec {
   label: string;
@@ -216,48 +216,63 @@ export default function HeroCarousel() {
   return (
     <section
       aria-label="Hero Showcase"
-      className="w-full bg-[#FAF9F6] py-5 sm:py-8 lg:py-10 select-none relative overflow-hidden"
+      className="w-full relative py-6 sm:py-10 lg:py-12 select-none overflow-hidden bg-[#F6F4ED]"
       onMouseEnter={() => setIsPaused(true)}
       onMouseLeave={() => setIsPaused(false)}
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
     >
-      {/* Background Himalayan Mountain Silhouette Theme */}
-      <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.05] sm:opacity-[0.07] flex items-end overflow-hidden z-0">
-        <svg
-          viewBox="0 0 1440 220"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-          className="w-full h-24 sm:h-36 text-forest"
-          preserveAspectRatio="none"
-        >
-          {/* Distant High Himalayan Peaks */}
-          <path
-            d="M0,220 L0,95 L65,70 L140,115 L230,40 L340,120 L440,55 L550,110 L680,25 L800,95 L920,40 L1040,105 L1160,50 L1280,85 L1380,45 L1440,60 L1440,220 Z"
-            fill="currentColor"
-          />
-          {/* Midground Rolling Solan Pine Ridges */}
-          <path
-            d="M0,220 L0,140 L90,105 L190,150 L300,80 L420,140 L530,90 L630,130 L750,70 L870,125 L990,75 L1120,120 L1240,85 L1360,115 L1440,90 L1440,220 Z"
-            fill="currentColor"
-            opacity="0.65"
-          />
-        </svg>
+      {/* Real Panoramic Himalayan Mountain Landscape Background */}
+      <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+        <Image
+          src="/images/himalayan-mountains-origin-bg.jpg"
+          alt="Himalayan Mountain Range Solan Himachal Pradesh Origin"
+          fill
+          className="object-cover object-[center_30%] scale-105 opacity-45 filter contrast-115 saturate-110"
+          priority
+        />
+        {/* Soft atmospheric mist layers blending seamlessly */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#F6F4ED]/75 via-transparent to-[#F6F4ED]/90" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#F6F4ED]/80 via-transparent to-[#F6F4ED]/80" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
-        {/* Main Hero Card exactly styled as reference */}
-        <div className="relative bg-white rounded-3xl lg:rounded-[36px] overflow-hidden shadow-sm border border-stone-200/70 flex flex-col lg:flex-row min-h-[520px] transition-all duration-500">
+        {/* Main Hero Card */}
+        <div className="relative bg-white/95 backdrop-blur-md rounded-3xl lg:rounded-[36px] overflow-hidden shadow-2xl border border-stone-200/80 flex flex-col lg:flex-row min-h-[520px] transition-all duration-500">
           
-          {/* LEFT COLUMN: INTRO, Heading, Paragraph, Order Button, Metrics, Carousel Nav */}
-          <div className="flex-1 p-6 sm:p-10 lg:p-12 flex flex-col justify-between z-10">
+          {/* Inside Card: Mountain Ridge Silhouette Grounding the Card */}
+          <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.14] overflow-hidden z-0">
+            <svg
+              viewBox="0 0 1440 220"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              className="w-full h-28 sm:h-36 text-forest"
+              preserveAspectRatio="none"
+            >
+              <path
+                d="M0,220 L0,95 L65,70 L140,115 L230,40 L340,120 L440,55 L550,110 L680,25 L800,95 L920,40 L1040,105 L1160,50 L1280,85 L1380,45 L1440,60 L1440,220 Z"
+                fill="currentColor"
+              />
+              <path
+                d="M0,220 L0,140 L90,105 L190,150 L300,80 L420,140 L530,90 L630,130 L750,70 L870,125 L990,75 L1120,120 L1240,85 L1360,115 L1440,90 L1440,220 Z"
+                fill="currentColor"
+                opacity="0.65"
+              />
+            </svg>
+          </div>
+
+          {/* LEFT COLUMN: Origin Badge, Heading, Paragraph, Order Button, Metrics, Carousel Nav */}
+          <div className="flex-1 p-6 sm:p-10 lg:p-12 flex flex-col justify-between z-10 relative">
             <div>
-              <span className={`text-xs font-bold tracking-[0.25em] ${currentSlide.accentText} uppercase`}>
-                {currentSlide.eyebrow}
-              </span>
-              <h1 className="font-serif font-bold text-3xl sm:text-4xl lg:text-[42px] text-[#1E3A2F] leading-[1.14] tracking-tight mt-3">
+              {/* Himalayan Mountain Origin Badge */}
+              <div className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full bg-emerald-50/90 border border-emerald-200/70 text-forest text-xs font-bold uppercase tracking-wider mb-2.5 shadow-sm">
+                <Mountain className="w-3.5 h-3.5 text-forest" />
+                <span>Himalayan Origin • Solan, HP</span>
+              </div>
+
+              <h1 className="font-serif font-bold text-3xl sm:text-4xl lg:text-[42px] text-[#1E3A2F] leading-[1.14] tracking-tight mt-1">
                 {currentSlide.title}
               </h1>
               <p className="text-stone-600 text-xs sm:text-sm lg:text-[15px] leading-relaxed mt-4 max-w-md">
@@ -328,9 +343,22 @@ export default function HeroCarousel() {
             </div>
           </div>
 
-          {/* CENTER COLUMN: 3D Product & Raw Botanicals + Floating Stamp Badge */}
+          {/* CENTER COLUMN: 3D Product & Raw Botanicals + Floating Stamp Badge + Terroir Halo */}
           <div className="relative flex flex-col items-center justify-center p-6 lg:p-8 shrink-0 min-w-[320px] lg:w-[410px]">
             
+            {/* Mountain Terroir Halo Backdrop behind product */}
+            <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-0">
+              <div className="w-64 h-64 sm:w-72 sm:h-72 rounded-full bg-gradient-to-t from-emerald-100/60 via-amber-50/40 to-transparent border border-emerald-200/50 flex flex-col items-center justify-end pb-7">
+                <Mountain className="w-14 h-14 text-emerald-800/25 mb-1" />
+                <span className="text-[10px] font-bold tracking-widest text-emerald-900/50 uppercase">
+                  Solan • Himachal Pradesh
+                </span>
+                <span className="text-[8px] font-semibold tracking-wider text-emerald-800/40 uppercase">
+                  Elev. 1,600m Terroir
+                </span>
+              </div>
+            </div>
+
             {/* Floating Green Circular Stamp Badge */}
             <div className="absolute top-6 left-6 z-20">
               <div className="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-[#2BB673] text-white flex flex-col items-center justify-center shadow-lg border-2 border-white transform -rotate-12 select-none">
@@ -341,7 +369,7 @@ export default function HeroCarousel() {
             </div>
 
             {/* 3D Product with Botanical Base */}
-            <div className="relative w-full h-[320px] sm:h-[380px] lg:h-[430px] flex items-center justify-center animate-3d-float">
+            <div className="relative w-full h-[320px] sm:h-[380px] lg:h-[430px] flex items-center justify-center animate-3d-float z-10">
               <Image
                 key={currentSlide.id}
                 src={currentSlide.image}
@@ -354,7 +382,7 @@ export default function HeroCarousel() {
             </div>
 
             {/* Soft Contact Ground Shadow */}
-            <div className="relative -mt-4 flex items-center justify-center pointer-events-none animate-3d-shadow">
+            <div className="relative -mt-4 flex items-center justify-center pointer-events-none animate-3d-shadow z-10">
               <div className="w-48 sm:w-64 h-5 rounded-full bg-stone-900/10 blur-xl" />
             </div>
 
