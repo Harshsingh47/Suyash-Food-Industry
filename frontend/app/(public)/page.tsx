@@ -26,10 +26,22 @@ export const dynamic = 'force-dynamic';
 async function getHomeData() {
   try {
     const [productsRes, categoriesRes, bannersRes, testimonialsRes] = await Promise.all([
-      fetchApi('/products?limit=24'),
-      fetchApi('/categories'),
-      fetchApi('/banners'),
-      fetchApi('/testimonials'),
+      fetchApi('/products?limit=24').catch((e) => {
+        console.warn('Could not fetch products:', e?.message || e);
+        return { data: [] };
+      }),
+      fetchApi('/categories').catch((e) => {
+        console.warn('Could not fetch categories:', e?.message || e);
+        return [];
+      }),
+      fetchApi('/banners').catch((e) => {
+        console.warn('Could not fetch banners:', e?.message || e);
+        return [];
+      }),
+      fetchApi('/testimonials').catch((e) => {
+        console.warn('Could not fetch testimonials:', e?.message || e);
+        return [];
+      }),
     ]);
 
     return {
