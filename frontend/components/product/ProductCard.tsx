@@ -71,7 +71,7 @@ export default function ProductCard({
   };
 
   return (
-    <div className="group bg-white rounded-2xl border border-beige/80 overflow-hidden shadow-card hover:shadow-soft transition-all duration-300 flex flex-col h-full">
+    <div className="group bg-white/90 backdrop-blur-sm hover:bg-white rounded-2xl border border-beige/80 overflow-hidden shadow-card hover:shadow-soft transition-all duration-300 flex flex-col h-full">
       
       {/* Image Container with Badges */}
       <div className="relative aspect-square w-full overflow-hidden bg-cream/40">

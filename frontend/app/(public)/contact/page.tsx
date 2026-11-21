@@ -58,7 +58,7 @@ export default function ContactPage() {
   };
 
   return (
-    <div className="bg-cream/20 min-h-screen py-12 sm:py-16">
+    <div className="min-h-screen py-12 sm:py-16">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
         
         {/* Header */}
@@ -80,7 +80,7 @@ export default function ContactPage() {
           {/* Left: Contact Info & WhatsApp */}
           <div className="lg:col-span-5 space-y-6">
             
-            <div className="bg-white rounded-3xl border border-beige p-6 sm:p-8 shadow-card space-y-6">
+            <div className="bg-white/85 backdrop-blur-md rounded-3xl border border-beige/80 p-6 sm:p-8 shadow-card space-y-6">
               <h2 className="font-serif font-bold text-xl text-forest">
                 Headquarters & Information
               </h2>
@@ -159,7 +159,7 @@ export default function ContactPage() {
           </div>
 
           {/* Right: Contact Form */}
-          <div className="lg:col-span-7 bg-white rounded-3xl border border-beige p-6 sm:p-10 shadow-card">
+          <div className="lg:col-span-7 bg-white/85 backdrop-blur-md rounded-3xl border border-beige/80 p-6 sm:p-10 shadow-card">
             <h2 className="font-serif font-bold text-xl text-forest mb-1">
               Send Us a Message
             </h2>

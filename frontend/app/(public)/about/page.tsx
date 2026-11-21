@@ -5,11 +5,11 @@ import { Mountain, ShieldCheck, Heart, Sparkles, MessageCircle, ArrowRight, Chec
 
 export default function AboutPage() {
   return (
-    <div className="bg-cream/20 min-h-screen py-12 sm:py-16 space-y-16">
+    <div className="min-h-screen py-12 sm:py-16 space-y-16">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
         
         {/* Hero Section with Himalayan Mountain Origin Theme */}
-        <div className="relative rounded-3xl overflow-hidden p-8 sm:p-12 lg:p-16 text-center max-w-4xl mx-auto space-y-4 border border-beige shadow-sm bg-white/70">
+        <div className="relative rounded-3xl overflow-hidden p-8 sm:p-12 lg:p-16 text-center max-w-4xl mx-auto space-y-4 border border-beige/80 shadow-card bg-white/80 backdrop-blur-md">
           <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
             <Image
               src="/images/himalayan-mountains-origin-bg.jpg"
@@ -45,7 +45,7 @@ export default function AboutPage() {
         </div>
 
         {/* Narrative Split */}
-        <div className="bg-white rounded-3xl border border-beige p-8 sm:p-12 shadow-card grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
+        <div className="bg-white/85 backdrop-blur-md rounded-3xl border border-beige/80 p-8 sm:p-12 shadow-card grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
           <div className="lg:col-span-6 space-y-4">
             <span className="text-xs font-bold text-gold-dark uppercase tracking-widest">
               Preserving Mountain Heritage
@@ -93,7 +93,7 @@ export default function AboutPage() {
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-            <div className="bg-white p-6 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-6 rounded-2xl border border-beige/80 shadow-card">
               <div className="text-3xl font-serif font-bold text-gold mb-3">01</div>
               <h3 className="font-serif font-bold text-base text-forest mb-2">Authentic Himalayan Sourcing</h3>
               <p className="text-xs text-charcoal/70 leading-relaxed">
@@ -101,7 +101,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-6 rounded-2xl border border-beige/80 shadow-card">
               <div className="text-3xl font-serif font-bold text-gold mb-3">02</div>
               <h3 className="font-serif font-bold text-base text-forest mb-2">100% Wholesome & Pure</h3>
               <p className="text-xs text-charcoal/70 leading-relaxed">
@@ -109,7 +109,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-6 rounded-2xl border border-beige/80 shadow-card">
               <div className="text-3xl font-serif font-bold text-gold mb-3">03</div>
               <h3 className="font-serif font-bold text-base text-forest mb-2">Doorstep Freshness</h3>
               <p className="text-xs text-charcoal/70 leading-relaxed">
@@ -117,7 +117,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="bg-white p-6 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-6 rounded-2xl border border-beige/80 shadow-card">
               <div className="text-3xl font-serif font-bold text-gold mb-3">04</div>
               <h3 className="font-serif font-bold text-base text-forest mb-2">Sustainably Crafted</h3>
               <p className="text-xs text-charcoal/70 leading-relaxed">

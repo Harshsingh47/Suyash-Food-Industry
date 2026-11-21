@@ -216,25 +216,16 @@ export default function HeroCarousel() {
   return (
     <section
       aria-label="Hero Showcase"
-      className="w-full relative py-6 sm:py-10 lg:py-12 select-none overflow-hidden bg-[#F6F4ED]"
+      className="w-full relative py-6 sm:py-10 lg:py-12 select-none overflow-hidden bg-transparent"
       onMouseEnter={() => setIsPaused(true)}
       onMouseLeave={() => setIsPaused(false)}
       onTouchStart={handleTouchStart}
       onTouchMove={handleTouchMove}
       onTouchEnd={handleTouchEnd}
     >
-      {/* Real Panoramic Himalayan Mountain Landscape Background */}
+      {/* Soft atmospheric hero depth gradient that lets the global mountain theme radiate */}
       <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
-        <Image
-          src="/images/himalayan-mountains-origin-bg.jpg"
-          alt="Himalayan Mountain Range Solan Himachal Pradesh Origin"
-          fill
-          className="object-cover object-[center_30%] scale-105 opacity-45 filter contrast-115 saturate-110"
-          priority
-        />
-        {/* Soft atmospheric mist layers blending seamlessly */}
-        <div className="absolute inset-0 bg-gradient-to-b from-[#F6F4ED]/75 via-transparent to-[#F6F4ED]/90" />
-        <div className="absolute inset-0 bg-gradient-to-r from-[#F6F4ED]/80 via-transparent to-[#F6F4ED]/80" />
+        <div className="absolute inset-0 bg-gradient-to-b from-white/30 via-transparent to-[#F7F5EE]/40" />
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">

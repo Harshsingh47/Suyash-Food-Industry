@@ -161,7 +161,7 @@ export default function ShopPage() {
           <aside className="hidden lg:block space-y-6">
             
             {/* Categories Filter */}
-            <div className="bg-white p-5 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-5 rounded-2xl border border-beige/80 shadow-card">
               <h3 className="font-serif font-bold text-sm text-forest mb-3 flex items-center justify-between">
                 <span>Categories</span>
                 {selectedCategory !== 'all' && (
@@ -204,7 +204,7 @@ export default function ShopPage() {
             </div>
 
             {/* Brand Collections Filter */}
-            <div className="bg-white p-5 rounded-2xl border border-beige shadow-card">
+            <div className="bg-white/85 backdrop-blur-md p-5 rounded-2xl border border-beige/80 shadow-card">
               <h3 className="font-serif font-bold text-sm text-forest mb-3 flex items-center justify-between">
                 <span>Collections / Brands</span>
                 {selectedBrand !== 'all' && (

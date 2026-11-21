@@ -75,7 +75,7 @@ export default async function HomePage() {
 
       {/* 2. PROMOTIONAL PILLARS BAR */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="bg-white rounded-2xl border border-beige p-6 sm:p-8 shadow-card grid grid-cols-1 md:grid-cols-4 gap-6 text-center sm:text-left">
+        <div className="bg-white/85 backdrop-blur-md rounded-2xl border border-beige/80 p-6 sm:p-8 shadow-card grid grid-cols-1 md:grid-cols-4 gap-6 text-center sm:text-left">
           
           <div className="flex items-center gap-4">
             <div className="w-12 h-12 rounded-xl bg-cream flex items-center justify-center text-forest flex-shrink-0">
@@ -146,7 +146,7 @@ export default async function HomePage() {
             <Link
               key={cat.slug}
               href={`/category/${cat.slug}`}
-              className="group bg-white rounded-2xl border border-beige overflow-hidden shadow-card hover:shadow-soft transition-all duration-300 p-4 sm:p-5 flex flex-col justify-between"
+              className="group bg-white/85 backdrop-blur-md rounded-2xl border border-beige/80 overflow-hidden shadow-card hover:shadow-soft hover:bg-white/95 transition-all duration-300 p-4 sm:p-5 flex flex-col justify-between"
             >
               <div className="aspect-square relative rounded-xl overflow-hidden bg-cream mb-4">
                 {cat.imageUrl && (
@@ -176,7 +176,7 @@ export default async function HomePage() {
       </section>
 
       {/* 4. FEATURED PRODUCTS SHOWCASE */}
-      <section className="bg-cream/40 py-16 border-y border-beige">
+      <section className="bg-white/40 backdrop-blur-sm py-16 border-y border-beige/60">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-2xl mx-auto mb-12 space-y-2">
             <span className="text-xs font-bold uppercase tracking-widest text-gold-dark">
@@ -321,7 +321,7 @@ export default async function HomePage() {
       </section>
 
       {/* 7. WHY CHOOSE SUYASH FOOD INDUSTRIES (4 Pillars) */}
-      <section className="bg-cream/60 py-16 sm:py-20 border-y border-beige relative overflow-hidden">
+      <section className="bg-white/40 backdrop-blur-sm py-16 sm:py-20 border-y border-beige/60 relative overflow-hidden">
         {/* Subtle Mountain Contour Backdrop */}
         <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.035] flex items-end overflow-hidden z-0">
           <svg
@@ -353,7 +353,7 @@ export default async function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             
-            <div className="bg-white p-7 rounded-2xl border border-beige shadow-card relative">
+            <div className="bg-white/85 backdrop-blur-md p-7 rounded-2xl border border-beige/80 shadow-card relative">
               <div className="text-4xl font-serif font-bold text-beige-dark/50 absolute top-4 right-6">
                 01
               </div>
@@ -363,7 +363,7 @@ export default async function HomePage() {
               </p>
             </div>
 
-            <div className="bg-white p-7 rounded-2xl border border-beige shadow-card relative">
+            <div className="bg-white/85 backdrop-blur-md p-7 rounded-2xl border border-beige/80 shadow-card relative">
               <div className="text-4xl font-serif font-bold text-beige-dark/50 absolute top-4 right-6">
                 02
               </div>
@@ -373,7 +373,7 @@ export default async function HomePage() {
               </p>
             </div>
 
-            <div className="bg-white p-7 rounded-2xl border border-beige shadow-card relative">
+            <div className="bg-white/85 backdrop-blur-md p-7 rounded-2xl border border-beige/80 shadow-card relative">
               <div className="text-4xl font-serif font-bold text-beige-dark/50 absolute top-4 right-6">
                 03
               </div>
@@ -383,7 +383,7 @@ export default async function HomePage() {
               </p>
             </div>
 
-            <div className="bg-white p-7 rounded-2xl border border-beige shadow-card relative">
+            <div className="bg-white/85 backdrop-blur-md p-7 rounded-2xl border border-beige/80 shadow-card relative">
               <div className="text-4xl font-serif font-bold text-beige-dark/50 absolute top-4 right-6">
                 04
               </div>
@@ -412,7 +412,7 @@ export default async function HomePage() {
           {testimonials.map((t: any) => (
             <div
               key={t.id}
-              className="bg-white p-7 rounded-2xl border border-beige shadow-card flex flex-col justify-between"
+              className="bg-white/85 backdrop-blur-md p-7 rounded-2xl border border-beige/80 shadow-card flex flex-col justify-between"
             >
               <div>
                 <div className="flex items-center gap-1 text-gold mb-3">
