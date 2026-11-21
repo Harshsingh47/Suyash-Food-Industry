@@ -320,192 +320,207 @@ export default function AdminProductsPage() {
 
       {/* Add / Edit Product Modal */}
       {isModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm overflow-y-auto">
-          <div className="bg-white rounded-3xl max-w-2xl w-full p-6 sm:p-8 shadow-2xl border border-beige my-8 animate-in fade-in zoom-in-95 duration-200">
-            <div className="flex items-center justify-between pb-4 border-b border-beige mb-6">
-              <h3 className="font-serif font-bold text-xl text-forest">
-                {editingProduct ? 'Edit Product' : 'Add New Product'}
-              </h3>
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 md:p-6 bg-black/60 backdrop-blur-sm">
+          <div className="bg-white rounded-3xl max-w-2xl w-full max-h-[92vh] sm:max-h-[90vh] shadow-2xl border border-beige flex flex-col overflow-hidden animate-in fade-in zoom-in-95 duration-200">
+            
+            {/* Modal Header (Fixed at top) */}
+            <div className="flex items-center justify-between px-6 py-4 sm:px-8 sm:py-5 border-b border-beige bg-white flex-shrink-0">
+              <div>
+                <h3 className="font-serif font-bold text-xl text-forest">
+                  {editingProduct ? 'Edit Product' : 'Add New Product'}
+                </h3>
+                <p className="text-[11px] text-charcoal/60 mt-0.5">
+                  Configure product details, pricing, and upload an image
+                </p>
+              </div>
               <button
+                type="button"
                 onClick={() => setIsModalOpen(false)}
-                className="p-1 rounded-full text-charcoal/40 hover:text-charcoal"
+                className="p-1.5 rounded-full text-charcoal/40 hover:text-charcoal hover:bg-cream transition"
+                aria-label="Close modal"
               >
                 <X className="w-5 h-5" />
               </button>
             </div>
 
-            <form onSubmit={handleSubmit} className="space-y-4 text-xs">
-              
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Product Name *</label>
-                  <input
-                    type="text"
-                    required
-                    value={formData.name}
-                    onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                  />
+            {/* Modal Scrollable Form Body */}
+            <form onSubmit={handleSubmit} className="flex flex-col flex-1 overflow-hidden">
+              <div className="p-6 sm:p-8 overflow-y-auto flex-1 space-y-4 text-xs custom-scrollbar">
+                
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Product Name *</label>
+                    <input
+                      type="text"
+                      required
+                      placeholder="e.g. Pure Wild Apricot Oil"
+                      value={formData.name}
+                      onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">SKU *</label>
+                    <input
+                      type="text"
+                      required
+                      value={formData.sku}
+                      onChange={(e) => setFormData({ ...formData, sku: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest font-mono"
+                    />
+                  </div>
                 </div>
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">SKU *</label>
-                  <input
-                    type="text"
-                    required
-                    value={formData.sku}
-                    onChange={(e) => setFormData({ ...formData, sku: e.target.value })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest font-mono"
-                  />
-                </div>
-              </div>
 
-              <div className="grid grid-cols-3 gap-3">
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Regular Price (₹) *</label>
-                  <input
-                    type="number"
-                    required
-                    min="0"
-                    placeholder="e.g. 399"
-                    value={formData.regularPrice || ''}
-                    onChange={(e) => setFormData({ ...formData, regularPrice: e.target.value === '' ? ('' as any) : Number(e.target.value) })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                  />
+                <div className="grid grid-cols-3 gap-3">
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Regular Price (₹) *</label>
+                    <input
+                      type="number"
+                      required
+                      min="0"
+                      placeholder="e.g. 399"
+                      value={formData.regularPrice || ''}
+                      onChange={(e) => setFormData({ ...formData, regularPrice: e.target.value === '' ? ('' as any) : Number(e.target.value) })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Sale Price (₹)</label>
+                    <input
+                      type="number"
+                      min="0"
+                      placeholder="e.g. 349 (optional)"
+                      value={formData.salePrice || ''}
+                      onChange={(e) => setFormData({ ...formData, salePrice: e.target.value === '' ? ('' as any) : Number(e.target.value) })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Weight / Size</label>
+                    <input
+                      type="text"
+                      value={formData.weight}
+                      onChange={(e) => setFormData({ ...formData, weight: e.target.value })}
+                      placeholder="e.g. 500g, 250ml"
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
                 </div>
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Sale Price (₹)</label>
-                  <input
-                    type="number"
-                    min="0"
-                    placeholder="e.g. 349 (optional)"
-                    value={formData.salePrice || ''}
-                    onChange={(e) => setFormData({ ...formData, salePrice: e.target.value === '' ? ('' as any) : Number(e.target.value) })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                  />
-                </div>
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Weight / Size</label>
-                  <input
-                    type="text"
-                    value={formData.weight}
-                    onChange={(e) => setFormData({ ...formData, weight: e.target.value })}
-                    placeholder="e.g. 500g, 250ml"
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                  />
-                </div>
-              </div>
 
-              <div className="grid grid-cols-2 gap-4">
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Category *</label>
-                  <select
-                    value={formData.categoryId}
-                    onChange={(e) => setFormData({ ...formData, categoryId: e.target.value })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest bg-white"
-                  >
-                    {categories.map((c) => (
-                      <option key={c.id} value={c.id}>{c.name}</option>
-                    ))}
-                  </select>
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Category *</label>
+                    <select
+                      value={formData.categoryId}
+                      onChange={(e) => setFormData({ ...formData, categoryId: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest bg-white"
+                    >
+                      {categories.map((c) => (
+                        <option key={c.id} value={c.id}>{c.name}</option>
+                      ))}
+                    </select>
+                  </div>
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Brand / Collection</label>
+                    <select
+                      value={formData.brandId}
+                      onChange={(e) => setFormData({ ...formData, brandId: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest bg-white"
+                    >
+                      {brands.map((b) => (
+                        <option key={b.id} value={b.id}>{b.name}</option>
+                      ))}
+                    </select>
+                  </div>
                 </div>
-                <div>
-                  <label className="font-bold text-charcoal block mb-1">Brand / Collection</label>
-                  <select
-                    value={formData.brandId}
-                    onChange={(e) => setFormData({ ...formData, brandId: e.target.value })}
-                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest bg-white"
-                  >
-                    {brands.map((b) => (
-                      <option key={b.id} value={b.id}>{b.name}</option>
-                    ))}
-                  </select>
-                </div>
-              </div>
 
-              <ImageUpload
-                label="Product Image"
-                value={formData.imageUrl}
-                onChange={(url) => setFormData({ ...formData, imageUrl: url })}
-                required
-                helperText="Upload JPG, PNG, or WEBP directly from your computer"
-              />
-
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Short Description / Tagline</label>
-                <input
-                  type="text"
-                  value={formData.shortDescription}
-                  onChange={(e) => setFormData({ ...formData, shortDescription: e.target.value })}
-                  placeholder="e.g. Pure Unpolished Lal Chawal — पाएँ परंपरा का स्वाद"
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                />
-              </div>
-
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Full Detailed Description *</label>
-                <textarea
-                  rows={3}
+                <ImageUpload
+                  label="Product Image"
+                  value={formData.imageUrl}
+                  onChange={(url) => setFormData({ ...formData, imageUrl: url })}
                   required
-                  value={formData.description}
-                  onChange={(e) => setFormData({ ...formData, description: e.target.value })}
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                  helperText="Upload JPG, PNG, or WEBP directly from your computer"
                 />
-              </div>
 
-              <div className="grid grid-cols-2 gap-4">
                 <div>
-                  <label className="font-bold text-charcoal block mb-1">Ingredients</label>
+                  <label className="font-bold text-charcoal block mb-1">Short Description / Tagline</label>
                   <input
                     type="text"
-                    value={formData.ingredients}
-                    onChange={(e) => setFormData({ ...formData, ingredients: e.target.value })}
+                    value={formData.shortDescription}
+                    onChange={(e) => setFormData({ ...formData, shortDescription: e.target.value })}
+                    placeholder="e.g. Pure Unpolished Lal Chawal — पाएँ परंपरा का स्वाद"
                     className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
                   />
                 </div>
+
                 <div>
-                  <label className="font-bold text-charcoal block mb-1">Health Benefits</label>
-                  <input
-                    type="text"
-                    value={formData.benefits}
-                    onChange={(e) => setFormData({ ...formData, benefits: e.target.value })}
+                  <label className="font-bold text-charcoal block mb-1">Full Detailed Description *</label>
+                  <textarea
+                    rows={3}
+                    required
+                    value={formData.description}
+                    onChange={(e) => setFormData({ ...formData, description: e.target.value })}
                     className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
                   />
                 </div>
+
+                <div className="grid grid-cols-2 gap-4">
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Ingredients</label>
+                    <input
+                      type="text"
+                      value={formData.ingredients}
+                      onChange={(e) => setFormData({ ...formData, ingredients: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
+                  <div>
+                    <label className="font-bold text-charcoal block mb-1">Health Benefits</label>
+                    <input
+                      type="text"
+                      value={formData.benefits}
+                      onChange={(e) => setFormData({ ...formData, benefits: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                    />
+                  </div>
+                </div>
+
+                <div className="flex items-center gap-6 pt-2">
+                  <label className="flex items-center gap-2 cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={formData.isFeatured}
+                      onChange={(e) => setFormData({ ...formData, isFeatured: e.target.checked })}
+                      className="w-4 h-4 text-forest rounded"
+                    />
+                    <span>Mark as Featured Product</span>
+                  </label>
+
+                  <label className="flex items-center gap-2 cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={formData.isBestSeller}
+                      onChange={(e) => setFormData({ ...formData, isBestSeller: e.target.checked })}
+                      className="w-4 h-4 text-forest rounded"
+                    />
+                    <span>Mark as Best Seller</span>
+                  </label>
+                </div>
+
               </div>
 
-              <div className="flex items-center gap-6 pt-2">
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={formData.isFeatured}
-                    onChange={(e) => setFormData({ ...formData, isFeatured: e.target.checked })}
-                    className="w-4 h-4 text-forest rounded"
-                  />
-                  <span>Mark as Featured Product</span>
-                </label>
-
-                <label className="flex items-center gap-2 cursor-pointer">
-                  <input
-                    type="checkbox"
-                    checked={formData.isBestSeller}
-                    onChange={(e) => setFormData({ ...formData, isBestSeller: e.target.checked })}
-                    className="w-4 h-4 text-forest rounded"
-                  />
-                  <span>Mark as Best Seller</span>
-                </label>
-              </div>
-
-              <div className="pt-4 border-t border-beige flex items-center justify-end gap-3">
+              {/* Modal Footer (Fixed at bottom) */}
+              <div className="px-6 py-4 sm:px-8 border-t border-beige bg-gray-50/80 flex items-center justify-end gap-3 flex-shrink-0">
                 <button
                   type="button"
                   onClick={() => setIsModalOpen(false)}
-                  className="px-4 py-2 border border-beige rounded-xl hover:bg-cream transition"
+                  className="px-4 py-2 border border-beige rounded-xl hover:bg-cream text-xs font-medium transition"
                 >
                   Cancel
                 </button>
                 <button
                   type="submit"
-                  className="bg-forest hover:bg-forest-light text-white font-semibold px-6 py-2 rounded-xl transition shadow"
+                  className="bg-forest hover:bg-forest-light text-white font-semibold px-6 py-2 rounded-xl transition shadow text-xs"
                 >
                   {editingProduct ? 'Save Changes' : 'Create Product'}
                 </button>

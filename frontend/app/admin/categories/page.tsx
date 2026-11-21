@@ -171,85 +171,102 @@ export default function AdminCategoriesPage() {
 
       {/* Category Modal */}
       {isModalOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm">
-          <div className="bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl border border-beige animate-in fade-in zoom-in-95 duration-200">
-            <div className="flex items-center justify-between pb-3 border-b border-beige mb-4">
-              <h3 className="font-serif font-bold text-lg text-forest">
-                {editingCategory ? 'Edit Category' : 'Add Category'}
-              </h3>
-              <button onClick={() => setIsModalOpen(false)}>
-                <X className="w-5 h-5 text-charcoal/50" />
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 md:p-6 bg-black/60 backdrop-blur-sm">
+          <div className="bg-white rounded-3xl max-w-md w-full max-h-[92vh] sm:max-h-[90vh] shadow-2xl border border-beige flex flex-col overflow-hidden animate-in fade-in zoom-in-95 duration-200">
+            
+            {/* Modal Header */}
+            <div className="flex items-center justify-between px-6 py-4 border-b border-beige bg-white flex-shrink-0">
+              <div>
+                <h3 className="font-serif font-bold text-lg text-forest">
+                  {editingCategory ? 'Edit Category' : 'Add Category'}
+                </h3>
+                <p className="text-[11px] text-charcoal/60 mt-0.5">
+                  Organize your catalog by Himalayan categories
+                </p>
+              </div>
+              <button
+                type="button"
+                onClick={() => setIsModalOpen(false)}
+                className="p-1.5 rounded-full text-charcoal/40 hover:text-charcoal hover:bg-cream transition"
+                aria-label="Close modal"
+              >
+                <X className="w-5 h-5" />
               </button>
             </div>
 
-            <form onSubmit={handleSubmit} className="space-y-3 text-xs">
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Name *</label>
-                <input
-                  type="text"
-                  required
-                  value={formData.name}
-                  onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                />
+            {/* Scrollable Form Body */}
+            <form onSubmit={handleSubmit} className="flex flex-col flex-1 overflow-hidden">
+              <div className="p-6 overflow-y-auto flex-1 space-y-3.5 text-xs custom-scrollbar">
+                <div>
+                  <label className="font-bold text-charcoal block mb-1">Name *</label>
+                  <input
+                    type="text"
+                    required
+                    value={formData.name}
+                    onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                  />
+                </div>
+
+                <div>
+                  <label className="font-bold text-charcoal block mb-1">Slug (URL)</label>
+                  <input
+                    type="text"
+                    value={formData.slug}
+                    onChange={(e) => setFormData({ ...formData, slug: e.target.value })}
+                    placeholder="auto-generated if empty"
+                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest font-mono text-[11px]"
+                  />
+                </div>
+
+                <div>
+                  <ImageUpload
+                    label="Category Image"
+                    value={formData.imageUrl}
+                    onChange={(url) => setFormData({ ...formData, imageUrl: url })}
+                    helperText="Upload category thumbnail from your system"
+                  />
+                </div>
+
+                <div>
+                  <label className="font-bold text-charcoal block mb-1">Display Order</label>
+                  <input
+                    type="number"
+                    value={formData.order}
+                    onChange={(e) => setFormData({ ...formData, order: Number(e.target.value) })}
+                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                  />
+                </div>
+
+                <div>
+                  <label className="font-bold text-charcoal block mb-1">Description</label>
+                  <textarea
+                    rows={3}
+                    value={formData.description}
+                    onChange={(e) => setFormData({ ...formData, description: e.target.value })}
+                    className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
+                  />
+                </div>
               </div>
 
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Slug (URL)</label>
-                <input
-                  type="text"
-                  value={formData.slug}
-                  onChange={(e) => setFormData({ ...formData, slug: e.target.value })}
-                  placeholder="auto-generated if empty"
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest font-mono text-[11px]"
-                />
-              </div>
-
-              <div>
-                <ImageUpload
-                  label="Category Image"
-                  value={formData.imageUrl}
-                  onChange={(url) => setFormData({ ...formData, imageUrl: url })}
-                  helperText="Upload category thumbnail from your system"
-                />
-              </div>
-
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Display Order</label>
-                <input
-                  type="number"
-                  value={formData.order}
-                  onChange={(e) => setFormData({ ...formData, order: Number(e.target.value) })}
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                />
-              </div>
-
-              <div>
-                <label className="font-bold text-charcoal block mb-1">Description</label>
-                <textarea
-                  rows={3}
-                  value={formData.description}
-                  onChange={(e) => setFormData({ ...formData, description: e.target.value })}
-                  className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
-                />
-              </div>
-
-              <div className="pt-3 border-t border-beige flex justify-end gap-2">
+              {/* Fixed Footer */}
+              <div className="px-6 py-4 border-t border-beige bg-gray-50/80 flex justify-end gap-2 flex-shrink-0">
                 <button
                   type="button"
                   onClick={() => setIsModalOpen(false)}
-                  className="px-4 py-2 border border-beige rounded-xl"
+                  className="px-4 py-2 border border-beige rounded-xl hover:bg-cream text-xs font-medium transition"
                 >
                   Cancel
                 </button>
                 <button
                   type="submit"
-                  className="bg-forest hover:bg-forest-light text-white font-semibold px-5 py-2 rounded-xl"
+                  className="bg-forest hover:bg-forest-light text-white font-semibold px-5 py-2 rounded-xl transition shadow text-xs"
                 >
                   Save Category
                 </button>
               </div>
             </form>
+
           </div>
         </div>
       )}
