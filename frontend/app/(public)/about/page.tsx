@@ -12,10 +12,10 @@ export default function AboutPage() {
         <div className="relative rounded-3xl overflow-hidden p-8 sm:p-12 lg:p-16 text-center max-w-4xl mx-auto space-y-4 border border-beige/80 shadow-card bg-white/80 backdrop-blur-md">
           <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
             <Image
-              src="/images/himalayan-mountains-origin-bg.jpg"
+              src="/images/himalayan-valley-origin-theme.jpg"
               alt="Himalayan Mountain Range Solan Himachal Pradesh"
               fill
-              className="object-cover object-[center_30%] opacity-25 filter contrast-125"
+              className="object-cover object-[center_35%] opacity-35 filter contrast-110 saturate-110"
             />
             <div className="absolute inset-0 bg-gradient-to-b from-cream/85 via-cream/70 to-cream/90" />
             

@@ -320,8 +320,19 @@ export default async function HomePage() {
         </div>
       </section>
 
-      {/* 7. WHY CHOOSE SUYASH FOOD INDUSTRIES (4 Pillars) */}
-      <section className="bg-white/40 backdrop-blur-sm py-16 sm:py-20 border-y border-beige/60 relative overflow-hidden">
+      {/* 7. WHY CHOOSE SUYASH FOOD INDUSTRIES (4 Pillars with Himalayan Forest Trail Origin Theme) */}
+      <section className="relative py-16 sm:py-20 border-y border-beige/60 overflow-hidden">
+        {/* Authentic Himalayan Forest Trail & Ancient Tree Backdrop */}
+        <div className="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+          <Image
+            src="/images/himalayan-forest-trail-theme.jpg"
+            alt="Authentic Himalayan Forest Trail Solan Himachal Pradesh Origin"
+            fill
+            className="object-cover object-[center_40%] opacity-[0.22] filter saturate-110 contrast-105"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#F7F5EE]/75 via-[#F7F5EE]/50 to-[#F7F5EE]/80" />
+        </div>
+
         {/* Subtle Mountain Contour Backdrop */}
         <div className="absolute inset-x-0 bottom-0 pointer-events-none opacity-[0.035] flex items-end overflow-hidden z-0">
           <svg

@@ -12,17 +12,17 @@ export default function PublicLayout({
 }) {
   return (
     <div className="flex flex-col min-h-screen relative bg-[#F7F5EE] overflow-x-hidden selection:bg-forest selection:text-white">
-      {/* Full Website Scenic Painted Himalayan Mountain & Meadow Theme Background */}
+      {/* Full Website Authentic Himalayan Mountain Origin Background Theme */}
       <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
         <Image
-          src="/images/himalayan-meadow-mountain-theme.jpg"
-          alt="Himalayan Mountain Meadow Theme"
+          src="/images/himalayan-valley-origin-theme.jpg"
+          alt="Authentic Himalayan Mountain Origin Solan Himachal Pradesh"
           fill
-          className="object-cover object-top opacity-55 filter saturate-115 contrast-105"
+          className="object-cover object-[center_35%] scale-[1.02] opacity-[0.38] filter saturate-110 contrast-105"
           priority
         />
-        {/* Soft atmospheric daylight & ivory mist gradient overlay */}
-        <div className="absolute inset-0 bg-gradient-to-b from-[#F7F5EE]/35 via-[#F7F5EE]/20 to-[#F7F5EE]/45" />
+        {/* Soft atmospheric daylight & ivory mist gradient overlay for pristine text contrast */}
+        <div className="absolute inset-0 bg-gradient-to-b from-[#F7F5EE]/45 via-[#F7F5EE]/25 to-[#F7F5EE]/55" />
       </div>
 
       <div className="relative z-10 flex flex-col min-h-screen">
