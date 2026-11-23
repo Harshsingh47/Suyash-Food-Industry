@@ -176,7 +176,7 @@ export default async function HomePage() {
       </section>
 
       {/* 4. FEATURED PRODUCTS SHOWCASE */}
-      <section className="bg-white/40 backdrop-blur-sm py-16 border-y border-beige/60">
+      <section className="bg-white/20 backdrop-blur-[2px] py-16 border-y border-beige/40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-2xl mx-auto mb-12 space-y-2">
             <span className="text-xs font-bold uppercase tracking-widest text-gold-dark">

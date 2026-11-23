@@ -18,11 +18,11 @@ export default function PublicLayout({
           src="/images/himalayan-valley-origin-theme.jpg"
           alt="Authentic Himalayan Mountain Origin Solan Himachal Pradesh"
           fill
-          className="object-cover object-[center_35%] scale-[1.02] opacity-[0.38] filter saturate-110 contrast-105"
+          className="object-cover object-[center_35%] scale-[1.02] opacity-[0.75] filter saturate-125 contrast-110"
           priority
         />
-        {/* Soft atmospheric daylight & ivory mist gradient overlay for pristine text contrast */}
-        <div className="absolute inset-0 bg-gradient-to-b from-[#F7F5EE]/45 via-[#F7F5EE]/25 to-[#F7F5EE]/55" />
+        {/* Subtle daylight mist gradient overlay so the mountain theme is vividly visible */}
+        <div className="absolute inset-0 bg-gradient-to-b from-white/20 via-transparent to-[#F7F5EE]/30" />
       </div>
 
       <div className="relative z-10 flex flex-col min-h-screen">
