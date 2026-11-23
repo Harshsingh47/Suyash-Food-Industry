@@ -91,8 +91,8 @@ export default function ContactPage() {
                     <MapPin className="w-4 h-4" />
                   </div>
                   <div>
-                    <span className="font-bold text-forest block mb-0.5">Physical Facility</span>
-                    <span>Near Regional Hospital, Solan, Himachal Pradesh, INDIA</span>
+                    <span className="font-bold text-forest block mb-0.5">Store & Facility Address</span>
+                    <span>Aakanksha Building, Shop-1, Near Regional Hospital, Opposite HP Gas Office, Solan, Himachal Pradesh – 173212</span>
                   </div>
                 </div>
 

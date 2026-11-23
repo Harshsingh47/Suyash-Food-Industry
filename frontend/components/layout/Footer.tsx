@@ -119,11 +119,12 @@ export default function Footer() {
             <h5 className="text-xs font-bold uppercase tracking-wider text-gold mb-4">Quick Links</h5>
             <ul className="space-y-2 text-xs text-cream/80">
               <li><Link href="/shop" className="hover:text-gold transition">Shop Catalogue</Link></li>
-              <li><Link href="/about" className="hover:text-gold transition">About Our Sourcing</Link></li>
+              <li><Link href="/about" className="hover:text-gold transition">About Our Sourcing (परंपरा)</Link></li>
               <li><Link href="/enquiry" className="hover:text-gold transition">My Enquiry List</Link></li>
               <li><Link href="/blog" className="hover:text-gold transition">Himalayan Recipes & Blog</Link></li>
               <li><Link href="/contact" className="hover:text-gold transition">Contact & Wholesale</Link></li>
               <li><Link href="/privacy-policy" className="hover:text-gold transition">Privacy Policy</Link></li>
+              <li><Link href="/return-policy" className="hover:text-gold transition">Return & Refund Policy</Link></li>
               <li><Link href="/admin/login" className="hover:text-gold transition text-cream/50">Staff / Admin Login</Link></li>
             </ul>
           </div>
@@ -134,11 +135,11 @@ export default function Footer() {
             <div className="space-y-3 text-xs text-cream/80">
               <div className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-gold flex-shrink-0 mt-0.5" />
-                <span>Near Regional Hospital, Solan, Himachal Pradesh, INDIA</span>
+                <span>Aakanksha Building, Shop-1, Near Regional Hospital, Opposite HP Gas Office, Solan, Himachal Pradesh – 173212</span>
               </div>
               <div className="flex items-center gap-2.5">
                 <Phone className="w-4 h-4 text-gold flex-shrink-0" />
-                <a href="tel:+919805565679" className="hover:text-gold transition">+91 98055 65679</a>
+                <a href="tel:+919805565679" className="hover:text-gold transition">+91 98055-65679</a>
               </div>
               <div className="flex items-center gap-2.5">
                 <Mail className="w-4 h-4 text-gold flex-shrink-0" />
@@ -152,10 +153,12 @@ export default function Footer() {
         {/* Bottom Strip */}
         <div className="pt-8 mt-4 border-t border-forest-light/40 flex flex-col sm:flex-row items-center justify-between text-xs text-cream/60 gap-4">
           <div>
-            © {currentYear} Suyash Food Industries. All Rights Reserved. Solan, Himachal Pradesh.
+            © {currentYear} Suyash Food Industries (Suyash Organics). All Rights Reserved. Solan, HP.
           </div>
-          <div className="flex items-center gap-6">
+          <div className="flex flex-wrap items-center gap-4 sm:gap-6">
+            <Link href="/about" className="hover:text-cream transition">Our Sourcing</Link>
             <Link href="/privacy-policy" className="hover:text-cream transition">Privacy Policy</Link>
+            <Link href="/return-policy" className="hover:text-cream transition">Return & Refund Policy</Link>
             <Link href="/shop" className="hover:text-cream transition">All Products</Link>
             <Link href="/contact" className="hover:text-cream transition">Contact</Link>
           </div>

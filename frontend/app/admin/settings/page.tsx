@@ -10,7 +10,7 @@ export default function AdminSettingsPage() {
     whatsapp_number: '+919805565679',
     contact_phone: '+91 98055 65679',
     contact_email: 'suyashfoodindustries@gmail.com',
-    business_address: 'Near Regional Hospital, Solan, Himachal Pradesh, INDIA',
+    business_address: 'Aakanksha Building, Shop-1, Near Regional Hospital, Opposite HP Gas Office, Solan, Himachal Pradesh – 173212',
     announcement_text: '🌿 Authentic Himalayan Produce from Solan, HP • Direct Farm Sourcing • Enquire on WhatsApp for Retail & Wholesale',
     working_hours: 'Monday – Saturday: 9:00 AM – 7:00 PM IST',
     google_map_embed: 'https://maps.google.com/?q=Solan+Himachal+Pradesh',

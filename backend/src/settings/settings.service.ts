@@ -16,7 +16,7 @@ export class SettingsService {
     if (!config.whatsapp_number) config.whatsapp_number = '+919805565679';
     if (!config.contact_phone) config.contact_phone = '+91 98055 65679';
     if (!config.contact_email) config.contact_email = 'suyashfoodindustries@gmail.com';
-    if (!config.business_address) config.business_address = 'Near Regional Hospital, Solan, Himachal Pradesh, INDIA';
+    if (!config.business_address) config.business_address = 'Aakanksha Building, Shop-1, Near Regional Hospital, Opposite HP Gas Office, Solan, Himachal Pradesh – 173212';
     if (!config.announcement_text) config.announcement_text = '🌿 Authentic Himalayan Produce from Solan, HP • Direct Farm Sourcing • Enquire on WhatsApp for Retail & Wholesale';
 
     return config;

@@ -679,7 +679,7 @@ async function main() {
     { key: 'whatsapp_number', value: '+919805565679', description: 'Business WhatsApp Click-to-Chat number' },
     { key: 'contact_phone', value: '+91 98055 65679', description: 'Primary business telephone number' },
     { key: 'contact_email', value: 'suyashfoodindustries@gmail.com', description: 'Business email address' },
-    { key: 'business_address', value: 'Near Regional Hospital, Solan, Himachal Pradesh, INDIA', description: 'Headquarters physical address' },
+    { key: 'business_address', value: 'Aakanksha Building, Shop-1, Near Regional Hospital, Opposite HP Gas Office, Solan, Himachal Pradesh – 173212', description: 'Headquarters physical address' },
     { key: 'announcement_text', value: '🌿 Authentic Himalayan Produce from Solan, HP • Direct Farm Sourcing • Enquire on WhatsApp for Retail & Wholesale', description: 'Header announcement bar notification' },
     { key: 'instagram_url', value: 'https://www.instagram.com/suyashfoodindustries', description: 'Official Instagram profile' },
     { key: 'facebook_url', value: 'https://www.facebook.com/suyashfoodindustries', description: 'Official Facebook page' },

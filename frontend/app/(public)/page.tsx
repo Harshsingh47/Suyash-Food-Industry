@@ -390,7 +390,7 @@ export default async function HomePage() {
               </div>
               <h3 className="font-serif font-bold text-lg text-forest mb-2">Doorstep Freshness</h3>
               <p className="text-xs text-charcoal/70 leading-relaxed">
-                Packaged securely at our facility near Regional Hospital, Solan, ensuring pantry-ready freshness.
+                Packaged securely at our facility in Solan (Aakanksha Building), ensuring pantry-ready freshness.
               </p>
             </div>
 
