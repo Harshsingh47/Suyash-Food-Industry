@@ -18,6 +18,8 @@ import {
 import ProductDetailClient from './ProductDetailClient';
 import { fetchApi } from '@/lib/api';
 
+export const revalidate = 120;
+
 interface ProductPageProps {
   params: Promise<{ slug: string }>;
 }

@@ -21,7 +21,7 @@ import ProductCard from '@/components/product/ProductCard';
 import HeroCarousel from '@/components/hero/HeroCarousel';
 import { fetchApi } from '@/lib/api';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 120;
 
 async function getHomeData() {
   try {
@@ -588,7 +588,7 @@ export default async function HomePage() {
                 {/* Visual Imagery of Products */}
                 <div className="relative my-4 rounded-2xl overflow-hidden border border-white/25 shadow-2xl group aspect-[4/3] bg-emerald-950/60">
                   <Image
-                    src="/images/wholesale-showcase-b2b.jpg"
+                    src="/images/wholesale-showcase-b2b.webp"
                     alt="Suyash Food Industries Wholesale Himalayan Produce Showcase"
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-700"

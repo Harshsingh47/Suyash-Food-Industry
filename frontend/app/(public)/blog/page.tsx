@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { Mountain, Clock, User, ArrowRight, Sparkles } from 'lucide-react';
 import { fetchApi } from '@/lib/api';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 300;
 
 const defaultArticles = [
   {

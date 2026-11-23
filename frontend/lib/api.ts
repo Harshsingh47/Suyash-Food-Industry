@@ -17,23 +17,32 @@ export async function fetchApi<T = any>(endpoint: string, options: RequestInit =
     }
   }
 
+  const isMutationOrAuth =
+    Boolean(options.method && options.method.toUpperCase() !== 'GET') ||
+    Boolean(headers['Authorization']);
+
+  const fetchOptions: RequestInit = {
+    ...options,
+    headers,
+  };
+
+  if (options.cache) {
+    fetchOptions.cache = options.cache;
+  } else if (isMutationOrAuth) {
+    fetchOptions.cache = 'no-store';
+  } else if (!(options as any)?.next) {
+    (fetchOptions as any).next = { revalidate: 120 };
+  }
+
   try {
     let res: Response;
     try {
-      res = await fetch(url, {
-        ...options,
-        headers,
-        cache: options.cache || 'no-store',
-      });
+      res = await fetch(url, fetchOptions);
     } catch (netErr: any) {
       // If fetching localhost failed in Node.js SSR (e.g. IPv6 vs IPv4 loopback mismatch on Windows), retry on 127.0.0.1
       if (url.includes('localhost') && typeof window === 'undefined') {
         const fallbackUrl = url.replace('localhost', '127.0.0.1');
-        res = await fetch(fallbackUrl, {
-          ...options,
-          headers,
-          cache: options.cache || 'no-store',
-        });
+        res = await fetch(fallbackUrl, fetchOptions);
       } else {
         throw netErr;
       }

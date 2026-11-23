@@ -15,9 +15,10 @@ export default function PublicLayout({
       {/* Full Website Authentic Himalayan Mountain Origin Background Theme */}
       <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
         <Image
-          src="/images/himalayan-valley-origin-theme.jpg"
+          src="/images/himalayan-valley-origin-theme.webp"
           alt="Authentic Himalayan Mountain Origin Solan Himachal Pradesh"
           fill
+          sizes="100vw"
           className="object-cover object-[center_35%] scale-[1.02] opacity-[0.75] filter saturate-125 contrast-110"
           priority
         />

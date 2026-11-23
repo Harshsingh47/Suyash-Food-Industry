@@ -6,7 +6,7 @@ import { Mountain, Sparkles, ArrowRight } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
 import { fetchApi } from '@/lib/api';
 
-export const dynamic = 'force-dynamic';
+export const revalidate = 120;
 
 interface CategoryPageProps {
   params: Promise<{ slug: string }>;
