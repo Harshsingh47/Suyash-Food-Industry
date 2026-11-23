@@ -37,7 +37,15 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   }, [isLoading, isAuthenticated, isLoginPage, router]);
 
   if (isLoginPage) {
-    return <>{children}</>;
+    return (
+      <>
+        <head>
+          <meta name="robots" content="noindex, nofollow" />
+          <title>Admin Login | Suyash Food Industries</title>
+        </head>
+        {children}
+      </>
+    );
   }
 
   if (isLoading) {
@@ -64,6 +72,9 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
 
   return (
     <div className="min-h-screen bg-[#F4F6F4] flex flex-col md:flex-row font-sans">
+      <head>
+        <meta name="robots" content="noindex, nofollow" />
+      </head>
       
       {/* Sidebar */}
       <aside className="w-full md:w-64 bg-deep-green text-cream flex flex-col justify-between border-r border-forest">

@@ -1,4 +1,5 @@
 import React from 'react';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { 
@@ -8,20 +9,37 @@ import {
   CheckCircle2, 
   ShieldCheck, 
   MessageCircle, 
-  Star,
-  Quote,
-  ShoppingBag,
-  HeartHandshake,
-  Sprout,
-  Phone,
-  Truck,
-  Package
+  Star, 
+  Quote, 
+  ShoppingBag, 
+  HeartHandshake, 
+  Sprout, 
+  Phone, 
+  Truck, 
+  Package 
 } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
 import HeroCarousel from '@/components/hero/HeroCarousel';
 import { fetchApi } from '@/lib/api';
+import { SITE_URL, buildOrganizationSchema, buildWebSiteSchema } from '@/lib/seo';
 
 export const revalidate = 120;
+
+export const metadata: Metadata = {
+  title: 'Suyash Food Industries | Pure Himalayan Organic Produce, Apricot Oils & Desi Ghee',
+  description:
+    'Authentic Himalayan red rice, cold-pressed wild apricot oils, Vedic bilona cow ghee, and sun-dried organic staples sourced directly from Solan, Himachal Pradesh. Order via WhatsApp.',
+  alternates: {
+    canonical: SITE_URL,
+  },
+  openGraph: {
+    title: 'Suyash Food Industries | Authentic Himalayan Organic Produce & Oils',
+    description:
+      'Farm-direct Himalayan produce, unrefined grains, and traditional stone-pressed oils from Solan, HP.',
+    url: SITE_URL,
+    type: 'website',
+  },
+};
 
 async function getHomeData() {
   try {
@@ -67,8 +85,20 @@ export default async function HomePage() {
   const featuredProducts = products.filter((p: any) => p.isFeatured).slice(0, 6);
   const bestSellers = products.filter((p: any) => p.isBestSeller).slice(0, 6);
 
+  const orgSchema = buildOrganizationSchema();
+  const websiteSchema = buildWebSiteSchema();
+
   return (
     <div className="space-y-12 sm:space-y-20">
+      {/* Search Engine Structured Data (JSON-LD) */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(orgSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+      />
       
       {/* 1. HERO CAROUSEL SECTION */}
       <HeroCarousel />

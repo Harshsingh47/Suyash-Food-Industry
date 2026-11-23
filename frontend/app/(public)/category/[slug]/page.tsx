@@ -1,10 +1,11 @@
 import React from 'react';
+import type { Metadata } from 'next';
 import Link from 'next/link';
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { Mountain, Sparkles, ArrowRight } from 'lucide-react';
+import { Mountain } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
 import { fetchApi } from '@/lib/api';
+import { SITE_URL, buildBreadcrumbSchema } from '@/lib/seo';
 
 export const revalidate = 120;
 
@@ -21,6 +22,55 @@ async function getCategory(slug: string) {
   }
 }
 
+export async function generateMetadata({ params }: CategoryPageProps): Promise<Metadata> {
+  const { slug } = await params;
+  const category = await getCategory(slug);
+
+  if (!category) {
+    return {
+      title: 'Category Not Found | Suyash Food Industries',
+      description: 'The requested product collection could not be located.',
+      robots: { index: false, follow: true },
+    };
+  }
+
+  const title = category.seoTitle || `${category.name} — Authentic Himalayan Produce`;
+  const description =
+    category.seoDescription ||
+    category.description ||
+    `Explore authentic ${category.name} from Suyash Food Industries, Solan, Himachal Pradesh. 100% natural, farm-direct Himalayan staples and specialty items.`;
+
+  const canonicalUrl = `${SITE_URL}/category/${category.slug}`;
+
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: canonicalUrl,
+    },
+    openGraph: {
+      title: `${category.name} | Suyash Food Industries`,
+      description,
+      url: canonicalUrl,
+      type: 'website',
+      siteName: 'Suyash Food Industries',
+      images: [
+        {
+          url: category.imageUrl?.startsWith('http')
+            ? category.imageUrl
+            : `${SITE_URL}${category.imageUrl?.startsWith('/') ? category.imageUrl : `/${category.imageUrl || 'images/wholesale-showcase-b2b.webp'}`}`,
+          alt: category.name,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${category.name} | Suyash Food Industries`,
+      description,
+    },
+  };
+}
+
 export default async function CategoryPage({ params }: CategoryPageProps) {
   const { slug } = await params;
   const category = await getCategory(slug);
@@ -30,18 +80,54 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   }
 
   const products = category.products || [];
+  const categoryUrl = `${SITE_URL}/category/${category.slug}`;
+
+  const breadcrumbItems = [
+    { name: 'Home', path: '/' },
+    { name: 'Shop', path: '/shop' },
+    { name: category.name, path: `/category/${category.slug}` },
+  ];
+  const breadcrumbSchema = buildBreadcrumbSchema(breadcrumbItems);
+
+  const collectionSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    '@id': `${categoryUrl}#collection`,
+    name: category.name,
+    description: category.description || `Himalayan collection of ${category.name}`,
+    url: categoryUrl,
+    mainEntity: {
+      '@type': 'ItemList',
+      itemListElement: products.map((p: any, idx: number) => ({
+        '@type': 'ListItem',
+        position: idx + 1,
+        url: `${SITE_URL}/product/${p.slug}`,
+        name: p.name,
+      })),
+    },
+  };
 
   return (
     <div className="bg-cream/20 min-h-screen py-10 sm:py-14">
+      {/* Schema Structured Data */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
+      />
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Breadcrumb */}
-        <nav className="flex items-center gap-2 text-xs text-charcoal/60 mb-6">
+        <nav aria-label="Breadcrumb" className="flex items-center gap-2 text-xs text-charcoal/60 mb-6">
           <Link href="/" className="hover:text-forest transition">Home</Link>
-          <span>/</span>
+          <span aria-hidden="true">/</span>
           <Link href="/shop" className="hover:text-forest transition">Shop</Link>
-          <span>/</span>
-          <span className="text-forest font-semibold">{category.name}</span>
+          <span aria-hidden="true">/</span>
+          <span className="text-forest font-semibold" aria-current="page">{category.name}</span>
         </nav>
 
         {/* Category Hero Banner */}

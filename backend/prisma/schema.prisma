@@ -61,6 +61,8 @@ model Category {
   imageUrl    String?
   order       Int            @default(0)
   isActive    Boolean        @default(true)
+  seoTitle    String?
+  seoDescription String?
   createdAt   DateTime       @default(now())
   updatedAt   DateTime       @updatedAt
 
@@ -98,6 +100,10 @@ model Product {
   ingredients         String?
   benefits            String?
   storageInstructions String?
+  seoTitle            String?
+  seoDescription      String?
+  metaKeywords        String?
+  canonicalUrl        String?
   regularPrice        Float
   salePrice           Float?
   showPrice           Boolean        @default(true)

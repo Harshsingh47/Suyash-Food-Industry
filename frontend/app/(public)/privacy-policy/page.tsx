@@ -17,9 +17,14 @@ import {
   ArrowRight
 } from 'lucide-react';
 
+import { SITE_URL } from '@/lib/seo';
+
 export const metadata = {
   title: 'Privacy Policy & Terms | Suyash Food Industries (Suyash Organics)',
   description: 'Official Privacy Policy, Data Protection, Terms, and Return/Refund guidelines for Suyash Food Industries. Solan, Himachal Pradesh.',
+  alternates: {
+    canonical: `${SITE_URL}/privacy-policy`,
+  },
 };
 
 export default function PrivacyPolicyPage() {

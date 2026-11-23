@@ -19,14 +19,37 @@ import {
   Scale
 } from 'lucide-react';
 
+import { SITE_URL, buildBreadcrumbSchema } from '@/lib/seo';
+
 export const metadata = {
   title: 'About Our Sourcing & Tradition (हमारी सोर्सिंग और परंपरा) | Suyash Food Industries',
-  description: 'Pure and authentic Himalayan sourcing from Kinnaur, Solan, and Sirmaur. Traditional craftsmanship, gharat watermill grinding, zero refined sugar, and rural women empowerment.',
+  description:
+    'Pure and authentic Himalayan sourcing from Kinnaur, Solan, and Sirmaur. Traditional craftsmanship, gharat watermill grinding, zero refined sugar, and rural women empowerment.',
+  alternates: {
+    canonical: `${SITE_URL}/about`,
+  },
+  openGraph: {
+    title: 'About Our Sourcing & Tradition | Suyash Food Industries',
+    description:
+      'Direct sourcing from high-altitude Kinnaur & Solan farms. Traditional Himachali craftsmanship with zero chemical refining.',
+    url: `${SITE_URL}/about`,
+    type: 'website',
+    siteName: 'Suyash Food Industries',
+  },
 };
 
 export default function AboutPage() {
+  const breadcrumbSchema = buildBreadcrumbSchema([
+    { name: 'Home', path: '/' },
+    { name: 'About Our Sourcing', path: '/about' },
+  ]);
+
   return (
     <div className="min-h-screen py-10 sm:py-16 space-y-16">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-14">
         
         {/* 1. HERO SECTION WITH AUTHENTIC HIMALAYAN ORIGIN THEME */}

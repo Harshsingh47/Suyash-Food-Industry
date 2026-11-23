@@ -1,10 +1,29 @@
 import React from 'react';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { Mountain, Clock, User, ArrowRight, Sparkles } from 'lucide-react';
 import { fetchApi } from '@/lib/api';
+import { SITE_URL, buildBreadcrumbSchema, buildArticleSchema } from '@/lib/seo';
 
 export const revalidate = 300;
+
+export const metadata: Metadata = {
+  title: 'Mountain Recipes & Himalayan Wellness Blog | Suyash Food Industries',
+  description:
+    'Discover Himalayan recipes, wild apricot oil beauty and joint-relief benefits, Vedic bilona cow ghee traditions, and authentic nutrition wisdom from Solan, HP.',
+  alternates: {
+    canonical: `${SITE_URL}/blog`,
+  },
+  openGraph: {
+    title: 'Himalayan Wellness & Recipe Blog | Suyash Food Industries',
+    description:
+      'Guides on cold-pressed Chulli oil, unpolished red rice, and mountain herbs from Solan, HP.',
+    url: `${SITE_URL}/blog`,
+    type: 'website',
+    siteName: 'Suyash Food Industries',
+  },
+};
 
 const defaultArticles = [
   {
@@ -50,8 +69,26 @@ export default async function BlogPage() {
     // Fallback to verified default articles
   }
 
+  const breadcrumbSchema = buildBreadcrumbSchema([
+    { name: 'Home', path: '/' },
+    { name: 'Blog & Recipes', path: '/blog' },
+  ]);
+
   return (
     <div className="bg-cream/20 min-h-screen py-12 sm:py-16">
+      {/* Blog & Breadcrumb Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {articles.map((art) => (
+        <script
+          key={art.id || art.slug}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(buildArticleSchema(art)) }}
+        />
+      ))}
+
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
         
         {/* Header */}

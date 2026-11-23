@@ -16,9 +16,14 @@ import {
   PackageCheck
 } from 'lucide-react';
 
+import { SITE_URL } from '@/lib/seo';
+
 export const metadata = {
   title: 'Return, Replacement & Refund Policy | Suyash Food Industries',
   description: 'Our customer hygiene, food safety, return, replacement, and refund policies for authentic Himalayan food products. Solan, Himachal Pradesh.',
+  alternates: {
+    canonical: `${SITE_URL}/return-policy`,
+  },
 };
 
 export default function ReturnPolicyPage() {

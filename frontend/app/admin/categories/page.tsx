@@ -18,6 +18,8 @@ export default function AdminCategoriesPage() {
     description: '',
     imageUrl: '',
     order: 0,
+    seoTitle: '',
+    seoDescription: '',
   });
 
   const loadCategories = async () => {
@@ -44,6 +46,8 @@ export default function AdminCategoriesPage() {
       description: '',
       imageUrl: '',
       order: categories.length + 1,
+      seoTitle: '',
+      seoDescription: '',
     });
     setIsModalOpen(true);
   };
@@ -56,6 +60,8 @@ export default function AdminCategoriesPage() {
       description: cat.description || '',
       imageUrl: cat.imageUrl || '',
       order: cat.order || 0,
+      seoTitle: cat.seoTitle || '',
+      seoDescription: cat.seoDescription || '',
     });
     setIsModalOpen(true);
   };
@@ -69,6 +75,8 @@ export default function AdminCategoriesPage() {
         description: formData.description,
         imageUrl: formData.imageUrl,
         order: Number(formData.order),
+        seoTitle: formData.seoTitle || undefined,
+        seoDescription: formData.seoDescription || undefined,
       };
 
       if (editingCategory) {
@@ -246,6 +254,30 @@ export default function AdminCategoriesPage() {
                     onChange={(e) => setFormData({ ...formData, description: e.target.value })}
                     className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest"
                   />
+                </div>
+
+                <div className="pt-4 border-t border-beige/80 space-y-3">
+                  <h4 className="font-bold text-xs uppercase tracking-wider text-forest">Category SEO Optimization</h4>
+                  <div>
+                    <label className="font-bold text-xs text-charcoal block mb-1">Custom SEO Title</label>
+                    <input
+                      type="text"
+                      placeholder="e.g. Pure Wild Apricot Oils — Solan Terroir Harvest"
+                      value={formData.seoTitle}
+                      onChange={(e) => setFormData({ ...formData, seoTitle: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs"
+                    />
+                  </div>
+                  <div>
+                    <label className="font-bold text-xs text-charcoal block mb-1">Custom SEO Description</label>
+                    <textarea
+                      rows={2}
+                      placeholder="e.g. Cold-pressed from wild Himachal kernels. 100% natural, unrefined, and chemical-free."
+                      value={formData.seoDescription}
+                      onChange={(e) => setFormData({ ...formData, seoDescription: e.target.value })}
+                      className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs"
+                    />
+                  </div>
                 </div>
               </div>
 

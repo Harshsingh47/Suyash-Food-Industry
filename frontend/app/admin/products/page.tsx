@@ -47,6 +47,10 @@ export default function AdminProductsPage() {
     stockQuantity: 100,
     isFeatured: false,
     isBestSeller: false,
+    seoTitle: '',
+    seoDescription: '',
+    metaKeywords: '',
+    canonicalUrl: '',
   });
 
   const loadData = async () => {
@@ -91,6 +95,10 @@ export default function AdminProductsPage() {
       stockQuantity: 100,
       isFeatured: false,
       isBestSeller: false,
+      seoTitle: '',
+      seoDescription: '',
+      metaKeywords: '',
+      canonicalUrl: '',
     });
     setIsModalOpen(true);
   };
@@ -115,6 +123,10 @@ export default function AdminProductsPage() {
       stockQuantity: p.stockQuantity || 100,
       isFeatured: p.isFeatured || false,
       isBestSeller: p.isBestSeller || false,
+      seoTitle: p.seoTitle || '',
+      seoDescription: p.seoDescription || '',
+      metaKeywords: p.metaKeywords || '',
+      canonicalUrl: p.canonicalUrl || '',
     });
     setIsModalOpen(true);
   };
@@ -138,6 +150,10 @@ export default function AdminProductsPage() {
         stockQuantity: Number(formData.stockQuantity),
         isFeatured: Boolean(formData.isFeatured),
         isBestSeller: Boolean(formData.isBestSeller),
+        seoTitle: formData.seoTitle || undefined,
+        seoDescription: formData.seoDescription || undefined,
+        metaKeywords: formData.metaKeywords || undefined,
+        canonicalUrl: formData.canonicalUrl || undefined,
         images: formData.imageUrl ? [{ url: formData.imageUrl }] : [],
         variations: formData.weight
           ? [{ name: formData.weight, weight: formData.weight, regularPrice: Number(formData.regularPrice), salePrice: formData.salePrice ? Number(formData.salePrice) : null }]
@@ -505,6 +521,92 @@ export default function AdminProductsPage() {
                     />
                     <span>Mark as Best Seller</span>
                   </label>
+                </div>
+
+                {/* Search Engine Optimization (SEO) & Google SERP Preview */}
+                <div className="pt-6 border-t border-beige/80 space-y-4">
+                  <div className="flex items-center justify-between">
+                    <div>
+                      <h4 className="font-serif font-bold text-forest text-base flex items-center gap-2">
+                        <span>Search Engine Optimization (SEO)</span>
+                        <span className="text-[10px] bg-emerald-100 text-forest font-bold px-2 py-0.5 rounded-full">Google SERP Preview</span>
+                      </h4>
+                      <p className="text-xs text-charcoal/60 mt-0.5">
+                        Customize how this product appears in Google search results and social shares.
+                      </p>
+                    </div>
+                  </div>
+
+                  {/* Google SERP Live Simulator Box */}
+                  <div className="bg-stone-50/70 p-4 rounded-2xl border border-stone-200 shadow-xs space-y-1 font-sans">
+                    <div className="text-[11px] text-stone-500 font-mono truncate">
+                      https://suyashfoodindustries.in &gt; product &gt; <span className="text-stone-700">{formData.slug || (formData.name ? formData.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') : 'product-slug')}</span>
+                    </div>
+                    <div className="text-blue-800 hover:underline text-base font-medium leading-tight cursor-pointer">
+                      {formData.seoTitle || (formData.name ? `${formData.name} — Authentic Himalayan Produce` : 'Product Name — Suyash Food Industries')}
+                    </div>
+                    <div className="text-xs text-stone-600 line-clamp-2 leading-relaxed pt-0.5">
+                      {formData.seoDescription || formData.shortDescription || 'Buy 100% natural and authentic Himalayan produce from Solan, Himachal Pradesh. Direct farm sourcing and fast WhatsApp enquiry.'}
+                    </div>
+                  </div>
+
+                  {/* SEO Form Inputs */}
+                  <div className="space-y-3 pt-1">
+                    <div>
+                      <div className="flex justify-between items-center mb-1">
+                        <label className="font-bold text-xs text-charcoal">SEO Meta Title</label>
+                        <span className={`text-[10px] font-mono ${formData.seoTitle.length > 60 ? 'text-amber-600 font-bold' : 'text-charcoal/50'}`}>
+                          {formData.seoTitle.length}/60 chars (Recommended: 50-60)
+                        </span>
+                      </div>
+                      <input
+                        type="text"
+                        placeholder="e.g. Pure Wild Apricot Oil (Chulli) — Cold-Pressed | Solan HP"
+                        value={formData.seoTitle}
+                        onChange={(e) => setFormData({ ...formData, seoTitle: e.target.value })}
+                        className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs"
+                      />
+                    </div>
+
+                    <div>
+                      <div className="flex justify-between items-center mb-1">
+                        <label className="font-bold text-xs text-charcoal">SEO Meta Description</label>
+                        <span className={`text-[10px] font-mono ${formData.seoDescription.length > 160 ? 'text-amber-600 font-bold' : 'text-charcoal/50'}`}>
+                          {formData.seoDescription.length}/160 chars (Recommended: 120-155)
+                        </span>
+                      </div>
+                      <textarea
+                        rows={2}
+                        placeholder="e.g. Cold-pressed from wild high-altitude apricot kernels in Kinnaur & Solan. Zero refining or heat. Order genuine Chulli oil online via WhatsApp."
+                        value={formData.seoDescription}
+                        onChange={(e) => setFormData({ ...formData, seoDescription: e.target.value })}
+                        className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs"
+                      />
+                    </div>
+
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                      <div>
+                        <label className="font-bold text-xs text-charcoal block mb-1">Meta Keywords</label>
+                        <input
+                          type="text"
+                          placeholder="e.g. apricot oil, chulli oil, solan himachal, cold pressed"
+                          value={formData.metaKeywords}
+                          onChange={(e) => setFormData({ ...formData, metaKeywords: e.target.value })}
+                          className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs"
+                        />
+                      </div>
+                      <div>
+                        <label className="font-bold text-xs text-charcoal block mb-1">Custom Canonical URL (Optional)</label>
+                        <input
+                          type="text"
+                          placeholder="Leave blank to use default URL"
+                          value={formData.canonicalUrl}
+                          onChange={(e) => setFormData({ ...formData, canonicalUrl: e.target.value })}
+                          className="w-full p-2.5 rounded-xl border border-beige focus:outline-none focus:border-forest text-xs font-mono"
+                        />
+                      </div>
+                    </div>
+                  </div>
                 </div>
 
               </div>
