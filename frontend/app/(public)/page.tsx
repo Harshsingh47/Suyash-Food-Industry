@@ -19,6 +19,7 @@ import {
   Package 
 } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
+import ComboSection from '@/components/product/ComboSection';
 import HeroCarousel from '@/components/hero/HeroCarousel';
 import { fetchApi } from '@/lib/api';
 import { SITE_URL, buildOrganizationSchema, buildWebSiteSchema } from '@/lib/seo';
@@ -43,7 +44,7 @@ export const metadata: Metadata = {
 
 async function getHomeData() {
   try {
-    const [productsRes, categoriesRes, bannersRes, testimonialsRes] = await Promise.all([
+    const [productsRes, categoriesRes, bannersRes, testimonialsRes, combosRes] = await Promise.all([
       fetchApi('/products?limit=24').catch((e) => {
         console.warn('Could not fetch products:', e?.message || e);
         return { data: [] };
@@ -60,6 +61,10 @@ async function getHomeData() {
         console.warn('Could not fetch testimonials:', e?.message || e);
         return [];
       }),
+      fetchApi('/offers/combos').catch((e) => {
+        console.warn('Could not fetch combos:', e?.message || e);
+        return [];
+      }),
     ]);
 
     return {
@@ -67,6 +72,7 @@ async function getHomeData() {
       categories: categoriesRes || [],
       banners: bannersRes || [],
       testimonials: testimonialsRes || [],
+      combos: Array.isArray(combosRes) ? combosRes : [],
     };
   } catch (err) {
     console.error('Error fetching home data:', err);
@@ -75,12 +81,13 @@ async function getHomeData() {
       categories: [],
       banners: [],
       testimonials: [],
+      combos: [],
     };
   }
 }
 
 export default async function HomePage() {
-  const { products, categories, banners, testimonials } = await getHomeData();
+  const { products, categories, banners, testimonials, combos } = await getHomeData();
 
   const featuredProducts = products.filter((p: any) => p.isFeatured).slice(0, 6);
   const bestSellers = products.filter((p: any) => p.isBestSeller).slice(0, 6);
@@ -204,6 +211,11 @@ export default async function HomePage() {
           ))}
         </div>
       </section>
+
+      {/* 3.5. SPECIAL HIMALAYAN COMBO OFFERS & BUNDLES */}
+      {combos && combos.length > 0 && (
+        <ComboSection combos={combos} viewAllLink />
+      )}
 
       {/* 4. FEATURED PRODUCTS SHOWCASE */}
       <section className="bg-white/20 backdrop-blur-[2px] py-16 border-y border-beige/40">

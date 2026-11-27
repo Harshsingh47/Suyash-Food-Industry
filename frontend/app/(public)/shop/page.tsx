@@ -12,6 +12,7 @@ import {
   Sparkles
 } from 'lucide-react';
 import ProductCard from '@/components/product/ProductCard';
+import ComboCard from '@/components/product/ComboCard';
 import QuickViewModal from '@/components/product/QuickViewModal';
 import { fetchApi } from '@/lib/api';
 
@@ -19,6 +20,7 @@ export default function ShopPage() {
   const [products, setProducts] = useState<any[]>([]);
   const [categories, setCategories] = useState<any[]>([]);
   const [brands, setBrands] = useState<any[]>([]);
+  const [combos, setCombos] = useState<any[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   // Filters state
@@ -35,14 +37,16 @@ export default function ShopPage() {
     async function loadData() {
       setIsLoading(true);
       try {
-        const [prodRes, catRes, brandRes] = await Promise.all([
+        const [prodRes, catRes, brandRes, combosRes] = await Promise.all([
           fetchApi('/products?limit=100'),
           fetchApi('/categories'),
           fetchApi('/brands'),
+          fetchApi('/offers/combos').catch(() => []),
         ]);
         setProducts(prodRes?.data || []);
         setCategories(catRes || []);
         setBrands(brandRes || []);
+        setCombos(Array.isArray(combosRes) ? combosRes : []);
       } catch (err) {
         console.error('Failed to load shop data:', err);
       } finally {
@@ -277,6 +281,32 @@ export default function ShopPage() {
                 </button>
               )}
             </div>
+
+            {/* Featured Combo Bundles on Sale */}
+            {combos.length > 0 && selectedCategory === 'all' && !searchQuery && (
+              <div className="mb-10 bg-forest/5 rounded-3xl p-5 sm:p-6 border border-forest/15 space-y-4">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+                  <div>
+                    <span className="text-[10px] font-bold uppercase tracking-widest text-gold-dark flex items-center gap-1.5">
+                      <Sparkles className="w-3.5 h-3.5 text-forest" />
+                      <span>Value Bundles</span>
+                    </span>
+                    <h3 className="font-serif text-xl sm:text-2xl font-bold text-forest">
+                      Himalayan Combo Offers on Sale
+                    </h3>
+                  </div>
+                  <span className="text-xs text-charcoal/60">
+                    Hand-curated bundles with special discounted pricing
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+                  {combos.map((combo) => (
+                    <ComboCard key={combo.id} combo={combo} />
+                  ))}
+                </div>
+              </div>
+            )}
 
             {/* Loading State */}
             {isLoading ? (

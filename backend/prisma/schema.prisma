@@ -127,6 +127,7 @@ model Product {
   enquiryItems        EnquiryItem[]
   inventoryHistory    InventoryHistory[]
   offers              Offer[]
+  comboItems          ComboOfferItem[]
 
   @@index([slug])
   @@index([sku])
@@ -261,6 +262,43 @@ model Offer {
   targetProduct      Product?  @relation(fields: [targetProductId], references: [id])
   createdAt          DateTime  @default(now())
   updatedAt          DateTime  @updatedAt
+}
+
+model ComboOffer {
+  id                 String           @id @default(uuid())
+  title              String
+  slug               String           @unique
+  description        String?
+  badgeText          String?          @default("SPECIAL COMBO")
+  imageUrl           String?
+  originalPrice      Float
+  salePrice          Float
+  discountPercentage Float?
+  savingsAmount      Float?
+  isActive           Boolean          @default(true)
+  isFeatured         Boolean          @default(false)
+  startDate          DateTime?
+  endDate            DateTime?
+  createdAt          DateTime         @default(now())
+  updatedAt          DateTime         @updatedAt
+
+  items              ComboOfferItem[]
+
+  @@index([isActive, isFeatured])
+  @@index([slug])
+}
+
+model ComboOfferItem {
+  id           String     @id @default(uuid())
+  comboOfferId String
+  comboOffer   ComboOffer @relation(fields: [comboOfferId], references: [id], onDelete: Cascade)
+  productId    String
+  product      Product    @relation(fields: [productId], references: [id], onDelete: Cascade)
+  quantity     Int        @default(1)
+  customNote   String?
+
+  @@index([comboOfferId])
+  @@index([productId])
 }
 
 model Banner {
